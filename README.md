@@ -36,8 +36,8 @@ This project focuses on analyzing customer behavior using decision tree and ense
    - Final summary
 
 ## Steps Documentation
-For data used for the project, refer to the Data Files folder.
-For detailed steps on Talend Preparation and Data Integration, SAS operations, refer to the Documentation for Each Tool folder.
-For code & script used for the project, refer to the Code and Scripts folder.
+   - For data used for the project, refer to the Data Files folder.
+   - For detailed steps on Talend Preparation and Data Integration, SAS operations, refer to the Documentation for Each Tool folder.
+   - For code & script used for the project, refer to the Code and Scripts folder.
 
 ---
