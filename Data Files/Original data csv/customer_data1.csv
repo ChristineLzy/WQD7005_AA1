@@ -1,0 +1,1038 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,Churn
+1,55,Male,Boston,Gold,22,190,Clothing,2023/5/24,Artist,1
+2,,Male,Boston,Bronze,25,280,Books,2023/4/16,Doctor,0
+3,30,Female,San Francisco,Gold,82,3872,Electronics,2023/12/22,Student,1
+4,26,Male,London,Platinum,7,1327,Sports,2023/6/13,Engineer,0
+5,27,Other,San Francisco,Gold,56,762,Toys,2023/8/6,Retired,1
+6,29,Other,San Francisco,Silver,71,3893,Electronics,2023/5/21,Student,0
+7,23,Other,San Francisco,Platinum,13,473,Home Goods,2023/8/28,Salesperson,0
+8,33,Other,Sydney,Silver,59,2685,Home Goods,2023/1/29,Doctor,0
+9,18,Male,San Francisco,Platinum,10,585,Toys,2023/7/1,Salesperson,1
+10,34,Female,London,Bronze,66,167,Books,2023/8/17,Salesperson,1
+11,19,Male,London,Bronze,3,495,Sports,2023/11/4,Artist,1
+12,30,Female,Tokyo,Bronze,44,3382,Electronics,2023/2/21,Other,1
+13,25,Female,Boston,Gold,5,829,Toys,2023/5/25,Salesperson,1
+14,63,Other,Berlin,Silver,6,799,Sports,2023/12/6,Other,1
+15,24,Female,Berlin,Silver,51,1505,Home Goods,2023/10/12,Artist,1
+16,43,Male,Boston,Gold,54,1185,Sports,2023/7/27,Retired,0
+17,68,Male,Tokyo,Gold,89,2120,Home Goods,2023/10/30,Salesperson,0
+18,41,Female,Berlin,Bronze,90,200,Clothing,2023/12/1,Salesperson,0
+19,41,Male,Boston,Silver,27,807,Toys,2023/10/23,Salesperson,0
+20,59,Male,Sydney,Silver,96,1390,Electronics,2023/11/10,Artist,1
+21,67,Other,Berlin,Platinum,12,468,Sports,2023/12/8,Retired,1
+22,48,Male,Sydney,Bronze,43,2901,Home Goods,2023/10/27,Salesperson,1
+23,50,Other,London,Bronze,16,77,Toys,2023/1/2,Student,1
+24,40,Female,Berlin,Gold,75,338,Books,2023/9/13,Doctor,1
+25,31,Male,Tokyo,Bronze,27,326,Books,2023/2/4,Retired,1
+26,59,Male,London,Platinum,,4504,Electronics,2023/8/17,Artist,0
+27,27,Female,Berlin,Platinum,52,854,Toys,2023/10/28,Retired,1
+28,25,Other,London,Platinum,30,1072,Clothing,2023/7/10,Other,1
+29,40,Male,Sydney,Silver,80,3910,Electronics,2023/8/26,Salesperson,0
+30,19,Female,Tokyo,Bronze,73,176,Books,2023/11/17,Doctor,1
+31,18,Other,Berlin,Gold,99,3032,Electronics,2023/2/21,Teacher,1
+32,35,Male,San Francisco,Platinum,31,711,Toys,2023/3/23,Salesperson,1
+33,26,Other,Sydney,Bronze,29,295,Sports,2023/7/17,Engineer,1
+34,42,Other,Boston,Platinum,59,2665,Home Goods,2023/9/18,Retired,1
+35,31,Female,Sydney,Silver,33,1994,Home Goods,2023/4/7,Other,0
+36,69,Other,Berlin,Platinum,4,765,Home Goods,2023/11/14,Teacher,0
+37,65,Other,Boston,Platinum,33,1065,Clothing,2023/5/17,Engineer,1
+38,60,Other,San Francisco,Bronze,39,2755,Electronics,2023/5/14,Doctor,1
+39,26,Female,San Francisco,Gold,28,4789,Electronics,2023/8/15,Teacher,1
+40,48,Male,Berlin,Silver,68,101,Clothing,2023/3/10,Artist,0
+41,25,Other,Sydney,Silver,30,1903,Clothing,2023/10/17,Retired,0
+42,21,Male,London,Silver,58,2767,Home Goods,2023/11/18,Salesperson,1
+43,24,Other,San Francisco,Gold,55,913,Clothing,2023/7/6,Artist,0
+44,39,Other,San Francisco,Gold,67,1536,Home Goods,2023/1/19,Teacher,0
+45,67,Other,London,Silver,56,861,Toys,2023/7/6,Salesperson,0
+46,21,Male,London,Bronze,86,800,Home Goods,2023/4/3,Engineer,0
+47,22,Male,San Francisco,Gold,52,708,Sports,2023/3/7,Engineer,1
+48,42,Other,Sydney,Platinum,,446,Sports,2023/3/13,Retired,0
+49,67,Other,Boston,Platinum,10,826,Clothing,2023/2/21,Other,0
+50,61,Female,Sydney,Gold,54,366,Clothing,2023/8/5,Engineer,0
+51,30,Male,San Francisco,Silver,86,97,Books,2023/3/3,Student,1
+52,44,Male,Tokyo,Silver,14,3766,Electronics,2023/9/6,Other,1
+53,34,Female,Sydney,Bronze,78,292,Toys,2023/12/11,Student,0
+54,63,Female,Boston,Bronze,71,2559,Home Goods,2023/6/28,Teacher,0
+55,69,Male,Boston,Silver,14,3358,Electronics,2023/8/25,Other,0
+56,59,Other,London,Platinum,68,1267,Clothing,2023/1/1,Other,0
+57,36,Other,Boston,Platinum,79,411,Books,2023/8/6,Student,1
+58,33,Female,London,Gold,59,2309,Electronics,2023/3/31,Salesperson,0
+59,18,Other,Tokyo,Bronze,74,3501,Electronics,2023/4/15,Teacher,0
+60,22,Female,Tokyo,Silver,16,101,Toys,2023/3/20,Student,1
+61,43,Female,San Francisco,Bronze,,77,Toys,2023/3/11,Doctor,1
+62,65,Other,Boston,Platinum,19,1820,Clothing,2023/4/15,Engineer,1
+63,,Female,San Francisco,Gold,85,1574,Electronics,2023/4/18,Doctor,0
+64,41,Other,Tokyo,Silver,21,110,Books,2023/10/11,Teacher,1
+65,25,Female,San Francisco,Gold,66,2235,Home Goods,2023/8/16,Teacher,0
+66,44,Male,Berlin,Platinum,8,299,Books,2023/7/25,Retired,0
+67,43,Other,San Francisco,Bronze,54,484,Sports,2023/8/21,Retired,0
+68,58,Female,London,Bronze,9,1496,Clothing,2023/4/14,Student,0
+69,40,Other,Tokyo,Gold,33,410,Books,2023/1/29,Other,1
+70,27,Female,London,Silver,89,473,Books,2023/1/23,Engineer,1
+71,21,Female,Boston,Platinum,51,3961,Electronics,2023/5/3,Artist,1
+72,57,Other,Berlin,Platinum,41,664,Sports,2023/11/4,Teacher,0
+73,41,Male,San Francisco,Platinum,37,1456,Sports,2023/5/8,Engineer,1
+74,54,Female,San Francisco,Platinum,,161,Clothing,2023/12/13,Student,0
+75,45,Other,Berlin,Platinum,4,1723,Clothing,2023/4/5,Artist,0
+76,55,Female,London,Silver,37,2010,Electronics,2023/10/14,Retired,0
+77,37,Other,San Francisco,Platinum,59,1628,Clothing,2023/1/31,Student,0
+78,56,Female,San Francisco,Platinum,49,1314,Clothing,2023/6/14,Student,0
+79,26,Female,Berlin,Gold,,1579,Home Goods,2023/8/4,Engineer,1
+80,50,Male,San Francisco,Platinum,34,1518,Clothing,2023/7/22,Salesperson,1
+81,52,Other,Boston,Bronze,69,520,Clothing,2023/12/19,Engineer,1
+82,28,Female,Boston,Gold,78,324,Clothing,2023/2/10,Other,0
+83,41,Female,Boston,Bronze,,325,Books,2023/11/20,Retired,0
+84,33,Other,Boston,Silver,40,638,Sports,2023/4/6,Student,0
+85,65,Male,Tokyo,Silver,22,2350,Home Goods,2023/7/27,Artist,0
+86,41,Female,San Francisco,Silver,30,67,Toys,2023/2/21,Other,0
+87,43,Male,San Francisco,Gold,76,260,Home Goods,2023/6/30,Salesperson,1
+88,25,Other,Boston,Bronze,43,193,Books,2023/8/13,Teacher,0
+89,69,Female,London,Bronze,50,960,Clothing,2023/11/12,Retired,0
+90,46,Female,Sydney,Gold,6,1418,Clothing,2023/8/28,Engineer,1
+91,28,Male,London,Bronze,70,4984,Electronics,2023/8/7,Retired,0
+92,64,Other,San Francisco,Bronze,,4287,Electronics,2023/11/18,Artist,1
+93,50,Male,Tokyo,Gold,99,3813,Electronics,2023/2/20,Doctor,0
+94,42,Female,Boston,Bronze,97,253,Toys,2023/12/18,Salesperson,0
+95,41,Other,Berlin,Platinum,22,310,Home Goods,2023/10/7,Engineer,0
+96,19,Female,London,Gold,54,805,Home Goods,2023/12/9,Salesperson,1
+97,67,Male,Boston,Bronze,33,597,Electronics,2023/9/1,Teacher,1
+98,31,Female,Berlin,Silver,42,1411,Electronics,2023/11/11,Engineer,1
+99,21,Other,London,Bronze,97,859,Clothing,2023/8/6,Doctor,0
+100,18,Other,San Francisco,Gold,28,1128,Sports,2023/4/16,Engineer,0
+101,31,Male,Sydney,Gold,28,590,Home Goods,2023/7/22,Other,0
+102,24,Other,Sydney,Silver,76,1136,Electronics,2023/3/12,Other,1
+103,39,Other,Tokyo,Bronze,97,2822,Home Goods,2023/10/9,Doctor,0
+104,24,Female,Tokyo,Bronze,22,713,Toys,2023/11/16,Retired,1
+105,20,Other,Berlin,Bronze,22,735,Sports,2023/8/15,Teacher,0
+106,30,Female,Tokyo,Silver,81,1286,Clothing,2023/9/19,Teacher,1
+107,45,Female,London,Gold,79,1158,Clothing,2023/3/23,Engineer,0
+108,39,Female,Boston,Bronze,45,1316,Home Goods,2023/5/25,Retired,0
+109,29,Other,Sydney,Bronze,81,192,Books,2023/12/15,Retired,1
+110,25,Other,Tokyo,Bronze,8,146,Toys,2023/8/14,Artist,0
+111,31,Female,Sydney,Silver,3,150,Books,2023/8/15,Doctor,0
+112,26,Other,Tokyo,Silver,46,4853,Electronics,2023/10/21,Artist,1
+113,29,Female,San Francisco,Bronze,55,441,Books,2023/11/16,Salesperson,0
+114,30,Female,London,Platinum,66,935,Sports,2023/5/23,Retired,0
+115,61,Male,London,Platinum,60,1272,Sports,2023/11/18,Student,1
+116,38,Male,Berlin,Silver,52,1171,Clothing,2023/6/23,Teacher,0
+117,48,Male,Sydney,Platinum,56,461,Toys,2023/10/12,Retired,0
+118,54,Female,Berlin,Silver,13,584,Clothing,2023/11/27,Student,1
+119,57,Male,Tokyo,Silver,77,727,Electronics,2023/11/1,Other,1
+120,25,Female,Tokyo,Bronze,39,2131,Home Goods,2023/4/6,Other,0
+121,63,Female,Boston,Bronze,13,235,Books,2023/6/2,Artist,1
+122,22,Male,Tokyo,Bronze,11,2531,Home Goods,2023/12/28,Retired,1
+123,66,Female,Boston,Silver,12,1965,Home Goods,2023/8/9,Artist,0
+124,36,Other,London,Platinum,47,297,Books,2023/7/11,Teacher,1
+125,50,Other,Berlin,Bronze,57,4173,Electronics,2023/1/7,Doctor,1
+126,31,Other,London,Platinum,63,209,Toys,2023/3/3,Other,0
+127,28,Other,Boston,Platinum,99,97,Books,2023/2/14,Other,1
+128,41,Male,Berlin,Bronze,70,245,Home Goods,2023/7/20,Student,1
+129,35,Female,Boston,Platinum,79,995,Toys,2023/8/3,Engineer,1
+130,25,Male,San Francisco,Bronze,19,206,Books,2023/8/14,Teacher,1
+131,42,Female,Boston,Silver,18,1315,Home Goods,2023/6/24,Teacher,1
+132,28,Other,Berlin,Gold,56,4111,Electronics,2023/1/12,Retired,1
+133,46,Male,Berlin,Bronze,,225,Books,2023/7/18,Engineer,1
+134,38,Other,Sydney,Silver,58,485,Books,2023/11/9,Engineer,0
+135,50,Female,Sydney,Platinum,88,1361,Clothing,2023/11/13,Student,0
+136,30,Other,Berlin,Bronze,59,4198,Electronics,2023/10/5,Artist,0
+137,19,Male,San Francisco,Gold,49,1128,Home Goods,2023/4/7,Other,1
+138,48,Female,Sydney,Gold,22,278,Books,2023/10/18,Teacher,0
+139,59,Other,San Francisco,Gold,77,67,Toys,2023/1/29,Artist,1
+140,42,Other,San Francisco,Gold,92,779,Clothing,2023/12/22,Teacher,0
+141,36,Other,San Francisco,Gold,44,1369,Home Goods,2023/9/5,Teacher,1
+142,69,Male,Tokyo,Gold,43,1141,Electronics,2023/5/29,Retired,1
+143,51,Female,San Francisco,Bronze,76,4255,Electronics,2023/6/30,Teacher,0
+144,20,Female,San Francisco,Bronze,22,810,Electronics,2023/8/24,Retired,1
+145,62,Male,Boston,Bronze,91,487,Books,2023/12/30,Student,0
+146,46,Other,San Francisco,Silver,66,476,Books,2023/4/20,Engineer,1
+147,57,Male,Tokyo,Platinum,83,851,Sports,2023/2/5,Teacher,0
+148,52,Female,San Francisco,Gold,6,477,Home Goods,2023/5/17,Retired,1
+149,28,Male,Boston,Bronze,76,1949,Clothing,2023/12/29,Engineer,1
+150,50,Male,Berlin,Silver,16,248,Sports,2023/8/16,Teacher,1
+151,59,Male,Berlin,Silver,,1677,Clothing,2023/5/27,Other,0
+152,36,Male,Boston,Gold,83,650,Clothing,2023/6/24,Student,0
+153,40,Male,San Francisco,Gold,79,3089,Electronics,2023/1/28,Other,1
+154,24,Female,San Francisco,Gold,97,685,Toys,2023/2/1,Teacher,1
+155,20,Male,Berlin,Platinum,89,858,Home Goods,2023/12/5,Student,1
+156,25,Other,Sydney,Silver,28,176,Toys,2023/6/5,Artist,1
+157,57,Male,San Francisco,Silver,39,1905,Clothing,2023/9/11,Student,0
+158,66,Male,Berlin,Platinum,59,891,Toys,2023/8/26,Other,1
+159,33,Female,San Francisco,Platinum,7,843,Sports,2023/5/8,Doctor,1
+160,23,Male,Tokyo,Gold,16,234,Home Goods,2023/4/29,Salesperson,1
+161,35,Female,Boston,Silver,67,689,Sports,2023/1/29,Other,0
+162,60,Other,Sydney,Silver,11,1110,Clothing,2023/1/2,Doctor,0
+163,38,Female,San Francisco,Platinum,91,718,Toys,2023/2/13,Artist,0
+164,66,Female,Boston,Silver,92,370,Books,2023/6/5,Doctor,1
+165,40,Male,Sydney,Gold,21,1611,Electronics,2023/1/31,Salesperson,0
+166,55,Male,Boston,Silver,25,1849,Electronics,2023/4/2,Student,1
+167,31,Male,Tokyo,Gold,80,203,Toys,2023/7/29,Retired,0
+168,67,Male,San Francisco,Bronze,77,801,Toys,2023/7/19,Artist,0
+169,68,Other,San Francisco,Gold,82,2809,Home Goods,2023/11/9,Student,0
+170,51,Male,London,Gold,89,321,Home Goods,2023/6/29,Doctor,1
+171,38,Male,Boston,Silver,13,1204,Electronics,2023/10/1,Retired,1
+172,28,Other,Berlin,Platinum,74,916,Toys,2023/11/28,Engineer,0
+173,50,Female,Berlin,Silver,54,808,Clothing,2023/7/19,Student,0
+174,43,Other,London,Bronze,21,2814,Home Goods,2023/1/3,Engineer,1
+175,39,Male,San Francisco,Bronze,35,434,Books,2023/2/22,Engineer,1
+176,57,Female,Sydney,Bronze,4,2353,Electronics,2023/4/3,Engineer,1
+177,50,Male,San Francisco,Bronze,62,259,Toys,2023/4/16,Artist,1
+178,37,Female,Berlin,Silver,73,293,Books,2023/11/24,Teacher,0
+179,43,Other,San Francisco,Platinum,62,1843,Clothing,2023/2/26,Artist,0
+180,67,Other,London,Bronze,60,4899,Electronics,2023/8/20,Salesperson,1
+181,32,Other,London,Bronze,45,3929,Electronics,2023/4/17,Artist,1
+182,31,Female,Tokyo,Silver,36,823,Toys,2023/8/24,Engineer,0
+183,38,Other,London,Platinum,80,180,Books,2023/10/18,Doctor,0
+184,61,Male,Tokyo,Silver,64,4232,Electronics,2023/8/8,Other,0
+185,24,Male,Boston,Platinum,64,975,Toys,2023/7/4,Teacher,0
+186,31,Other,Boston,Gold,88,688,Clothing,2023/10/21,Engineer,1
+187,33,Male,San Francisco,Silver,79,884,Toys,2023/7/14,Student,0
+188,42,Other,San Francisco,Gold,83,634,Sports,2023/12/31,Artist,1
+189,27,Male,London,Bronze,10,206,Books,2023/1/26,Artist,1
+190,20,Female,Sydney,Bronze,32,427,Toys,2023/5/22,Artist,0
+191,25,Female,Berlin,Platinum,41,596,Electronics,2023/8/23,Teacher,1
+192,23,Male,San Francisco,Gold,71,275,Books,2023/8/10,Artist,1
+193,54,Female,Sydney,Gold,15,173,Books,2023/11/8,Artist,0
+194,55,Other,London,Bronze,84,241,Books,2023/9/20,Student,1
+195,39,Male,Berlin,Platinum,16,1422,Sports,2023/5/15,Retired,0
+196,58,Other,Berlin,Gold,24,2166,Home Goods,2023/12/12,Doctor,0
+197,31,Male,Berlin,Platinum,26,240,Toys,2023/4/18,Teacher,0
+198,45,Other,San Francisco,Silver,86,381,Books,2023/8/19,Doctor,1
+199,67,Female,Boston,Bronze,32,1781,Clothing,2023/5/7,Student,1
+200,67,Other,Tokyo,Bronze,13,2577,Home Goods,2023/2/23,Other,1
+201,65,Other,London,Gold,5,1426,Clothing,2023/4/16,Teacher,1
+202,31,Male,San Francisco,Silver,4,505,Toys,2023/5/15,Salesperson,1
+203,58,Other,Berlin,Gold,80,869,Toys,2023/8/22,Other,1
+204,32,Other,Sydney,Bronze,45,121,Clothing,2023/3/27,Student,1
+205,63,Other,Berlin,Platinum,31,747,Toys,2023/6/28,Engineer,0
+206,41,Male,London,Gold,66,2064,Electronics,2023/6/16,Artist,0
+207,34,Female,Boston,Bronze,22,3276,Electronics,2023/4/8,Retired,0
+208,46,Other,Tokyo,Platinum,36,1149,Sports,2023/6/27,Student,1
+209,60,Other,Berlin,Bronze,65,153,Toys,2023/7/29,Engineer,0
+210,63,Female,Berlin,Silver,10,626,Toys,2023/4/2,Salesperson,1
+211,21,Female,Tokyo,Gold,82,415,Toys,2023/2/5,Salesperson,1
+212,20,Female,London,Bronze,81,1079,Sports,2023/10/12,Retired,0
+213,32,Female,Boston,Platinum,43,1347,Sports,2023/4/9,Retired,0
+214,64,Male,London,Gold,13,470,Toys,2023/12/31,Retired,0
+215,18,Male,Berlin,Gold,57,2900,Home Goods,2023/12/5,Engineer,1
+216,47,Female,Boston,Platinum,78,4699,Electronics,2023/2/17,Salesperson,0
+217,29,Male,Boston,Gold,76,942,Home Goods,2023/1/16,Doctor,1
+218,53,Male,Tokyo,Platinum,15,1863,Home Goods,2023/6/4,Artist,1
+219,47,Male,Boston,Platinum,70,261,Books,2023/6/14,Other,1
+220,51,Female,London,Bronze,21,582,Home Goods,2023/5/22,Engineer,0
+221,20,Male,Tokyo,Platinum,93,1940,Home Goods,2023/10/22,Retired,0
+222,38,Other,Tokyo,Silver,11,1370,Clothing,2023/5/22,Retired,1
+223,37,Female,Boston,Bronze,8,1138,Clothing,2023/10/26,Teacher,1
+224,66,Male,Berlin,Gold,31,1916,Electronics,2023/11/26,Artist,0
+225,50,Female,Tokyo,Silver,48,1902,Electronics,2023/3/17,Other,1
+226,46,Other,Sydney,Platinum,34,1013,Home Goods,2023/10/19,Student,0
+227,36,Male,Tokyo,Gold,4,1859,Electronics,2023/1/11,Salesperson,0
+228,49,Other,Berlin,Platinum,4,520,Toys,2023/7/27,Doctor,1
+229,46,Female,Berlin,Bronze,55,1164,Clothing,2023/8/29,Other,0
+230,48,Female,Boston,Silver,85,3929,Electronics,2023/4/22,Other,1
+231,28,Other,Tokyo,Silver,89,348,Books,2023/8/14,Teacher,1
+232,26,Female,Boston,Bronze,78,492,Sports,2023/4/2,Doctor,0
+233,63,Male,Boston,Gold,87,1948,Clothing,2023/4/19,Student,0
+234,53,Male,Tokyo,Silver,39,1135,Clothing,2023/4/30,Engineer,0
+235,50,Male,Boston,Gold,65,578,Clothing,2023/9/22,Teacher,0
+236,26,Male,Sydney,Bronze,52,1186,Clothing,2023/10/15,Salesperson,0
+237,38,Other,Berlin,Silver,89,796,Sports,2023/9/28,Retired,1
+238,31,Male,Boston,Silver,66,615,Clothing,2023/6/13,Doctor,0
+239,68,Other,San Francisco,Silver,55,215,Toys,2023/7/24,Teacher,0
+240,33,Female,Berlin,Bronze,20,4224,Electronics,2023/5/15,Engineer,0
+241,59,Female,Berlin,Gold,3,512,Toys,2023/12/22,Engineer,0
+242,18,Other,Sydney,Silver,99,128,Books,2023/2/27,Other,0
+243,62,Female,Berlin,Bronze,54,72,Books,2023/9/4,Salesperson,1
+244,37,Other,London,Platinum,64,391,Books,2023/8/6,Doctor,0
+245,42,Other,Tokyo,Gold,40,143,Books,2023/1/25,Retired,1
+246,67,Male,London,Silver,47,491,Books,2023/5/25,Doctor,0
+247,60,Other,London,Platinum,41,723,Sports,2023/5/25,Other,0
+248,38,Male,Sydney,Platinum,59,1934,Electronics,2023/9/16,Other,1
+249,62,Male,San Francisco,Gold,10,871,Clothing,2023/4/16,Artist,1
+250,33,Male,Tokyo,Gold,6,748,Electronics,2023/1/21,Student,0
+251,48,Other,London,Gold,16,2423,Home Goods,2023/12/12,Engineer,0
+252,45,Other,Tokyo,Silver,73,2842,Electronics,2023/4/26,Salesperson,1
+253,32,Other,Boston,Gold,77,2442,Home Goods,2023/8/10,Doctor,1
+254,69,Male,San Francisco,Gold,99,1391,Clothing,2023/12/3,Salesperson,0
+255,37,Female,Berlin,Bronze,16,1281,Sports,2023/9/18,Other,1
+256,44,Other,Tokyo,Bronze,22,394,Home Goods,2023/10/31,Salesperson,0
+257,61,Male,Berlin,Silver,88,537,Home Goods,2023/6/21,Artist,1
+258,40,Female,San Francisco,Platinum,34,1420,Electronics,2023/9/5,Retired,0
+259,25,Female,Sydney,Bronze,13,1419,Sports,2023/12/25,Doctor,1
+260,53,Other,London,Bronze,54,2465,Electronics,2023/7/14,Artist,0
+261,65,Other,Sydney,Gold,49,2562,Electronics,2023/1/17,Other,1
+262,64,Female,Tokyo,Silver,76,1798,Clothing,2023/8/30,Engineer,1
+263,69,Male,Tokyo,Bronze,44,653,Toys,2023/9/8,Engineer,0
+264,52,Female,Boston,Silver,34,424,Books,2023/11/1,Salesperson,0
+265,54,Female,San Francisco,Silver,34,157,Books,2023/5/6,Doctor,0
+266,54,Female,London,Gold,20,2398,Home Goods,2023/11/12,Retired,1
+267,50,Male,San Francisco,Silver,91,382,Books,2023/12/8,Salesperson,1
+268,37,Female,Boston,Silver,34,380,Books,2023/5/4,Other,1
+269,21,Male,Sydney,Platinum,85,395,Toys,2023/10/21,Other,0
+270,42,Other,Boston,Platinum,43,148,Toys,2023/2/7,Retired,1
+271,37,Male,Boston,Bronze,78,724,Toys,2023/4/19,Student,1
+272,55,Other,Sydney,Platinum,74,59,Toys,2023/4/12,Engineer,1
+273,48,Other,Sydney,Platinum,11,2449,Home Goods,2023/7/11,Salesperson,1
+274,56,Female,San Francisco,Silver,21,91,Toys,2023/2/6,Artist,1
+275,65,Other,Tokyo,Gold,75,158,Clothing,2023/3/15,Other,1
+276,57,Other,Tokyo,Gold,62,830,Home Goods,2023/4/17,Other,0
+277,23,Female,San Francisco,Bronze,86,918,Toys,2023/5/28,Engineer,0
+278,33,Female,London,Silver,42,290,Toys,2023/11/25,Teacher,1
+279,,Other,London,Platinum,15,930,Electronics,2023/10/21,Salesperson,0
+280,41,Other,San Francisco,Platinum,26,2868,Home Goods,2023/1/28,Engineer,1
+281,50,Other,Boston,Gold,61,1267,Electronics,2023/2/15,Retired,1
+282,60,Female,Berlin,Platinum,78,455,Books,2023/1/23,Other,0
+283,28,Female,London,Gold,90,518,Sports,2023/9/12,Teacher,1
+284,20,Female,San Francisco,Silver,90,106,Toys,2023/7/12,Retired,0
+285,42,Female,Tokyo,Silver,18,912,Sports,2023/2/12,Teacher,1
+286,52,Male,Tokyo,Silver,1,527,Home Goods,2023/5/14,Teacher,1
+287,48,Other,Tokyo,Silver,72,263,Clothing,2023/9/10,Engineer,1
+288,35,Other,Boston,Silver,39,3168,Electronics,2023/6/13,Doctor,1
+289,22,Female,Tokyo,Bronze,80,534,Sports,2023/11/17,Student,0
+290,18,Other,Boston,Bronze,1,137,Books,2023/12/30,Engineer,0
+291,32,Female,Berlin,Gold,53,58,Books,2023/11/10,Engineer,1
+292,35,Male,Sydney,Platinum,2,627,Electronics,2023/1/15,Retired,1
+293,57,Female,Sydney,Silver,24,844,Toys,2023/9/4,Salesperson,1
+294,53,Female,Sydney,Platinum,17,1981,Electronics,2023/12/26,Engineer,0
+295,35,Female,Tokyo,Platinum,20,284,Sports,2023/11/26,Doctor,1
+296,46,Male,San Francisco,Gold,55,1654,Home Goods,2023/1/1,Student,1
+297,40,Male,Berlin,Platinum,99,542,Clothing,2023/4/6,Salesperson,0
+298,56,Female,San Francisco,Gold,4,950,Sports,2023/1/26,Engineer,0
+299,59,Male,Sydney,Bronze,72,483,Home Goods,2023/2/17,Other,1
+300,28,Other,Sydney,Bronze,87,314,Sports,2023/4/22,Teacher,1
+301,31,Other,San Francisco,Bronze,44,4265,Electronics,2023/7/29,Student,1
+302,24,Male,Tokyo,Gold,42,1356,Sports,2023/2/11,Teacher,0
+303,43,Male,Boston,Gold,15,906,Clothing,2023/12/5,Artist,0
+304,56,Male,Boston,Gold,91,697,Toys,2023/9/25,Doctor,1
+305,66,Female,Berlin,Gold,11,371,Books,2023/6/30,Engineer,0
+306,66,Female,London,Platinum,87,210,Books,2023/12/22,Student,1
+307,68,Male,Boston,Bronze,29,951,Toys,2023/5/7,Student,0
+308,62,Female,Boston,Bronze,90,487,Books,2023/9/21,Doctor,0
+309,59,Other,Berlin,Bronze,27,332,Books,2023/4/13,Retired,0
+310,18,Male,Berlin,Platinum,99,196,Books,2023/5/17,Salesperson,1
+311,40,Other,Boston,Gold,96,3561,Electronics,2023/5/2,Engineer,1
+312,,Other,San Francisco,Gold,65,1680,Home Goods,2023/6/6,Salesperson,0
+313,37,Female,Berlin,Platinum,39,1563,Electronics,2023/4/20,Retired,1
+314,27,Female,San Francisco,Silver,44,412,Toys,2023/3/18,Teacher,0
+315,66,Other,Berlin,Gold,68,431,Sports,2023/9/23,Other,1
+316,46,Female,London,Bronze,93,157,Sports,2023/6/25,Doctor,1
+317,69,Male,Boston,Platinum,19,1193,Clothing,2023/3/1,Doctor,1
+318,,Female,Tokyo,Bronze,89,345,Toys,2023/4/27,Artist,1
+319,28,Other,Tokyo,Platinum,37,1570,Home Goods,2023/7/20,Retired,0
+320,22,Female,San Francisco,Bronze,39,440,Books,2023/9/8,Salesperson,1
+321,41,Female,Boston,Gold,77,1282,Electronics,2023/5/8,Artist,0
+322,32,Female,Sydney,Bronze,79,453,Sports,2023/12/25,Student,0
+323,39,Female,London,Platinum,87,738,Electronics,2023/8/10,Salesperson,1
+324,64,Female,San Francisco,Gold,99,396,Books,2023/10/18,Teacher,0
+325,21,Female,Tokyo,Bronze,50,2224,Electronics,2023/2/28,Other,0
+326,42,Female,Boston,Bronze,5,188,Books,2023/11/13,Artist,0
+327,34,Male,San Francisco,Gold,92,760,Sports,2023/8/25,Teacher,1
+328,64,Female,Berlin,Bronze,99,2806,Home Goods,2023/1/4,Artist,0
+329,33,Other,Boston,Platinum,37,545,Toys,2023/7/25,Retired,1
+330,25,Other,Berlin,Gold,48,64,Books,2023/1/9,Engineer,0
+331,32,Male,Sydney,Gold,41,1523,Home Goods,2023/6/17,Engineer,0
+332,31,Male,Tokyo,Platinum,65,1675,Clothing,2023/4/17,Engineer,0
+333,33,Male,Sydney,Silver,76,748,Home Goods,2023/9/11,Student,1
+334,,Other,San Francisco,Bronze,51,4195,Electronics,2023/12/17,Engineer,1
+335,38,Female,San Francisco,Silver,20,2370,Home Goods,2023/5/18,Artist,0
+336,39,Other,San Francisco,Bronze,69,891,Toys,2023/10/31,Artist,1
+337,68,Other,Tokyo,Platinum,37,1202,Clothing,2023/7/19,Student,1
+338,64,Other,Berlin,Silver,52,60,Books,2023/10/20,Salesperson,0
+339,47,Other,Tokyo,Platinum,11,1823,Clothing,2023/2/25,Student,0
+340,62,Female,San Francisco,Silver,92,2625,Home Goods,2023/3/10,Teacher,1
+341,,Male,San Francisco,Platinum,52,50,Toys,2023/3/21,Student,0
+342,40,Other,Sydney,Silver,93,126,Books,2023/8/13,Other,1
+343,45,Male,Sydney,Gold,85,823,Electronics,2023/7/8,Salesperson,1
+344,30,Female,San Francisco,Bronze,14,2879,Electronics,2023/5/25,Engineer,0
+345,30,Female,Boston,Platinum,83,241,Clothing,2023/2/25,Other,0
+346,44,Male,Berlin,Gold,87,912,Electronics,2023/9/9,Teacher,1
+347,30,Other,Boston,Gold,26,3851,Electronics,2023/3/20,Salesperson,1
+348,,Female,Tokyo,Silver,20,757,Home Goods,2023/7/29,Doctor,0
+349,41,Other,San Francisco,Bronze,74,1024,Sports,2023/4/6,Doctor,0
+350,57,Male,Tokyo,Gold,13,4221,Electronics,2023/4/21,Retired,1
+351,61,Male,Berlin,Bronze,11,4619,Electronics,2023/12/12,Engineer,0
+352,30,Male,Sydney,Platinum,14,426,Home Goods,2023/8/29,Student,0
+353,68,Male,London,Silver,75,1762,Clothing,2023/12/7,Artist,1
+354,56,Female,Berlin,Gold,79,3508,Electronics,2023/12/3,Doctor,1
+355,45,Female,Berlin,Silver,27,999,Clothing,2023/2/14,Artist,0
+356,66,Female,San Francisco,Bronze,86,89,Toys,2023/9/14,Doctor,1
+357,23,Other,London,Platinum,79,647,Home Goods,2023/10/28,Student,1
+358,52,Other,London,Bronze,65,912,Toys,2023/2/27,Teacher,1
+359,51,Male,San Francisco,Platinum,98,1268,Sports,2023/11/12,Engineer,0
+360,61,Male,Berlin,Silver,51,232,Toys,2023/5/19,Student,1
+361,44,Female,Berlin,Bronze,30,932,Clothing,2023/6/20,Other,1
+362,23,Other,Sydney,Gold,62,930,Electronics,2023/9/7,Retired,1
+363,27,Female,Berlin,Gold,45,683,Sports,2023/5/28,Student,1
+364,43,Male,Sydney,Bronze,17,903,Sports,2023/2/3,Student,0
+365,45,Other,San Francisco,Bronze,57,460,Sports,2023/7/28,Salesperson,0
+366,61,Other,Berlin,Bronze,51,1449,Sports,2023/7/13,Engineer,0
+367,19,Other,Tokyo,Platinum,31,112,Clothing,2023/1/15,Artist,0
+368,36,Other,San Francisco,Platinum,7,1903,Home Goods,2023/8/1,Teacher,0
+369,48,Male,Tokyo,Platinum,15,889,Toys,2023/11/1,Student,1
+370,50,Other,Tokyo,Silver,92,439,Toys,2023/2/20,Student,1
+371,44,Other,Berlin,Silver,63,549,Sports,2023/10/1,Retired,1
+372,38,Other,San Francisco,Gold,72,275,Books,2023/10/1,Artist,1
+373,48,Other,Tokyo,Gold,88,1135,Sports,2023/7/3,Engineer,1
+374,57,Female,Berlin,Gold,71,2504,Electronics,2023/9/27,Salesperson,0
+375,18,Male,London,Gold,27,433,Sports,2023/2/1,Teacher,0
+376,40,Male,San Francisco,Gold,31,470,Toys,2023/6/5,Engineer,0
+377,52,Other,San Francisco,Platinum,51,1457,Sports,2023/7/29,Engineer,0
+378,21,Other,San Francisco,Platinum,2,243,Books,2023/10/11,Artist,1
+379,24,Other,Boston,Platinum,39,597,Clothing,2023/11/26,Doctor,1
+380,30,Male,London,Platinum,71,626,Toys,2023/1/3,Doctor,0
+381,57,Other,London,Gold,67,2095,Home Goods,2023/1/13,Retired,0
+382,56,Male,Berlin,Platinum,74,1951,Clothing,2023/12/9,Salesperson,1
+383,37,Male,Berlin,Platinum,57,1869,Home Goods,2023/2/25,Retired,1
+384,65,Other,Berlin,Bronze,26,289,Home Goods,2023/8/30,Teacher,1
+385,66,Male,London,Silver,24,3563,Electronics,2023/3/15,Other,1
+386,24,Male,Tokyo,Silver,74,1264,Sports,2023/12/22,Teacher,0
+387,31,Female,San Francisco,Platinum,8,546,Sports,2023/12/29,Other,1
+388,54,Other,Tokyo,Bronze,94,383,Books,2023/2/12,Doctor,1
+389,41,Female,London,Platinum,85,267,Books,2023/9/11,Student,1
+390,40,Female,Sydney,Silver,63,901,Electronics,2023/8/14,Teacher,1
+391,20,Other,Tokyo,Silver,66,506,Electronics,2023/3/21,Other,0
+392,46,Other,San Francisco,Silver,70,1817,Home Goods,2023/12/4,Other,0
+393,60,Female,Berlin,Bronze,90,2242,Home Goods,2023/5/26,Retired,1
+394,49,Male,Berlin,Bronze,48,109,Toys,2023/9/11,Doctor,1
+395,27,Male,Berlin,Silver,80,774,Sports,2023/6/10,Teacher,0
+396,59,Female,Boston,Platinum,67,3736,Electronics,2023/2/17,Teacher,0
+397,42,Other,Sydney,Platinum,58,297,Sports,2023/3/6,Engineer,1
+398,63,Female,San Francisco,Silver,9,711,Electronics,2023/12/7,Engineer,1
+399,47,Female,Sydney,Silver,18,239,Books,2023/1/11,Doctor,1
+400,30,Male,Tokyo,Silver,42,2278,Electronics,2023/12/25,Doctor,0
+401,36,Other,Tokyo,Platinum,69,198,Books,2023/11/7,Student,0
+402,60,Other,San Francisco,Bronze,16,483,Toys,2023/3/25,Other,1
+403,29,Female,San Francisco,Gold,21,589,Clothing,2023/5/29,Salesperson,1
+404,59,Male,Berlin,Bronze,3,513,Clothing,2023/5/29,Engineer,1
+405,54,Male,Berlin,Silver,36,2762,Electronics,2023/8/10,Engineer,0
+406,66,Female,Tokyo,Gold,22,399,Toys,2023/11/18,Salesperson,1
+407,34,Female,Sydney,Gold,48,3054,Electronics,2023/11/2,Teacher,1
+408,48,Male,Boston,Platinum,49,2525,Electronics,2023/3/16,Engineer,1
+409,69,Male,Tokyo,Platinum,83,934,Clothing,2023/12/12,Salesperson,0
+410,60,Female,Berlin,Platinum,98,428,Toys,2023/8/7,Doctor,0
+411,38,Male,Sydney,Silver,45,202,Books,2023/1/2,Doctor,1
+412,53,Female,Boston,Bronze,63,4358,Electronics,2023/12/31,Retired,1
+413,59,Other,San Francisco,Gold,51,180,Books,2023/8/5,Salesperson,0
+414,35,Male,London,Silver,29,219,Books,2023/12/4,Teacher,0
+415,20,Female,Tokyo,Gold,72,3183,Electronics,2023/5/3,Engineer,0
+416,39,Male,London,Silver,87,1248,Clothing,2023/9/6,Student,1
+417,47,Male,Boston,Silver,12,1434,Sports,2023/6/29,Teacher,0
+418,54,Other,London,Bronze,41,270,Sports,2023/4/29,Artist,1
+419,63,Other,San Francisco,Gold,90,187,Books,2023/6/19,Artist,0
+420,64,Female,Sydney,Silver,53,1726,Electronics,2023/7/25,Artist,0
+421,34,Other,Sydney,Bronze,41,417,Books,2023/5/27,Artist,1
+422,45,Male,Boston,Gold,40,1304,Sports,2023/11/17,Other,1
+423,26,Male,Sydney,Platinum,88,158,Toys,2023/10/20,Doctor,0
+424,46,Male,Boston,Platinum,74,147,Toys,2023/12/2,Engineer,0
+425,20,Other,San Francisco,Platinum,56,1343,Home Goods,2023/10/27,Student,0
+426,53,Other,London,Bronze,24,1125,Sports,2023/9/27,Other,1
+427,31,Other,Tokyo,Bronze,66,278,Clothing,2023/3/2,Retired,0
+428,59,Other,Sydney,Gold,40,135,Books,2023/3/8,Retired,1
+429,54,Other,Sydney,Silver,31,157,Books,2023/7/25,Teacher,0
+430,54,Other,Boston,Bronze,59,930,Home Goods,2023/3/5,Doctor,1
+431,58,Other,Sydney,Gold,84,2465,Home Goods,2023/5/11,Doctor,0
+432,36,Female,Sydney,Gold,14,244,Clothing,2023/1/29,Other,1
+433,51,Male,Berlin,Silver,81,798,Home Goods,2023/7/26,Other,0
+434,56,Female,Tokyo,Gold,13,2614,Electronics,2023/5/21,Other,0
+435,69,Female,London,Bronze,63,325,Books,2023/12/4,Engineer,0
+436,64,Male,Boston,Gold,8,52,Toys,2023/10/10,Artist,0
+437,58,Female,London,Gold,38,752,Sports,2023/11/14,Salesperson,1
+438,43,Male,Tokyo,Silver,26,415,Books,2023/2/1,Retired,1
+439,57,Male,Sydney,Gold,84,713,Toys,2023/8/23,Retired,0
+440,66,Male,San Francisco,Gold,75,245,Books,2023/3/18,Other,1
+441,55,Other,Berlin,Platinum,76,1219,Sports,2023/4/9,Retired,0
+442,20,Other,London,Silver,73,3298,Electronics,2023/9/16,Teacher,0
+443,52,Female,Berlin,Gold,50,127,Books,2023/8/10,Other,0
+444,46,Other,Tokyo,Gold,59,2369,Electronics,2023/3/16,Engineer,0
+445,32,Female,Berlin,Bronze,71,290,Sports,2023/9/24,Teacher,1
+446,29,Other,London,Platinum,67,1630,Clothing,2023/1/15,Engineer,1
+447,60,Other,Berlin,Platinum,91,2712,Home Goods,2023/9/2,Other,0
+448,44,Female,London,Platinum,41,72,Books,2023/8/2,Salesperson,0
+449,58,Female,Berlin,Bronze,94,231,Books,2023/6/12,Engineer,1
+450,39,Male,London,Gold,37,1044,Clothing,2023/4/2,Retired,1
+451,34,Other,Berlin,Platinum,84,2145,Electronics,2023/1/6,Retired,1
+452,46,Other,Sydney,Gold,48,536,Toys,2023/5/19,Engineer,1
+453,55,Male,Boston,Gold,18,325,Home Goods,2023/1/26,Retired,1
+454,59,Male,London,Bronze,66,834,Electronics,2023/12/10,Other,1
+455,63,Other,Boston,Bronze,76,319,Clothing,2023/7/4,Student,0
+456,58,Other,London,Platinum,44,496,Books,2023/7/10,Salesperson,1
+457,60,Female,Tokyo,Platinum,94,2747,Home Goods,2023/7/26,Artist,0
+458,29,Female,Sydney,Platinum,83,3069,Electronics,2023/10/26,Artist,1
+459,40,Male,Boston,Silver,61,323,Toys,2023/1/13,Doctor,0
+460,24,Male,London,Platinum,73,1761,Clothing,2023/7/15,Artist,1
+461,50,Male,Boston,Bronze,51,54,Books,2023/6/3,Teacher,0
+462,32,Female,San Francisco,Bronze,25,2851,Electronics,2023/1/30,Engineer,0
+463,54,Male,Tokyo,Silver,15,1350,Home Goods,2023/12/20,Teacher,1
+464,41,Other,Tokyo,Gold,23,882,Electronics,2023/8/15,Doctor,1
+465,29,Other,Sydney,Platinum,29,2400,Home Goods,2023/12/6,Retired,0
+466,53,Male,Berlin,Platinum,46,3468,Electronics,2023/5/16,Engineer,1
+467,50,Female,San Francisco,Gold,37,449,Clothing,2023/8/15,Engineer,1
+468,64,Female,Sydney,Gold,79,249,Books,2023/5/10,Student,1
+469,45,Female,Sydney,Gold,29,489,Clothing,2023/11/18,Artist,1
+470,67,Female,Berlin,Gold,47,486,Toys,2023/3/18,Retired,0
+471,56,Other,Tokyo,Bronze,16,2535,Home Goods,2023/6/14,Retired,0
+472,18,Other,Berlin,Platinum,71,1895,Clothing,2023/7/30,Doctor,1
+473,40,Other,San Francisco,Bronze,38,4885,Electronics,2023/8/3,Salesperson,1
+474,51,Male,London,Gold,31,62,Books,2023/1/13,Salesperson,0
+475,24,Male,Boston,Bronze,76,173,Books,2023/2/5,Engineer,1
+476,54,Female,Sydney,Platinum,12,1643,Home Goods,2023/8/24,Teacher,0
+477,36,Other,Boston,Silver,21,928,Clothing,2023/8/3,Doctor,1
+478,45,Female,London,Bronze,91,1696,Home Goods,2023/3/15,Other,1
+479,46,Male,San Francisco,Silver,86,530,Toys,2023/6/7,Other,0
+480,55,Female,Sydney,Platinum,73,300,Books,2023/8/15,Salesperson,1
+481,56,Female,San Francisco,Bronze,45,2571,Electronics,2023/10/21,Retired,0
+482,68,Male,Berlin,Platinum,4,1572,Clothing,2023/11/18,Student,0
+483,48,Male,San Francisco,Gold,31,1997,Electronics,2023/10/3,Retired,1
+484,68,Female,Boston,Silver,63,755,Sports,2023/1/30,Engineer,0
+485,64,Other,Sydney,Platinum,77,482,Books,2023/3/3,Other,1
+486,25,Other,Tokyo,Platinum,44,663,Sports,2023/9/19,Other,0
+487,39,Male,San Francisco,Platinum,71,296,Books,2023/1/12,Student,1
+488,34,Male,Berlin,Platinum,87,3532,Electronics,2023/12/8,Salesperson,1
+489,57,Other,Boston,Platinum,17,752,Clothing,2023/11/24,Doctor,0
+490,47,Female,Boston,Platinum,3,801,Sports,2023/10/19,Other,0
+491,29,Female,Tokyo,Silver,55,4662,Electronics,2023/6/8,Other,0
+492,32,Male,Boston,Silver,24,897,Home Goods,2023/5/31,Doctor,0
+493,58,Other,London,Bronze,2,61,Books,2023/3/26,Teacher,0
+494,48,Other,Boston,Silver,23,330,Books,2023/4/29,Salesperson,0
+495,26,Other,Berlin,Bronze,11,350,Clothing,2023/6/3,Student,0
+496,58,Other,Boston,Silver,33,315,Toys,2023/3/19,Doctor,1
+497,66,Female,Tokyo,Silver,98,862,Clothing,2023/12/13,Artist,1
+498,48,Other,Tokyo,Gold,15,850,Toys,2023/6/30,Other,1
+499,41,Other,Berlin,Gold,34,2362,Home Goods,2023/4/11,Other,1
+500,20,Female,Boston,Silver,76,1773,Clothing,2023/4/25,Doctor,1
+501,46,Female,London,Platinum,67,159,Clothing,2023/10/12,Artist,0
+502,18,Other,Sydney,Bronze,37,673,Sports,2023/4/19,Artist,0
+503,57,Male,Boston,Silver,37,479,Sports,2023/11/21,Other,1
+504,30,Male,Sydney,Bronze,27,523,Home Goods,2023/8/4,Teacher,1
+505,35,Female,London,Platinum,59,1886,Electronics,2023/1/27,Doctor,0
+506,51,Male,Berlin,Silver,54,823,Sports,2023/1/11,Student,0
+507,28,Female,London,Platinum,40,1735,Home Goods,2023/6/12,Student,0
+508,46,Male,Sydney,Bronze,34,4511,Electronics,2023/11/8,Salesperson,1
+509,59,Male,Berlin,Platinum,27,796,Toys,2023/5/18,Other,0
+510,29,Other,Sydney,Platinum,66,420,Toys,2023/7/1,Doctor,0
+511,23,Male,Boston,Gold,30,192,Toys,2023/4/25,Retired,0
+512,35,Other,San Francisco,Bronze,31,2336,Home Goods,2023/9/12,Teacher,1
+513,23,Male,Boston,Platinum,38,770,Toys,2023/12/5,Retired,0
+514,60,Other,San Francisco,Platinum,3,1798,Electronics,2023/5/25,Artist,0
+515,40,Female,San Francisco,Silver,24,1567,Clothing,2023/6/8,Student,1
+516,32,Female,Tokyo,Silver,83,385,Books,2023/7/10,Doctor,0
+517,41,Female,San Francisco,Bronze,24,828,Clothing,2023/4/7,Engineer,1
+518,35,Other,Boston,Gold,55,2399,Home Goods,2023/5/6,Student,1
+519,28,Male,Tokyo,Gold,65,750,Clothing,2023/12/14,Other,1
+520,26,Male,Berlin,Platinum,38,2774,Home Goods,2023/11/22,Teacher,1
+521,66,Other,San Francisco,Platinum,47,721,Clothing,2023/3/31,Artist,0
+522,37,Male,Sydney,Silver,80,2408,Home Goods,2023/2/6,Teacher,0
+523,30,Female,Berlin,Bronze,76,438,Toys,2023/9/1,Engineer,0
+524,43,Female,Sydney,Platinum,10,418,Books,2023/6/12,Retired,0
+525,31,Female,Berlin,Silver,9,2539,Home Goods,2023/4/25,Artist,1
+526,34,Other,London,Bronze,69,217,Toys,2023/8/10,Salesperson,0
+527,22,Other,Boston,Platinum,87,2998,Electronics,2023/4/8,Doctor,1
+528,42,Female,Tokyo,Gold,86,2183,Home Goods,2023/2/19,Engineer,0
+529,45,Female,San Francisco,Gold,53,600,Clothing,2023/10/24,Student,1
+530,68,Female,Boston,Bronze,59,794,Toys,2023/8/26,Doctor,0
+531,22,Other,Tokyo,Platinum,49,1347,Sports,2023/1/21,Teacher,0
+532,21,Male,Tokyo,Gold,15,125,Books,2023/11/2,Salesperson,0
+533,30,Female,Sydney,Bronze,8,1158,Sports,2023/3/7,Salesperson,1
+534,20,Female,Tokyo,Silver,86,1128,Sports,2023/1/30,Artist,1
+535,30,Male,San Francisco,Gold,6,1336,Clothing,2023/12/22,Teacher,0
+536,50,Female,Tokyo,Gold,90,96,Books,2023/6/12,Teacher,0
+537,50,Male,Sydney,Gold,36,1519,Electronics,2023/9/27,Doctor,1
+538,33,Female,Tokyo,Gold,42,2095,Electronics,2023/2/3,Engineer,1
+539,54,Female,Berlin,Platinum,48,1498,Clothing,2023/8/3,Teacher,1
+540,28,Male,Sydney,Bronze,86,2649,Electronics,2023/3/11,Teacher,0
+541,30,Other,Boston,Gold,64,298,Toys,2023/6/7,Engineer,1
+542,36,Female,San Francisco,Silver,88,399,Books,2023/10/22,Salesperson,0
+543,48,Male,Berlin,Platinum,4,1881,Clothing,2023/6/12,Artist,0
+544,23,Male,Sydney,Platinum,71,272,Books,2023/6/6,Teacher,1
+545,34,Female,Tokyo,Silver,41,4931,Electronics,2023/9/4,Retired,1
+546,49,Female,Berlin,Platinum,42,357,Home Goods,2023/10/15,Engineer,1
+547,50,Male,Berlin,Platinum,86,234,Toys,2023/9/24,Other,0
+548,61,Female,Berlin,Bronze,42,1132,Clothing,2023/1/28,Salesperson,0
+549,62,Other,San Francisco,Gold,19,175,Toys,2023/10/30,Other,0
+550,49,Male,Berlin,Bronze,33,794,Toys,2023/7/2,Engineer,1
+551,61,Other,Berlin,Bronze,28,1003,Sports,2023/3/18,Student,0
+552,53,Female,Sydney,Gold,86,1055,Electronics,2023/7/7,Other,0
+553,62,Male,San Francisco,Bronze,36,107,Books,2023/12/25,Retired,0
+554,42,Other,San Francisco,Bronze,61,2771,Home Goods,2023/1/22,Engineer,0
+555,33,Other,Sydney,Platinum,68,2062,Home Goods,2023/10/25,Other,0
+556,39,Female,Berlin,Bronze,12,3062,Electronics,2023/12/1,Teacher,0
+557,37,Female,London,Gold,44,106,Clothing,2023/10/24,Teacher,1
+558,31,Female,Boston,Platinum,13,1211,Clothing,2023/11/7,Student,1
+559,51,Male,San Francisco,Gold,64,1883,Clothing,2023/5/25,Doctor,1
+560,22,Female,London,Gold,21,1441,Sports,2023/8/15,Other,0
+561,57,Other,Boston,Bronze,93,1437,Home Goods,2023/1/15,Other,0
+562,21,Male,Boston,Platinum,63,993,Sports,2023/1/17,Retired,1
+563,52,Other,Boston,Platinum,71,96,Books,2023/2/23,Other,1
+564,52,Male,London,Platinum,14,2273,Electronics,2023/8/31,Doctor,0
+565,60,Other,Tokyo,Platinum,19,1191,Electronics,2023/10/15,Engineer,0
+566,32,Male,Sydney,Platinum,92,1990,Clothing,2023/8/20,Salesperson,0
+567,36,Other,Berlin,Silver,25,216,Clothing,2023/10/25,Student,1
+568,56,Other,Berlin,Platinum,8,1828,Home Goods,2023/8/28,Engineer,1
+569,56,Other,Boston,Gold,82,1669,Clothing,2023/2/17,Doctor,0
+570,66,Other,Sydney,Gold,13,399,Toys,2023/8/9,Other,0
+571,35,Female,Sydney,Bronze,29,362,Sports,2023/8/11,Teacher,1
+572,23,Male,Berlin,Silver,57,4773,Electronics,2023/6/11,Student,1
+573,56,Other,Sydney,Silver,32,614,Home Goods,2023/9/10,Retired,0
+574,45,Male,Sydney,Platinum,91,132,Sports,2023/7/6,Salesperson,0
+575,26,Other,London,Gold,53,377,Toys,2023/9/16,Artist,1
+576,58,Female,Tokyo,Silver,82,1273,Clothing,2023/3/23,Engineer,0
+577,23,Female,Berlin,Gold,78,1484,Clothing,2023/5/5,Retired,1
+578,23,Other,San Francisco,Platinum,34,1391,Sports,2023/8/3,Retired,0
+579,25,Female,London,Bronze,72,666,Sports,2023/4/12,Teacher,1
+580,32,Male,Tokyo,Gold,23,275,Toys,2023/10/30,Teacher,0
+581,55,Female,Sydney,Gold,81,4360,Electronics,2023/12/7,Other,0
+582,59,Other,Tokyo,Gold,66,361,Books,2023/1/2,Salesperson,1
+583,32,Male,Sydney,Gold,66,205,Books,2023/3/23,Retired,1
+584,51,Female,Tokyo,Bronze,72,68,Books,2023/10/30,Salesperson,1
+585,45,Female,Tokyo,Bronze,32,764,Home Goods,2023/12/27,Student,0
+586,69,Female,Tokyo,Platinum,31,368,Books,2023/11/17,Student,1
+587,31,Other,Tokyo,Platinum,99,442,Books,2023/6/11,Doctor,1
+588,48,Male,Berlin,Bronze,25,1876,Clothing,2023/5/16,Other,1
+589,61,Other,San Francisco,Bronze,15,3955,Electronics,2023/9/5,Doctor,0
+590,64,Female,Sydney,Gold,47,1247,Sports,2023/2/15,Other,1
+591,27,Male,Berlin,Platinum,60,480,Sports,2023/4/25,Engineer,1
+592,21,Male,London,Silver,84,4769,Electronics,2023/2/20,Artist,1
+593,21,Other,Berlin,Gold,99,693,Clothing,2023/1/25,Other,1
+594,21,Female,Sydney,Silver,32,1397,Electronics,2023/7/8,Retired,1
+595,51,Other,San Francisco,Bronze,54,1186,Electronics,2023/10/13,Teacher,0
+596,53,Female,Tokyo,Bronze,45,1245,Electronics,2023/1/30,Student,0
+597,34,Other,Tokyo,Gold,95,4919,Electronics,2023/10/7,Engineer,0
+598,46,Female,Sydney,Silver,43,1866,Home Goods,2023/12/2,Doctor,0
+599,55,Male,Berlin,Bronze,85,839,Toys,2023/4/20,Other,0
+600,18,Other,London,Gold,98,3328,Electronics,2023/4/13,Student,1
+601,55,Other,Sydney,Gold,31,781,Home Goods,2023/6/30,Salesperson,0
+602,47,Male,Sydney,Silver,48,4657,Electronics,2023/3/26,Teacher,0
+603,36,Other,Boston,Platinum,71,1364,Sports,2023/3/18,Doctor,0
+604,32,Other,Berlin,Gold,70,397,Books,2023/4/14,Other,0
+605,57,Male,Boston,Bronze,18,1417,Sports,2023/7/20,Salesperson,1
+606,24,Other,Berlin,Silver,55,1163,Electronics,2023/4/14,Salesperson,0
+607,46,Other,San Francisco,Bronze,52,569,Sports,2023/10/26,Salesperson,1
+608,28,Female,San Francisco,Platinum,30,1329,Sports,2023/12/5,Engineer,1
+609,50,Female,Sydney,Silver,96,591,Toys,2023/7/5,Salesperson,0
+610,64,Female,Boston,Platinum,11,140,Sports,2023/1/9,Teacher,1
+611,47,Male,Sydney,Gold,84,2614,Home Goods,2023/11/18,Engineer,1
+612,36,Other,San Francisco,Silver,28,384,Home Goods,2023/2/16,Engineer,0
+613,54,Other,Boston,Silver,41,764,Home Goods,2023/3/26,Doctor,0
+614,47,Male,Tokyo,Gold,60,2763,Electronics,2023/10/18,Retired,1
+615,57,Female,San Francisco,Gold,56,1295,Sports,2023/1/8,Teacher,1
+616,46,Male,San Francisco,Platinum,80,1131,Sports,2023/2/6,Salesperson,0
+617,47,Other,Sydney,Bronze,30,2151,Home Goods,2023/8/19,Doctor,1
+618,57,Other,Tokyo,Bronze,32,2665,Home Goods,2023/6/23,Salesperson,0
+619,44,Other,San Francisco,Silver,29,961,Toys,2023/3/27,Doctor,1
+620,45,Male,Tokyo,Gold,62,80,Books,2023/12/2,Salesperson,1
+621,60,Male,San Francisco,Platinum,58,4640,Electronics,2023/1/23,Retired,1
+622,30,Female,London,Bronze,23,2202,Home Goods,2023/6/6,Student,1
+623,35,Female,Sydney,Bronze,45,82,Books,2023/6/12,Engineer,1
+624,25,Other,Sydney,Silver,92,888,Toys,2023/2/6,Teacher,0
+625,45,Female,Berlin,Platinum,88,1045,Sports,2023/3/3,Doctor,1
+626,25,Female,Boston,Gold,79,2591,Home Goods,2023/11/23,Doctor,0
+627,37,Female,Tokyo,Silver,43,768,Toys,2023/3/13,Other,1
+628,69,Other,Tokyo,Platinum,86,3403,Electronics,2023/5/17,Other,1
+629,50,Male,Boston,Silver,44,252,Toys,2023/4/17,Teacher,1
+630,30,Female,Sydney,Silver,80,71,Books,2023/10/20,Salesperson,1
+631,56,Other,Tokyo,Bronze,62,3675,Electronics,2023/9/10,Engineer,1
+632,69,Female,Berlin,Gold,48,1124,Sports,2023/4/25,Salesperson,0
+633,50,Male,Sydney,Gold,84,1031,Clothing,2023/3/15,Other,1
+634,48,Male,Berlin,Platinum,58,373,Sports,2023/9/12,Other,0
+635,40,Other,Tokyo,Platinum,34,585,Toys,2023/9/30,Student,0
+636,23,Male,Berlin,Gold,37,542,Electronics,2023/6/13,Student,0
+637,45,Male,San Francisco,Platinum,74,638,Toys,2023/8/15,Artist,0
+638,49,Male,San Francisco,Bronze,80,4643,Electronics,2023/1/10,Retired,0
+639,59,Female,Tokyo,Platinum,50,1932,Clothing,2023/8/16,Teacher,1
+640,40,Female,San Francisco,Platinum,66,899,Home Goods,2023/11/10,Teacher,0
+641,30,Male,San Francisco,Gold,12,4184,Electronics,2023/8/3,Artist,0
+642,63,Other,Sydney,Gold,47,3115,Electronics,2023/2/1,Other,0
+643,40,Other,Berlin,Gold,48,377,Toys,2023/10/7,Student,0
+644,56,Male,Sydney,Gold,68,522,Clothing,2023/5/17,Other,1
+645,36,Male,San Francisco,Gold,79,71,Books,2023/10/14,Artist,1
+646,47,Male,Boston,Platinum,49,207,Books,2023/5/25,Retired,1
+647,47,Female,Boston,Gold,1,754,Toys,2023/10/17,Salesperson,1
+648,36,Male,London,Gold,9,956,Home Goods,2023/5/14,Artist,0
+649,49,Other,Berlin,Platinum,43,591,Clothing,2023/8/31,Teacher,0
+650,67,Male,Sydney,Silver,70,558,Toys,2023/11/30,Engineer,0
+651,52,Male,Boston,Gold,65,1234,Home Goods,2023/5/3,Student,1
+652,37,Female,Sydney,Bronze,37,859,Toys,2023/1/30,Doctor,0
+653,47,Female,Tokyo,Gold,63,732,Home Goods,2023/5/21,Retired,0
+654,63,Male,Tokyo,Gold,53,722,Home Goods,2023/11/4,Salesperson,0
+655,61,Female,London,Platinum,92,912,Clothing,2023/6/27,Other,0
+656,69,Female,San Francisco,Silver,69,714,Sports,2023/2/28,Engineer,0
+657,40,Other,San Francisco,Platinum,77,1070,Sports,2023/3/7,Student,0
+658,33,Male,Boston,Platinum,11,143,Toys,2023/3/3,Engineer,1
+659,25,Male,Boston,Bronze,92,4399,Electronics,2023/6/26,Other,0
+660,66,Female,San Francisco,Gold,47,656,Sports,2023/6/24,Doctor,1
+661,46,Other,San Francisco,Bronze,38,1062,Clothing,2023/12/9,Other,0
+662,37,Male,Berlin,Platinum,36,1825,Home Goods,2023/5/23,Artist,1
+663,45,Male,London,Platinum,92,88,Books,2023/12/3,Engineer,0
+664,61,Female,Berlin,Bronze,92,55,Books,2023/12/25,Other,1
+665,37,Male,Sydney,Gold,65,754,Clothing,2023/4/7,Artist,1
+666,33,Male,London,Gold,83,1748,Home Goods,2023/5/22,Other,0
+667,24,Male,London,Gold,35,2626,Home Goods,2023/9/27,Doctor,1
+668,42,Male,San Francisco,Platinum,48,787,Sports,2023/10/20,Other,0
+669,40,Other,Boston,Silver,62,478,Toys,2023/7/2,Retired,1
+670,29,Female,Berlin,Silver,81,2834,Home Goods,2023/1/28,Salesperson,1
+671,55,Other,San Francisco,Silver,28,291,Home Goods,2023/7/11,Salesperson,1
+672,19,Female,Sydney,Silver,1,1125,Clothing,2023/12/26,Retired,1
+673,47,Other,Sydney,Silver,88,198,Toys,2023/1/22,Teacher,1
+674,33,Female,Sydney,Silver,70,299,Clothing,2023/6/19,Teacher,0
+675,69,Other,Boston,Silver,69,650,Toys,2023/4/20,Student,0
+676,52,Other,Berlin,Bronze,42,1820,Clothing,2023/5/4,Salesperson,1
+677,40,Male,Tokyo,Silver,30,228,Toys,2023/9/23,Teacher,1
+678,63,Female,London,Bronze,42,494,Toys,2023/5/2,Other,1
+679,69,Other,London,Silver,63,2371,Electronics,2023/9/18,Student,0
+680,60,Other,Tokyo,Gold,37,690,Toys,2023/1/26,Artist,1
+681,40,Female,Tokyo,Silver,59,834,Sports,2023/10/8,Teacher,0
+682,63,Male,Sydney,Platinum,53,415,Books,2023/7/31,Retired,1
+683,57,Male,Sydney,Platinum,94,4860,Electronics,2023/2/14,Student,1
+684,36,Female,London,Gold,77,310,Toys,2023/7/2,Artist,0
+685,58,Male,Sydney,Platinum,41,437,Books,2023/12/24,Artist,1
+686,62,Male,Boston,Silver,27,687,Sports,2023/1/17,Engineer,1
+687,34,Female,London,Gold,75,187,Books,2023/7/1,Teacher,0
+688,35,Other,Sydney,Bronze,63,268,Books,2023/8/1,Salesperson,0
+689,61,Female,London,Gold,12,839,Toys,2023/9/10,Retired,0
+690,42,Male,Tokyo,Bronze,85,860,Home Goods,2023/6/19,Other,0
+691,56,Male,San Francisco,Silver,42,1586,Home Goods,2023/12/16,Retired,0
+692,18,Other,San Francisco,Bronze,1,906,Toys,2023/9/29,Doctor,1
+693,66,Female,Tokyo,Gold,62,628,Clothing,2023/3/16,Retired,1
+694,51,Male,Berlin,Bronze,70,2773,Home Goods,2023/1/7,Student,1
+695,36,Female,London,Platinum,7,1861,Home Goods,2023/4/16,Artist,0
+696,25,Male,London,Gold,31,4485,Electronics,2023/7/14,Engineer,0
+697,32,Female,San Francisco,Platinum,55,1474,Electronics,2023/10/21,Doctor,1
+698,54,Female,Tokyo,Platinum,40,1786,Clothing,2023/6/22,Doctor,1
+699,44,Female,Berlin,Silver,99,1018,Sports,2023/10/7,Other,1
+700,50,Other,Sydney,Platinum,95,315,Books,2023/7/17,Other,0
+701,19,Other,Tokyo,Silver,47,1203,Home Goods,2023/7/15,Student,0
+702,66,Other,San Francisco,Platinum,78,706,Home Goods,2023/10/5,Teacher,1
+703,42,Other,San Francisco,Bronze,38,1059,Clothing,2023/2/13,Artist,0
+704,40,Other,Tokyo,Platinum,49,4009,Electronics,2023/7/6,Student,0
+705,52,Male,San Francisco,Platinum,27,62,Books,2023/1/20,Doctor,1
+706,48,Other,London,Gold,4,455,Books,2023/6/30,Student,1
+707,39,Other,Boston,Silver,48,1514,Electronics,2023/9/30,Salesperson,0
+708,22,Female,Boston,Gold,82,97,Books,2023/8/7,Engineer,1
+709,21,Other,Berlin,Platinum,88,1011,Electronics,2023/4/2,Retired,1
+710,66,Male,San Francisco,Gold,1,1299,Electronics,2023/11/24,Teacher,0
+711,36,Other,Sydney,Gold,71,2300,Home Goods,2023/3/9,Student,0
+712,51,Other,Berlin,Platinum,46,3126,Electronics,2023/4/30,Engineer,0
+713,29,Other,Berlin,Platinum,4,708,Clothing,2023/8/5,Salesperson,0
+714,29,Other,Berlin,Bronze,1,1703,Clothing,2023/7/3,Other,1
+715,30,Female,Berlin,Gold,55,974,Sports,2023/8/3,Retired,1
+716,22,Female,Boston,Gold,5,557,Clothing,2023/2/9,Student,1
+717,63,Other,Tokyo,Silver,46,1687,Electronics,2023/4/24,Engineer,0
+718,18,Male,Tokyo,Silver,47,403,Sports,2023/8/16,Other,0
+719,43,Male,Boston,Bronze,73,3846,Electronics,2023/11/5,Other,0
+720,58,Other,Sydney,Bronze,47,2596,Home Goods,2023/1/14,Salesperson,0
+721,25,Female,Sydney,Gold,94,677,Sports,2023/4/21,Doctor,1
+722,25,Female,Berlin,Bronze,4,658,Toys,2023/10/30,Other,1
+723,51,Other,San Francisco,Platinum,98,1254,Sports,2023/4/8,Other,1
+724,25,Female,Boston,Gold,23,3570,Electronics,2023/6/17,Student,1
+725,52,Female,San Francisco,Silver,47,3355,Electronics,2023/11/2,Retired,1
+726,22,Male,Boston,Silver,16,917,Sports,2023/11/26,Engineer,0
+727,23,Male,San Francisco,Silver,40,1254,Electronics,2023/1/21,Doctor,0
+728,57,Female,Boston,Silver,58,306,Books,2023/5/3,Artist,1
+729,68,Female,Berlin,Gold,72,1296,Sports,2023/6/23,Salesperson,1
+730,30,Female,San Francisco,Gold,68,1587,Home Goods,2023/4/5,Teacher,0
+731,63,Male,London,Silver,53,1564,Clothing,2023/8/1,Engineer,1
+732,50,Male,Sydney,Platinum,52,95,Books,2023/6/26,Salesperson,0
+733,39,Female,San Francisco,Platinum,18,2273,Home Goods,2023/12/22,Salesperson,0
+734,68,Male,London,Platinum,68,229,Toys,2023/9/9,Artist,0
+735,46,Other,Berlin,Platinum,20,2980,Home Goods,2023/6/23,Doctor,0
+736,25,Other,Sydney,Platinum,57,957,Sports,2023/8/12,Doctor,0
+737,46,Other,San Francisco,Bronze,35,611,Sports,2023/6/22,Artist,1
+738,65,Male,Berlin,Platinum,6,755,Toys,2023/12/9,Salesperson,1
+739,43,Female,Sydney,Gold,33,296,Books,2023/12/5,Student,1
+740,59,Other,Boston,Bronze,35,3723,Electronics,2023/10/3,Retired,1
+741,51,Female,Boston,Gold,82,1484,Home Goods,2023/4/20,Doctor,0
+742,19,Male,London,Silver,89,2838,Home Goods,2023/8/18,Teacher,1
+743,31,Male,Sydney,Platinum,73,1336,Home Goods,2023/10/8,Doctor,1
+744,56,Male,London,Platinum,19,3191,Electronics,2023/2/17,Doctor,1
+745,39,Other,Sydney,Platinum,14,368,Sports,2023/5/5,Teacher,0
+746,45,Other,London,Silver,6,1345,Clothing,2023/9/23,Teacher,1
+747,56,Female,Berlin,Silver,6,1496,Clothing,2023/7/23,Other,1
+748,38,Male,Sydney,Silver,30,573,Sports,2023/4/27,Doctor,1
+749,51,Other,San Francisco,Gold,33,324,Clothing,2023/6/21,Artist,0
+750,19,Female,San Francisco,Silver,31,191,Sports,2023/6/30,Artist,1
+751,49,Female,Berlin,Platinum,66,887,Clothing,2023/2/22,Other,1
+752,67,Male,San Francisco,Bronze,57,938,Toys,2023/8/13,Artist,1
+753,68,Female,Tokyo,Platinum,73,166,Sports,2023/2/27,Student,1
+754,56,Male,San Francisco,Bronze,13,4234,Electronics,2023/2/4,Doctor,0
+755,46,Female,Sydney,Silver,35,498,Books,2023/11/11,Engineer,0
+756,29,Male,Boston,Platinum,16,482,Home Goods,2023/11/13,Other,1
+757,68,Other,Tokyo,Gold,9,397,Books,2023/6/24,Engineer,1
+758,53,Other,Sydney,Silver,25,1251,Clothing,2023/11/4,Salesperson,1
+759,49,Other,Sydney,Gold,82,1389,Home Goods,2023/12/5,Salesperson,0
+760,69,Female,London,Gold,22,1463,Home Goods,2023/1/28,Engineer,1
+761,20,Female,Berlin,Bronze,13,1695,Home Goods,2023/7/31,Student,1
+762,21,Other,Tokyo,Bronze,27,708,Toys,2023/8/21,Other,0
+763,50,Male,San Francisco,Platinum,78,398,Toys,2023/2/25,Salesperson,1
+764,28,Other,Tokyo,Bronze,76,224,Toys,2023/9/6,Salesperson,1
+765,50,Female,Berlin,Bronze,72,268,Books,2023/3/29,Other,0
+766,51,Female,Sydney,Bronze,9,430,Books,2023/12/2,Student,0
+767,23,Male,Tokyo,Platinum,59,354,Books,2023/8/19,Teacher,1
+768,18,Other,Sydney,Platinum,3,322,Sports,2023/12/15,Retired,1
+769,55,Other,Berlin,Platinum,17,608,Home Goods,2023/4/21,Salesperson,0
+770,64,Other,London,Silver,70,649,Toys,2023/2/25,Teacher,1
+771,26,Female,Tokyo,Platinum,19,78,Books,2023/3/5,Engineer,1
+772,61,Other,Tokyo,Gold,91,226,Books,2023/1/15,Artist,1
+773,62,Female,London,Platinum,68,827,Toys,2023/8/15,Other,0
+774,42,Male,Boston,Gold,98,619,Sports,2023/4/26,Teacher,1
+775,34,Male,London,Bronze,76,2609,Electronics,2023/12/6,Engineer,1
+776,50,Other,London,Platinum,14,714,Toys,2023/1/8,Artist,1
+777,50,Female,Tokyo,Bronze,87,987,Sports,2023/7/9,Engineer,1
+778,59,Male,Berlin,Platinum,74,1592,Home Goods,2023/11/27,Salesperson,1
+779,42,Male,Sydney,Bronze,23,1997,Electronics,2023/9/15,Doctor,1
+780,39,Female,London,Gold,72,668,Sports,2023/7/26,Artist,1
+781,45,Other,Sydney,Silver,81,4010,Electronics,2023/1/20,Other,0
+782,64,Male,London,Bronze,24,1128,Sports,2023/1/3,Artist,0
+783,53,Male,Berlin,Bronze,26,1639,Home Goods,2023/12/31,Student,0
+784,22,Female,Tokyo,Platinum,4,2055,Home Goods,2023/1/30,Student,1
+785,50,Female,London,Gold,2,449,Books,2023/1/4,Artist,0
+786,63,Female,San Francisco,Silver,54,1091,Sports,2023/6/29,Engineer,0
+787,42,Other,London,Platinum,11,452,Clothing,2023/5/29,Doctor,1
+788,56,Female,London,Gold,22,4726,Electronics,2023/2/12,Student,0
+789,69,Male,Tokyo,Gold,18,1354,Sports,2023/7/16,Doctor,0
+790,60,Other,San Francisco,Gold,88,793,Toys,2023/11/20,Teacher,1
+791,43,Female,Boston,Silver,70,344,Books,2023/9/11,Doctor,0
+792,50,Female,Tokyo,Platinum,66,4453,Electronics,2023/12/31,Teacher,1
+793,58,Male,Tokyo,Platinum,39,361,Books,2023/10/1,Salesperson,0
+794,51,Other,Tokyo,Platinum,17,2445,Electronics,2023/9/17,Artist,0
+795,24,Male,Tokyo,Gold,11,3666,Electronics,2023/11/8,Other,0
+796,19,Male,Sydney,Gold,98,1051,Clothing,2023/5/7,Artist,0
+797,69,Female,San Francisco,Platinum,19,449,Books,2023/4/1,Student,1
+798,49,Other,San Francisco,Gold,47,149,Sports,2023/6/24,Student,1
+799,25,Female,Berlin,Bronze,29,4645,Electronics,2023/10/25,Doctor,1
+800,31,Male,Tokyo,Platinum,55,197,Clothing,2023/9/21,Student,1
+801,21,Other,Tokyo,Silver,91,553,Clothing,2023/4/30,Retired,1
+802,46,Male,Tokyo,Bronze,94,912,Electronics,2023/11/3,Doctor,0
+803,33,Other,Boston,Bronze,79,721,Toys,2023/10/2,Retired,1
+804,47,Other,San Francisco,Bronze,45,1364,Sports,2023/6/12,Student,1
+805,20,Female,London,Silver,65,108,Books,2023/4/24,Other,0
+806,65,Male,Sydney,Silver,27,408,Books,2023/4/22,Doctor,0
+807,37,Female,Tokyo,Platinum,76,3257,Electronics,2023/10/1,Doctor,1
+808,50,Other,San Francisco,Gold,19,527,Toys,2023/5/22,Teacher,0
+809,36,Other,Tokyo,Gold,17,3355,Electronics,2023/1/31,Teacher,1
+810,58,Other,Berlin,Gold,73,863,Clothing,2023/7/12,Doctor,0
+811,52,Female,London,Platinum,41,2488,Home Goods,2023/11/19,Doctor,0
+812,48,Female,Berlin,Gold,83,1633,Clothing,2023/2/26,Teacher,0
+813,50,Other,London,Silver,55,1459,Sports,2023/9/11,Teacher,0
+814,67,Other,San Francisco,Silver,52,1822,Clothing,2023/6/20,Retired,0
+815,64,Other,Boston,Gold,5,2298,Electronics,2023/5/18,Engineer,1
+816,37,Other,Berlin,Platinum,87,1291,Home Goods,2023/9/26,Other,1
+817,59,Other,Boston,Gold,32,977,Toys,2023/2/14,Student,1
+818,38,Other,San Francisco,Gold,15,450,Sports,2023/10/5,Artist,0
+819,58,Male,London,Gold,73,1334,Sports,2023/11/29,Retired,1
+820,64,Male,London,Bronze,98,428,Toys,2023/12/15,Artist,1
+821,68,Female,Berlin,Bronze,1,1067,Sports,2023/10/10,Teacher,0
+822,22,Female,Boston,Bronze,96,1390,Clothing,2023/4/3,Teacher,0
+823,27,Female,London,Gold,44,1254,Home Goods,2023/9/21,Retired,0
+824,18,Male,San Francisco,Gold,61,2635,Home Goods,2023/3/7,Artist,1
+825,44,Other,Boston,Silver,71,74,Books,2023/3/12,Other,1
+826,39,Other,Sydney,Bronze,15,2764,Electronics,2023/3/11,Retired,1
+827,28,Male,Berlin,Bronze,35,2819,Electronics,2023/4/27,Engineer,0
+828,39,Male,London,Bronze,9,4640,Electronics,2023/10/21,Teacher,0
+829,51,Female,Sydney,Silver,29,2180,Electronics,2023/12/25,Student,1
+830,56,Other,Boston,Gold,37,1659,Home Goods,2023/12/20,Teacher,0
+831,55,Other,Sydney,Bronze,79,974,Sports,2023/9/23,Retired,0
+832,61,Male,Berlin,Platinum,6,138,Toys,2023/7/1,Other,1
+833,57,Other,Boston,Gold,30,544,Sports,2023/7/9,Other,1
+834,51,Other,San Francisco,Bronze,12,4010,Electronics,2023/1/16,Other,1
+835,49,Male,San Francisco,Silver,15,921,Toys,2023/1/13,Engineer,0
+836,59,Other,Boston,Platinum,57,2331,Electronics,2023/11/2,Artist,1
+837,25,Other,Berlin,Bronze,20,523,Sports,2023/11/5,Salesperson,1
+838,23,Other,San Francisco,Gold,3,1135,Sports,2023/3/16,Artist,1
+839,24,Other,Sydney,Platinum,97,1634,Home Goods,2023/12/6,Salesperson,0
+840,41,Male,Tokyo,Platinum,55,1322,Sports,2023/5/29,Engineer,0
+841,40,Other,Boston,Bronze,60,128,Sports,2023/11/15,Teacher,1
+842,60,Other,Tokyo,Gold,30,617,Toys,2023/6/28,Doctor,1
+843,57,Other,Berlin,Gold,7,103,Toys,2023/6/4,Other,0
+844,49,Male,San Francisco,Bronze,97,186,Books,2023/10/19,Teacher,1
+845,55,Male,Boston,Bronze,73,905,Toys,2023/5/25,Salesperson,1
+846,56,Female,Berlin,Gold,2,172,Sports,2023/9/1,Salesperson,0
+847,41,Other,Tokyo,Gold,46,1849,Electronics,2023/11/18,Doctor,1
+848,46,Male,Boston,Silver,43,491,Sports,2023/8/18,Student,0
+849,54,Female,Tokyo,Platinum,82,536,Toys,2023/12/22,Other,1
+850,20,Female,Sydney,Bronze,5,51,Books,2023/2/17,Doctor,0
+851,28,Female,San Francisco,Gold,56,760,Clothing,2023/5/11,Teacher,1
+852,38,Male,Berlin,Gold,76,478,Books,2023/11/22,Retired,1
+853,18,Male,Tokyo,Gold,29,1244,Sports,2023/3/25,Teacher,1
+854,34,Other,Berlin,Platinum,70,128,Toys,2023/12/11,Artist,0
+855,48,Other,Sydney,Platinum,56,463,Toys,2023/10/4,Salesperson,0
+856,21,Other,London,Gold,21,1562,Clothing,2023/7/19,Doctor,0
+857,32,Other,Sydney,Silver,86,3368,Electronics,2023/10/6,Salesperson,1
+858,62,Female,Boston,Gold,83,2250,Home Goods,2023/4/23,Salesperson,1
+859,66,Male,London,Silver,42,224,Books,2023/11/5,Retired,0
+860,69,Male,London,Bronze,36,798,Toys,2023/9/1,Retired,0
+861,23,Other,San Francisco,Silver,77,330,Books,2023/8/5,Student,0
+862,67,Female,Tokyo,Silver,33,55,Books,2023/7/12,Retired,1
+863,28,Other,Berlin,Platinum,5,3220,Electronics,2023/12/18,Salesperson,1
+864,61,Other,Tokyo,Platinum,92,1177,Home Goods,2023/11/30,Salesperson,1
+865,64,Female,San Francisco,Bronze,78,459,Books,2023/11/27,Engineer,1
+866,45,Male,San Francisco,Bronze,76,3883,Electronics,2023/9/5,Student,1
+867,51,Female,Berlin,Gold,41,1312,Electronics,2023/4/25,Salesperson,0
+868,26,Other,Tokyo,Platinum,27,1791,Home Goods,2023/5/7,Engineer,1
+869,22,Male,Boston,Gold,31,611,Sports,2023/2/18,Other,1
+870,57,Female,Tokyo,Silver,81,3375,Electronics,2023/3/18,Teacher,0
+871,50,Female,Tokyo,Bronze,76,470,Books,2023/8/4,Student,1
+872,65,Other,Boston,Gold,41,2765,Home Goods,2023/9/21,Doctor,0
+873,51,Other,Tokyo,Platinum,84,1352,Clothing,2023/7/19,Salesperson,0
+874,25,Other,Tokyo,Gold,65,2293,Home Goods,2023/9/10,Artist,1
+875,51,Other,Tokyo,Silver,8,1511,Clothing,2023/1/24,Artist,1
+876,32,Male,London,Silver,53,4239,Electronics,2023/8/3,Artist,1
+877,31,Male,Berlin,Platinum,66,112,Toys,2023/4/29,Retired,1
+878,61,Male,San Francisco,Gold,55,184,Sports,2023/7/26,Salesperson,1
+879,39,Other,Tokyo,Gold,82,965,Home Goods,2023/3/21,Retired,0
+880,54,Male,San Francisco,Gold,89,2559,Home Goods,2023/9/25,Retired,0
+881,30,Other,London,Silver,54,1323,Sports,2023/1/4,Engineer,1
+882,44,Other,Sydney,Silver,70,1584,Clothing,2023/1/27,Doctor,1
+883,36,Male,Berlin,Platinum,92,2902,Home Goods,2023/3/16,Teacher,0
+884,55,Other,Boston,Gold,60,1025,Home Goods,2023/12/7,Other,0
+885,53,Other,Tokyo,Gold,59,405,Books,2023/12/7,Other,1
+886,30,Other,Sydney,Silver,61,997,Toys,2023/8/19,Engineer,1
+887,59,Female,London,Bronze,83,2805,Home Goods,2023/10/5,Student,1
+888,53,Male,London,Gold,90,143,Books,2023/5/15,Artist,0
+889,43,Other,Tokyo,Bronze,9,579,Clothing,2023/8/31,Retired,0
+890,55,Female,San Francisco,Silver,82,167,Books,2023/11/12,Artist,0
+891,19,Male,London,Gold,25,243,Books,2023/10/9,Salesperson,0
+892,62,Male,Tokyo,Bronze,57,1517,Home Goods,2023/10/15,Engineer,1
+893,59,Male,Sydney,Gold,31,4763,Electronics,2023/9/15,Doctor,1
+894,61,Other,Sydney,Silver,60,1888,Home Goods,2023/10/11,Retired,0
+895,18,Other,London,Platinum,77,81,Books,2023/9/16,Retired,0
+896,33,Other,London,Platinum,88,2697,Home Goods,2023/1/23,Teacher,0
+897,46,Female,London,Bronze,97,179,Sports,2023/12/4,Retired,1
+898,58,Other,Tokyo,Silver,10,930,Clothing,2023/11/18,Other,0
+899,24,Female,San Francisco,Platinum,82,888,Sports,2023/11/30,Other,0
+900,67,Male,Berlin,Platinum,45,809,Toys,2023/1/4,Teacher,1
+901,68,Other,San Francisco,Platinum,56,714,Clothing,2023/10/22,Other,1
+902,50,Other,London,Platinum,68,709,Toys,2023/10/9,Salesperson,1
+903,44,Other,Sydney,Silver,86,186,Clothing,2023/1/21,Engineer,1
+904,38,Male,San Francisco,Silver,61,502,Clothing,2023/7/27,Student,0
+905,56,Other,Tokyo,Platinum,37,618,Home Goods,2023/1/16,Salesperson,0
+906,19,Female,Sydney,Bronze,91,3931,Electronics,2023/8/24,Retired,0
+907,34,Male,Boston,Bronze,25,3318,Electronics,2023/4/21,Teacher,1
+908,43,Other,San Francisco,Bronze,16,117,Toys,2023/9/5,Other,1
+909,37,Other,Berlin,Platinum,41,87,Toys,2023/11/27,Teacher,0
+910,48,Female,Tokyo,Platinum,73,895,Clothing,2023/9/3,Doctor,1
+911,18,Female,Tokyo,Gold,89,940,Home Goods,2023/5/15,Retired,0
+912,60,Other,Tokyo,Gold,24,726,Sports,2023/7/21,Other,1
+913,65,Other,Berlin,Platinum,9,1079,Home Goods,2023/7/9,Doctor,0
+914,39,Other,San Francisco,Silver,92,1158,Home Goods,2023/6/29,Retired,0
+915,51,Female,San Francisco,Gold,22,185,Toys,2023/7/9,Retired,0
+916,19,Other,San Francisco,Bronze,97,284,Books,2023/3/11,Doctor,1
+917,43,Other,Tokyo,Platinum,71,2696,Electronics,2023/4/9,Student,1
+918,56,Female,San Francisco,Bronze,39,2543,Electronics,2023/7/1,Student,1
+919,30,Other,Boston,Platinum,21,50,Books,2023/3/25,Engineer,1
+920,66,Male,Boston,Bronze,93,768,Toys,2023/6/12,Artist,1
+921,36,Male,San Francisco,Bronze,32,1231,Clothing,2023/1/29,Retired,0
+922,31,Male,Boston,Bronze,32,544,Sports,2023/2/8,Student,1
+923,31,Male,Berlin,Gold,63,279,Clothing,2023/10/21,Artist,0
+924,42,Male,San Francisco,Bronze,33,117,Toys,2023/11/22,Doctor,0
+925,62,Other,Boston,Bronze,68,202,Books,2023/5/21,Engineer,1
+926,44,Female,Boston,Silver,86,433,Sports,2023/11/13,Engineer,0
+927,37,Other,Sydney,Platinum,79,509,Toys,2023/5/17,Teacher,0
+928,57,Male,Berlin,Gold,34,1383,Home Goods,2023/1/7,Engineer,1
+929,52,Female,San Francisco,Silver,70,626,Home Goods,2023/7/28,Engineer,1
+930,33,Female,Berlin,Gold,18,713,Sports,2023/6/29,Engineer,0
+931,55,Female,Sydney,Silver,85,296,Books,2023/3/5,Other,1
+932,56,Other,London,Bronze,78,1479,Clothing,2023/5/15,Student,0
+933,50,Other,San Francisco,Bronze,75,1005,Sports,2023/6/11,Teacher,1
+934,54,Other,Tokyo,Gold,46,924,Clothing,2023/12/30,Engineer,1
+935,52,Other,Sydney,Gold,7,173,Sports,2023/9/22,Student,1
+936,69,Other,London,Gold,30,612,Toys,2023/6/16,Doctor,1
+937,64,Other,Sydney,Bronze,49,1020,Clothing,2023/1/8,Artist,1
+938,19,Male,Berlin,Platinum,61,419,Books,2023/7/21,Salesperson,0
+939,50,Female,San Francisco,Gold,20,185,Books,2023/4/14,Student,1
+940,48,Other,Berlin,Gold,10,2181,Home Goods,2023/11/4,Engineer,0
+941,55,Other,Boston,Platinum,97,74,Books,2023/3/21,Retired,1
+942,25,Female,Tokyo,Silver,55,993,Clothing,2023/4/12,Retired,0
+943,66,Female,Sydney,Bronze,63,832,Toys,2023/1/17,Doctor,1
+944,68,Male,Sydney,Bronze,27,571,Clothing,2023/4/13,Teacher,1
+945,68,Male,San Francisco,Bronze,74,759,Home Goods,2023/9/27,Other,1
+946,50,Other,San Francisco,Bronze,81,2701,Home Goods,2023/11/9,Artist,1
+947,61,Male,London,Bronze,44,2627,Electronics,2023/6/26,Student,0
+948,59,Male,San Francisco,Silver,9,569,Toys,2023/12/3,Teacher,1
+949,23,Male,London,Platinum,66,453,Books,2023/8/20,Retired,1
+950,19,Male,Berlin,Gold,85,232,Books,2023/11/20,Teacher,1
+951,51,Other,Boston,Platinum,83,1693,Electronics,2023/1/2,Doctor,0
+952,69,Other,London,Silver,46,922,Clothing,2023/7/31,Other,1
+953,48,Male,Tokyo,Bronze,22,714,Sports,2023/6/11,Engineer,1
+954,36,Other,Boston,Silver,60,759,Toys,2023/5/11,Other,1
+955,67,Female,London,Silver,70,280,Clothing,2023/8/14,Engineer,1
+956,35,Male,Boston,Bronze,13,638,Toys,2023/3/22,Salesperson,1
+957,36,Male,Sydney,Bronze,18,669,Sports,2023/2/10,Retired,1
+958,49,Female,London,Platinum,99,233,Toys,2023/8/31,Artist,0
+959,25,Other,Boston,Bronze,8,219,Books,2023/4/3,Student,0
+960,39,Male,San Francisco,Gold,63,274,Books,2023/4/22,Retired,0
+961,36,Other,Sydney,Silver,46,920,Clothing,2023/5/27,Retired,0
+962,64,Other,Boston,Bronze,17,245,Clothing,2023/9/3,Other,0
+963,62,Female,Tokyo,Bronze,95,655,Clothing,2023/11/29,Artist,1
+964,45,Female,London,Gold,29,2297,Home Goods,2023/3/19,Artist,1
+965,27,Female,Berlin,Gold,35,1287,Clothing,2023/12/2,Doctor,0
+966,22,Female,Sydney,Gold,47,824,Sports,2023/1/14,Teacher,1
+967,31,Other,London,Gold,76,1478,Electronics,2023/1/28,Retired,1
+968,41,Other,Berlin,Gold,55,888,Clothing,2023/3/22,Artist,0
+969,49,Female,Boston,Silver,94,769,Sports,2023/7/23,Salesperson,1
+970,69,Male,Tokyo,Silver,17,968,Toys,2023/5/18,Artist,0
+971,55,Other,London,Platinum,73,492,Books,2023/2/16,Doctor,0
+972,18,Female,Boston,Silver,53,828,Clothing,2023/5/31,Engineer,0
+973,36,Male,San Francisco,Gold,37,303,Sports,2023/8/18,Artist,1
+974,49,Other,London,Silver,18,727,Sports,2023/6/9,Artist,1
+975,19,Other,Sydney,Bronze,71,182,Clothing,2023/3/30,Doctor,0
+976,38,Other,Tokyo,Platinum,45,1385,Sports,2023/8/9,Student,1
+977,32,Female,Berlin,Gold,44,851,Clothing,2023/2/6,Salesperson,0
+978,59,Female,San Francisco,Gold,62,324,Books,2023/7/10,Student,0
+979,22,Male,Tokyo,Bronze,95,975,Toys,2023/8/7,Student,0
+980,43,Male,San Francisco,Silver,38,2331,Electronics,2023/9/10,Artist,0
+981,37,Other,Boston,Silver,27,94,Books,2023/5/9,Retired,1
+982,45,Female,Berlin,Platinum,60,436,Clothing,2023/9/27,Salesperson,1
+983,46,Female,Boston,Bronze,48,204,Books,2023/12/7,Teacher,1
+984,26,Female,San Francisco,Platinum,86,2321,Home Goods,2023/12/15,Engineer,0
+985,63,Male,Berlin,Silver,36,426,Books,2023/11/6,Student,1
+986,30,Male,Boston,Bronze,88,618,Sports,2023/3/19,Other,1
+987,64,Other,Berlin,Silver,61,240,Books,2023/10/4,Retired,1
+988,67,Other,London,Silver,59,422,Books,2023/3/25,Doctor,0
+989,29,Male,Tokyo,Gold,48,156,Books,2023/10/17,Salesperson,1
+990,26,Female,Berlin,Platinum,97,226,Toys,2023/12/31,Artist,1
+991,28,Other,London,Platinum,97,506,Toys,2023/2/18,Artist,1
+992,41,Female,Boston,Gold,35,1136,Sports,2023/1/19,Other,1
+993,42,Female,Tokyo,Bronze,25,498,Books,2023/4/2,Student,1
+994,43,Other,Berlin,Bronze,23,200,Sports,2023/6/11,Teacher,1
+995,36,Other,Berlin,Bronze,94,440,Books,2023/3/15,Artist,0
+996,36,Male,Tokyo,Bronze,97,661,Sports,2023/5/8,Teacher,0
+997,23,Other,Tokyo,Platinum,23,2703,Electronics,2023/8/13,Other,0
+998,65,Female,Berlin,Platinum,5,71,Books,2023/10/13,Engineer,1
+999,60,Male,Berlin,Platinum,23,441,Books,2023/7/9,Salesperson,1
+1000,64,Other,Boston,Gold,15,1371,Sports,2023/1/3,Teacher,0
+1001,39,Female,Berlin,Platinum,16,720,Home Goods,2023/10/30,Student,1
+1002,69,Female,Berlin,Silver,53,144,Books,2023/5/3,Doctor,1
+1003,27,Female,Boston,Gold,2,4973,Electronics,2023/2/7,Doctor,1
+1004,60,Male,Berlin,Platinum,36,721,Toys,2023/2/25,Teacher,1
+1005,31,Other,London,Platinum,20,2244,Electronics,2023/8/23,Other,0
+1006,36,Male,Sydney,Gold,36,697,Clothing,2023/8/18,Engineer,1
+1007,41,Female,San Francisco,Bronze,60,2321,Home Goods,2023/11/5,Engineer,0
+1008,63,Male,London,Silver,81,277,Toys,2023/7/1,Doctor,1
+1009,49,Female,Tokyo,Silver,98,947,Home Goods,2023/9/6,Retired,0
+1010,51,Female,Tokyo,Platinum,10,4436,Electronics,2023/5/4,Retired,1
+1011,32,Other,Boston,Platinum,76,211,Home Goods,2023/12/14,Engineer,1
+1012,65,Male,Berlin,Bronze,58,2638,Home Goods,2023/7/8,Teacher,1
+1013,58,Female,London,Platinum,25,166,Toys,2023/10/11,Other,0
+1014,67,Other,London,Bronze,38,2821,Home Goods,2023/6/27,Engineer,0
+1015,26,Female,London,Silver,27,694,Toys,2023/7/6,Student,1
+1016,19,Female,London,Platinum,85,760,Home Goods,2023/4/17,Engineer,1
+1017,40,Other,Berlin,Platinum,55,4878,Electronics,2023/9/6,Student,0
+1018,20,Female,Boston,Platinum,43,1354,Sports,2023/3/28,Other,1
+1019,40,Other,London,Silver,27,800,Sports,2023/9/27,Other,0
+1020,19,Female,Boston,Gold,84,264,Books,2023/1/14,Artist,1
+1021,26,Male,Tokyo,Silver,67,519,Toys,2023/4/21,Retired,0
+1022,69,Other,San Francisco,Bronze,49,1227,Home Goods,2023/10/1,Student,0
+1023,25,Other,London,Silver,61,804,Toys,2023/11/2,Engineer,0
+1024,66,Male,San Francisco,Platinum,13,724,Sports,2023/9/17,Teacher,0
+1025,41,Male,San Francisco,Platinum,88,930,Toys,2023/6/28,Doctor,0
+1026,31,Male,Berlin,Platinum,23,491,Books,2023/7/30,Other,0
+1027,66,Other,London,Gold,37,137,Sports,2023/6/11,Engineer,1
+1028,18,Male,Boston,Gold,94,324,Home Goods,2023/12/8,Engineer,0
+1029,60,Male,London,Platinum,10,1324,Clothing,2023/3/31,Artist,1
+1030,57,Other,San Francisco,Gold,62,583,Toys,2023/2/5,Engineer,1
+1031,21,Other,Tokyo,Silver,49,882,Sports,2023/8/16,Doctor,0
+1032,61,Other,Berlin,Silver,97,100,Toys,2023/7/14,Student,1
+1033,61,Female,London,Silver,75,1464,Sports,2023/4/27,Doctor,1
+1034,28,Other,Tokyo,Silver,83,1133,Sports,2023/4/23,Other,1
+1035,52,Other,London,Platinum,26,357,Home Goods,2023/9/18,Artist,0
+1036,51,Female,Berlin,Gold,6,4530,Electronics,2023/4/23,Retired,1
+1037,29,Male,London,Bronze,79,4098,Electronics,2023/12/26,Doctor,0

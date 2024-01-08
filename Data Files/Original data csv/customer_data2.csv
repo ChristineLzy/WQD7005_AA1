@@ -1,0 +1,1953 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,Churn
+1038 ,20 ,Male,London,Bronze,37 ,4783 ,Electronics,2023/11/5,Retired,1 
+1039 ,28 ,Female,Boston,Bronze,15 ,662 ,Toys,2023/11/3,Artist,1 
+1040 ,45 ,Other,London,Platinum,95 ,2489 ,Electronics,2023/8/24,Retired,0 
+1041 ,23 ,Female,San Francisco,Bronze,47 ,2653 ,Home Goods,2023/3/5,Artist,0 
+1042 ,44 ,Male,Sydney,Gold,83 ,604 ,Toys,2023/8/29,Doctor,1 
+1043 ,21 ,Female,Berlin,Silver,18 ,535 ,Sports,2023/8/23,Salesperson,0 
+1044 ,49 ,Male,San Francisco,Gold,71 ,2732 ,Electronics,2023/6/25,Retired,0 
+1045 ,29 ,Female,San Francisco,Platinum,68 ,1178 ,Clothing,2023/8/13,Engineer,1 
+1046 ,21 ,Female,Boston,Bronze,36 ,995 ,Clothing,2023/12/1,Retired,0 
+1047 ,19 ,Male,San Francisco,Bronze,74 ,1034 ,Electronics,2023/4/25,Teacher,0 
+1048 ,31 ,Other,London,Gold,13 ,2722 ,Home Goods,2023/8/30,Doctor,1 
+1049 ,35 ,Other,Sydney,Silver,69 ,301 ,Books,2023/10/14,Engineer,0 
+1050 ,26 ,Female,Sydney,Platinum,65 ,750 ,Home Goods,2023/2/20,Student,0 
+1051 ,56 ,Female,London,Gold,37 ,938 ,Electronics,2023/7/23,Doctor,1 
+1052 ,22 ,Female,Berlin,Bronze,55 ,1390 ,Clothing,2023/1/14,Retired,0 
+1053 ,24 ,Female,London,Gold,83 ,2963 ,Electronics,2023/3/15,Engineer,1 
+1054 ,30 ,Female,Sydney,Gold,62 ,281 ,Toys,2023/11/7,Retired,1 
+1055 ,27 ,Male,London,Gold,59 ,1395 ,Home Goods,2023/8/11,Doctor,0 
+1056 ,23 ,Female,Berlin,Gold,66 ,102 ,Books,2023/7/5,Teacher,1 
+1057 ,33 ,Other,Boston,Gold,69 ,216 ,Books,2023/12/12,Salesperson,1 
+1058 ,38 ,Other,Berlin,Platinum,85 ,425 ,Sports,2023/7/27,Artist,1 
+1059 ,49 ,Other,San Francisco,Gold,92 ,136 ,Books,2023/5/13,Other,1 
+1060 ,44 ,Female,Berlin,Silver,82 ,1193 ,Clothing,2023/9/9,Engineer,0 
+1061 ,25 ,Female,San Francisco,Platinum,35 ,603 ,Clothing,2023/12/22,Student,0 
+1062 ,61 ,Other,Berlin,Silver,5 ,547 ,Toys,2023/11/22,Teacher,0 
+1063 ,20 ,Male,Berlin,Silver,39 ,924 ,Home Goods,2023/5/13,Engineer,0 
+1064 ,50 ,Other,San Francisco,Gold,37 ,128 ,Books,2023/10/8,Salesperson,0 
+1065 ,64 ,Female,London,Silver,88 ,124 ,Books,2023/2/22,Salesperson,1 
+1066 ,29 ,Female,Berlin,Bronze,27 ,1802 ,Electronics,2023/7/9,Engineer,0 
+1067 ,36 ,Male,London,Platinum,21 ,2743 ,Electronics,2023/10/20,Salesperson,0 
+1068 ,62 ,Other,Boston,Bronze,12 ,3758 ,Electronics,2023/9/29,Retired,1 
+1069 ,18 ,Male,London,Bronze,69 ,996 ,Toys,2023/10/6,Artist,1 
+1070 ,55 ,Other,Berlin,Bronze,40 ,1872 ,Clothing,2023/11/16,Engineer,0 
+1071 ,65 ,Female,London,Bronze,95 ,221 ,Toys,2023/4/16,Engineer,1 
+1072 ,27 ,Female,San Francisco,Platinum,57 ,429 ,Clothing,2023/3/16,Artist,0 
+1073 ,44 ,Other,London,Gold,24 ,303 ,Books,2023/2/22,Artist,0 
+1074 ,38 ,Other,Berlin,Bronze,52 ,303 ,Books,2023/1/12,Student,0 
+1075 ,33 ,Other,Tokyo,Silver,70 ,2383 ,Home Goods,2023/12/20,Retired,0 
+1076 ,19 ,Female,London,Gold,26 ,1276 ,Clothing,2023/7/6,Student,0 
+1077 ,23 ,Male,Sydney,Silver,6 ,581 ,Toys,2023/12/11,Artist,0 
+1078 ,20 ,Female,Boston,Platinum,5 ,180 ,Toys,2023/7/24,Teacher,1 
+1079 ,43 ,Other,Tokyo,Bronze,7 ,235 ,Home Goods,2023/1/20,Other,1 
+1080 ,46 ,Male,Tokyo,Platinum,84 ,1696 ,Home Goods,2023/5/13,Engineer,0 
+1081 ,37 ,Other,San Francisco,Gold,2 ,355 ,Home Goods,2023/10/31,Doctor,1 
+1082 ,61 ,Male,Tokyo,Platinum,82 ,467 ,Sports,2023/1/18,Retired,1 
+1083 ,35 ,Female,Boston,Bronze,48 ,4519 ,Electronics,2023/9/24,Doctor,1 
+1084 ,23 ,Female,Tokyo,Silver,25 ,329 ,Home Goods,2023/11/15,Salesperson,1 
+1085 ,63 ,Other,Boston,Silver,2 ,253 ,Toys,2023/1/9,Doctor,0 
+1086 ,33 ,Male,San Francisco,Bronze,67 ,85 ,Books,2023/7/20,Teacher,1 
+1087 ,28 ,Other,Tokyo,Gold,22 ,402 ,Toys,2023/4/9,Engineer,1 
+1088 ,47 ,Female,Sydney,Silver,72 ,1329 ,Clothing,2023/12/18,Engineer,1 
+1089 ,35 ,Male,Berlin,Platinum,3 ,2713 ,Electronics,2023/5/3,Salesperson,1 
+1090 ,35 ,Male,Berlin,Bronze,80 ,298 ,Toys,2023/6/24,Other,1 
+1091 ,64 ,Female,Sydney,Bronze,55 ,395 ,Books,2023/5/15,Retired,1 
+1092 ,25 ,Male,London,Gold,4 ,792 ,Sports,2023/12/8,Artist,0 
+1093 ,35 ,Male,Tokyo,Platinum,23 ,1495 ,Clothing,2023/7/5,Engineer,1 
+1094 ,68 ,Female,Sydney,Platinum,59 ,4041 ,Electronics,2023/11/18,Other,1 
+1095 ,40 ,Male,London,Silver,29 ,2413 ,Home Goods,2023/3/12,Retired,0 
+1096 ,18 ,Female,Tokyo,Gold,54 ,87 ,Books,2023/8/24,Teacher,1 
+1097 ,25 ,Male,San Francisco,Bronze,58 ,613 ,Toys,2023/2/21,Doctor,1 
+1098 ,47 ,Female,Sydney,Gold,35 ,2617 ,Electronics,2023/2/1,Teacher,1 
+1099 ,46 ,Other,Tokyo,Platinum,64 ,253 ,Sports,2023/6/14,Retired,0 
+1100 ,53 ,Male,Boston,Silver,85 ,593 ,Sports,2023/6/22,Other,1 
+1101 ,61 ,Female,Tokyo,Platinum,15 ,2519 ,Home Goods,2023/6/5,Doctor,0 
+1102 ,52 ,Female,Boston,Gold,14 ,1727 ,Clothing,2023/10/31,Engineer,1 
+1103 ,58 ,Female,Sydney,Platinum,21 ,2215 ,Electronics,2023/1/4,Salesperson,1 
+1104 ,23 ,Female,Boston,Platinum,19 ,1376 ,Clothing,2023/1/1,Other,1 
+1105 ,68 ,Other,Tokyo,Gold,32 ,293 ,Toys,2023/3/20,Engineer,1 
+1106 ,46 ,Female,Tokyo,Silver,25 ,2296 ,Home Goods,2023/11/11,Teacher,1 
+1107 ,59 ,Other,Boston,Silver,65 ,88 ,Books,2023/10/23,Other,0 
+1108 ,52 ,Female,Berlin,Platinum,4 ,311 ,Books,2023/12/20,Salesperson,1 
+1109 ,52 ,Female,Berlin,Silver,81 ,2032 ,Home Goods,2023/3/16,Retired,0 
+1110 ,37 ,Female,Sydney,Platinum,70 ,98 ,Toys,2023/6/16,Doctor,1 
+1111 ,31 ,Female,London,Silver,5 ,1898 ,Clothing,2023/3/26,Retired,1 
+1112 ,55 ,Male,San Francisco,Platinum,80 ,2816 ,Home Goods,2023/8/23,Artist,0 
+1113 ,43 ,Male,London,Bronze,58 ,305 ,Books,2023/11/6,Doctor,1 
+1114 ,22 ,Female,Berlin,Gold,2 ,3377 ,Electronics,2023/7/22,Artist,1 
+1115 ,61 ,Male,Tokyo,Platinum,47 ,585 ,Home Goods,2023/5/8,Other,0 
+1116 ,29 ,Female,Berlin,Gold,56 ,1540 ,Clothing,2023/11/11,Student,0 
+1117 ,47 ,Male,Sydney,Platinum,13 ,251 ,Toys,2023/3/26,Doctor,1 
+1118 ,30 ,Female,Tokyo,Platinum,41 ,690 ,Clothing,2023/2/24,Artist,1 
+1119 ,43 ,Other,Berlin,Silver,88 ,438 ,Toys,2023/3/5,Student,0 
+1120 ,50 ,Female,Berlin,Gold,42 ,177 ,Books,2023/1/23,Doctor,0 
+1121 ,68 ,Other,London,Platinum,97 ,436 ,Toys,2023/11/6,Student,0 
+1122 ,58 ,Male,London,Gold,59 ,4410 ,Electronics,2023/8/9,Teacher,1 
+1123 ,69 ,Female,Boston,Platinum,40 ,868 ,Home Goods,2023/8/15,Retired,0 
+1124 ,60 ,Other,London,Platinum,77 ,2683 ,Home Goods,2023/10/13,Student,1 
+1125 ,41 ,Other,Tokyo,Bronze,56 ,1621 ,Home Goods,2023/5/26,Student,1 
+1126 ,69 ,Male,Berlin,Silver,47 ,254 ,Toys,2023/7/16,Retired,0 
+1127 ,43 ,Male,Tokyo,Silver,68 ,1720 ,Electronics,2023/7/2,Other,1 
+1128 ,61 ,Female,Boston,Bronze,61 ,2360 ,Home Goods,2023/4/10,Other,0 
+1129 ,68 ,Other,Boston,Silver,99 ,999 ,Sports,2023/3/2,Retired,1 
+1130 ,69 ,Female,Boston,Bronze,30 ,410 ,Toys,2023/11/30,Salesperson,1 
+1131 ,58 ,Male,Tokyo,Platinum,84 ,900 ,Clothing,2023/1/13,Retired,0 
+1132 ,42 ,Other,Boston,Gold,94 ,2140 ,Home Goods,2023/9/30,Salesperson,0 
+1133 ,49 ,Female,London,Platinum,45 ,506 ,Sports,2023/2/18,Doctor,1 
+1134 ,46 ,Other,Boston,Gold,48 ,403 ,Toys,2023/9/14,Salesperson,0 
+1135 ,18 ,Male,Tokyo,Gold,64 ,173 ,Toys,2023/1/5,Teacher,1 
+1136 ,68 ,Other,Berlin,Bronze,81 ,2366 ,Home Goods,2023/11/2,Engineer,0 
+1137 ,40 ,Other,Boston,Bronze,95 ,797 ,Toys,2023/4/29,Teacher,1 
+1138 ,42 ,Female,San Francisco,Platinum,29 ,631 ,Sports,2023/9/14,Artist,0 
+1139 ,69 ,Female,Boston,Gold,42 ,256 ,Toys,2023/3/3,Student,1 
+1140 ,40 ,Other,Boston,Platinum,20 ,3002 ,Electronics,2023/1/21,Other,0 
+1141 ,28 ,Female,Boston,Gold,53 ,713 ,Sports,2023/8/10,Engineer,0 
+1142 ,61 ,Female,Sydney,Silver,37 ,508 ,Toys,2023/1/12,Other,1 
+1143 ,49 ,Female,London,Platinum,47 ,109 ,Clothing,2023/10/22,Other,0 
+1144 ,27 ,Female,Tokyo,Bronze,73 ,358 ,Books,2023/5/6,Salesperson,0 
+1145 ,57 ,Male,San Francisco,Bronze,73 ,1516 ,Electronics,2023/7/31,Teacher,0 
+1146 ,24 ,Other,Boston,Gold,97 ,1787 ,Clothing,2023/11/18,Salesperson,0 
+1147 ,48 ,Female,Boston,Silver,62 ,1987 ,Electronics,2023/7/1,Retired,0 
+1148 ,21 ,Female,Sydney,Silver,56 ,597 ,Toys,2023/9/16,Engineer,1 
+1149 ,36 ,Male,Berlin,Gold,23 ,459 ,Books,2023/7/4,Retired,1 
+1150 ,30 ,Other,Tokyo,Silver,11 ,683 ,Sports,2023/5/4,Artist,0 
+1151 ,27 ,Male,Boston,Gold,8 ,1333 ,Clothing,2023/5/3,Other,1 
+1152 ,28 ,Female,Sydney,Bronze,59 ,386 ,Books,2023/9/1,Retired,1 
+1153 ,45 ,Female,San Francisco,Gold,21 ,250 ,Books,2023/1/25,Other,1 
+1154 ,19 ,Male,Berlin,Bronze,70 ,423 ,Home Goods,2023/8/7,Doctor,0 
+1155 ,39 ,Female,London,Gold,48 ,2117 ,Home Goods,2023/12/26,Retired,0 
+1156 ,60 ,Other,Tokyo,Silver,70 ,190 ,Toys,2023/10/24,Teacher,0 
+1157 ,24 ,Male,London,Platinum,8 ,378 ,Toys,2023/1/19,Doctor,0 
+1158 ,27 ,Other,San Francisco,Bronze,97 ,549 ,Sports,2023/7/11,Doctor,0 
+1159 ,54 ,Female,Tokyo,Bronze,72 ,257 ,Books,2023/9/7,Student,1 
+1160 ,41 ,Female,Sydney,Silver,3 ,353 ,Sports,2023/1/17,Retired,0 
+1161 ,26 ,Female,Berlin,Silver,26 ,761 ,Clothing,2023/11/24,Other,0 
+1162 ,41 ,Female,London,Gold,6 ,272 ,Books,2023/11/10,Doctor,0 
+1163 ,36 ,Female,London,Gold,23 ,1386 ,Home Goods,2023/9/17,Salesperson,1 
+1164 ,60 ,Female,London,Bronze,66 ,353 ,Clothing,2023/5/29,Engineer,0 
+1165 ,39 ,Female,Sydney,Platinum,85 ,1164 ,Electronics,2023/2/12,Doctor,1 
+1166 ,21 ,Male,Boston,Bronze,94 ,534 ,Toys,2023/5/7,Engineer,1 
+1167 ,32 ,Female,San Francisco,Silver,50 ,592 ,Toys,2023/11/30,Doctor,0 
+1168 ,38 ,Other,Boston,Platinum,60 ,182 ,Toys,2023/5/8,Artist,1 
+1169 ,61 ,Female,London,Bronze,41 ,4063 ,Electronics,2023/5/11,Other,0 
+1170 ,39 ,Other,London,Bronze,61 ,1307 ,Home Goods,2023/4/5,Doctor,0 
+1171 ,27 ,Male,Sydney,Silver,38 ,963 ,Sports,2023/2/12,Retired,0 
+1172 ,60 ,Female,London,Platinum,19 ,1827 ,Home Goods,2023/4/1,Other,1 
+1173 ,20 ,Female,Boston,Bronze,61 ,271 ,Clothing,2023/1/30,Other,1 
+1174 ,38 ,Other,San Francisco,Silver,12 ,1314 ,Clothing,2023/9/24,Salesperson,0 
+1175 ,61 ,Other,Berlin,Gold,86 ,965 ,Home Goods,2023/12/12,Salesperson,0 
+1176 ,34 ,Female,San Francisco,Bronze,41 ,1229 ,Sports,2023/1/12,Engineer,0 
+1177 ,31 ,Male,San Francisco,Silver,21 ,1107 ,Electronics,2023/1/21,Student,1 
+1178 ,60 ,Other,Boston,Bronze,79 ,1403 ,Sports,2023/10/12,Engineer,1 
+1179 ,53 ,Female,Sydney,Bronze,3 ,750 ,Electronics,2023/1/26,Retired,1 
+1180 ,29 ,Male,Boston,Gold,56 ,454 ,Books,2023/7/6,Retired,0 
+1181 ,46 ,Male,London,Bronze,92 ,470 ,Books,2023/6/6,Doctor,0 
+1182 ,60 ,Female,Sydney,Bronze,77 ,679 ,Home Goods,2023/8/22,Other,0 
+1183 ,39 ,Female,Sydney,Gold,75 ,129 ,Toys,2023/1/29,Other,0 
+1184 ,52 ,Male,Sydney,Gold,90 ,110 ,Sports,2023/10/7,Teacher,0 
+1185 ,62 ,Female,San Francisco,Silver,83 ,878 ,Toys,2023/2/18,Artist,0 
+1186 ,60 ,Male,Sydney,Silver,37 ,1702 ,Electronics,2023/5/26,Student,1 
+1187 ,46 ,Male,Berlin,Gold,78 ,4990 ,Electronics,2023/11/2,Artist,1 
+1188 ,36 ,Other,Berlin,Gold,13 ,193 ,Sports,2023/2/26,Student,0 
+1189 ,26 ,Male,Sydney,Silver,26 ,1011 ,Sports,2023/9/15,Doctor,0 
+1190 ,48 ,Other,Berlin,Gold,93 ,357 ,Books,2023/7/6,Artist,0 
+1191 ,18 ,Other,Berlin,Platinum,64 ,339 ,Books,2023/11/16,Salesperson,1 
+1192 ,31 ,Other,San Francisco,Silver,5 ,388 ,Sports,2023/12/25,Other,1 
+1193 ,36 ,Female,Boston,Platinum,95 ,1372 ,Sports,2023/5/6,Other,1 
+1194 ,56 ,Male,Boston,Bronze,55 ,372 ,Clothing,2023/6/10,Engineer,1 
+1195 ,29 ,Male,Sydney,Bronze,7 ,986 ,Toys,2023/10/17,Teacher,0 
+1196 ,37 ,Male,Boston,Platinum,34 ,392 ,Home Goods,2023/5/5,Artist,1 
+1197 ,30 ,Other,Berlin,Bronze,12 ,1849 ,Clothing,2023/6/10,Other,1 
+1198 ,22 ,Male,Tokyo,Bronze,43 ,626 ,Sports,2023/2/2,Other,0 
+1199 ,63 ,Other,Berlin,Gold,12 ,1341 ,Sports,2023/4/17,Retired,1 
+1200 ,43 ,Other,Boston,Silver,55 ,537 ,Sports,2023/10/31,Teacher,1 
+1201 ,58 ,Male,Boston,Platinum,93 ,163 ,Toys,2023/7/11,Engineer,0 
+1202 ,53 ,Other,San Francisco,Platinum,45 ,943 ,Toys,2023/6/11,Engineer,0 
+1203 ,23 ,Other,San Francisco,Gold,59 ,1426 ,Home Goods,2023/8/16,Student,1 
+1204 ,49 ,Other,Tokyo,Silver,21 ,646 ,Electronics,2023/9/25,Retired,1 
+1205 ,47 ,Female,Tokyo,Silver,51 ,862 ,Clothing,2023/1/26,Teacher,1 
+1206 ,20 ,Female,Sydney,Silver,35 ,482 ,Books,2023/9/17,Engineer,1 
+1207 ,50 ,Female,Boston,Platinum,72 ,698 ,Sports,2023/3/31,Retired,1 
+1208 ,25 ,Male,Sydney,Silver,4 ,2226 ,Home Goods,2023/6/20,Retired,0 
+1209 ,47 ,Female,Sydney,Silver,68 ,420 ,Toys,2023/6/10,Artist,1 
+1210 ,26 ,Female,Sydney,Platinum,79 ,1192 ,Clothing,2023/10/21,Artist,1 
+1211 ,45 ,Female,San Francisco,Platinum,18 ,2583 ,Electronics,2023/1/19,Student,0 
+1212 ,51 ,Other,London,Gold,63 ,672 ,Toys,2023/2/20,Engineer,1 
+1213 ,47 ,Other,San Francisco,Platinum,17 ,1947 ,Home Goods,2023/3/13,Teacher,0 
+1214 ,22 ,Female,San Francisco,Gold,87 ,347 ,Toys,2023/7/13,Retired,1 
+1215 ,56 ,Male,London,Bronze,55 ,1592 ,Clothing,2023/2/13,Salesperson,0 
+1216 ,51 ,Male,Boston,Platinum,65 ,391 ,Sports,2023/1/17,Doctor,0 
+1217 ,27 ,Female,Berlin,Bronze,91 ,4715 ,Electronics,2023/11/30,Student,1 
+1218 ,21 ,Other,Tokyo,Silver,23 ,1047 ,Clothing,2023/6/30,Artist,1 
+1219 ,32 ,Female,London,Bronze,34 ,4240 ,Electronics,2023/10/18,Retired,0 
+1220 ,38 ,Male,Boston,Platinum,83 ,689 ,Toys,2023/5/22,Student,0 
+1221 ,53 ,Other,Sydney,Silver,52 ,1830 ,Home Goods,2023/7/29,Teacher,1 
+1222 ,69 ,Female,San Francisco,Bronze,13 ,121 ,Books,2023/11/11,Teacher,0 
+1223 ,46 ,Female,San Francisco,Gold,26 ,1183 ,Sports,2023/2/28,Salesperson,0 
+1224 ,63 ,Other,Berlin,Bronze,78 ,1273 ,Clothing,2023/10/7,Doctor,0 
+1225 ,46 ,Male,Boston,Platinum,3 ,492 ,Sports,2023/4/12,Doctor,1 
+1226 ,69 ,Female,Tokyo,Platinum,50 ,2454 ,Electronics,2023/2/8,Doctor,1 
+1227 ,22 ,Male,Tokyo,Silver,71 ,614 ,Electronics,2023/11/5,Retired,1 
+1228 ,33 ,Male,Tokyo,Gold,23 ,424 ,Clothing,2023/6/30,Artist,0 
+1229 ,29 ,Other,London,Silver,43 ,1434 ,Sports,2023/9/3,Student,0 
+1230 ,49 ,Other,San Francisco,Bronze,23 ,91 ,Toys,2023/1/17,Salesperson,0 
+1231 ,54 ,Female,San Francisco,Gold,21 ,230 ,Books,2023/10/17,Student,1 
+1232 ,30 ,Male,Berlin,Gold,64 ,450 ,Books,2023/7/8,Retired,1 
+1233 ,56 ,Male,Boston,Silver,87 ,1422 ,Home Goods,2023/12/23,Other,0 
+1234 ,37 ,Male,Tokyo,Silver,76 ,2812 ,Electronics,2023/2/19,Doctor,0 
+1235 ,34 ,Female,Boston,Bronze,30 ,1697 ,Home Goods,2023/11/30,Retired,0 
+1236 ,65 ,Male,London,Bronze,19 ,679 ,Clothing,2023/7/8,Doctor,0 
+1237 ,54 ,Female,Tokyo,Bronze,23 ,68 ,Books,2023/11/22,Artist,1 
+1238 ,28 ,Other,Tokyo,Gold,20 ,264 ,Sports,2023/5/18,Doctor,0 
+1239 ,24 ,Male,London,Silver,85 ,344 ,Sports,2023/8/17,Doctor,1 
+1240 ,44 ,Male,San Francisco,Silver,7 ,1256 ,Sports,2023/10/30,Engineer,1 
+1241 ,54 ,Other,Tokyo,Bronze,83 ,700 ,Clothing,2023/5/14,Retired,1 
+1242 ,48 ,Male,San Francisco,Platinum,12 ,594 ,Clothing,2023/1/22,Other,0 
+1243 ,53 ,Male,San Francisco,Silver,70 ,745 ,Electronics,2023/1/20,Salesperson,0 
+1244 ,18 ,Other,Boston,Bronze,2 ,2070 ,Home Goods,2023/4/10,Salesperson,1 
+1245 ,56 ,Male,London,Bronze,83 ,1332 ,Clothing,2023/8/25,Student,1 
+1246 ,36 ,Other,Berlin,Platinum,49 ,260 ,Books,2023/7/15,Other,0 
+1247 ,49 ,Male,Berlin,Platinum,5 ,1495 ,Clothing,2023/11/16,Retired,1 
+1248 ,59 ,Male,Tokyo,Gold,5 ,207 ,Toys,2023/6/30,Artist,1 
+1249 ,68 ,Female,San Francisco,Gold,84 ,997 ,Clothing,2023/7/3,Retired,0 
+1250 ,49 ,Male,San Francisco,Gold,84 ,4120 ,Electronics,2023/1/15,Artist,0 
+1251 ,66 ,Other,Sydney,Gold,36 ,462 ,Books,2023/4/2,Artist,1 
+1252 ,60 ,Other,San Francisco,Gold,77 ,924 ,Home Goods,2023/12/22,Doctor,1 
+1253 ,67 ,Other,Sydney,Gold,88 ,85 ,Books,2023/11/6,Engineer,0 
+1254 ,68 ,Other,London,Silver,7 ,1470 ,Home Goods,2023/10/15,Salesperson,0 
+1255 ,40 ,Female,Boston,Gold,10 ,858 ,Toys,2023/5/4,Other,0 
+1256 ,18 ,Female,Boston,Bronze,58 ,956 ,Toys,2023/12/17,Artist,0 
+1257 ,24 ,Female,Sydney,Bronze,4 ,146 ,Clothing,2023/7/22,Teacher,1 
+1258 ,63 ,Other,San Francisco,Bronze,37 ,355 ,Clothing,2023/8/27,Retired,0 
+1259 ,50 ,Male,Tokyo,Gold,40 ,1479 ,Clothing,2023/12/12,Engineer,0 
+1260 ,45 ,Female,London,Bronze,32 ,1043 ,Sports,2023/12/23,Teacher,0 
+1261 ,18 ,Other,San Francisco,Bronze,43 ,888 ,Home Goods,2023/1/1,Other,0 
+1262 ,44 ,Female,Boston,Silver,63 ,778 ,Sports,2023/1/21,Other,1 
+1263 ,68 ,Other,Sydney,Bronze,31 ,1319 ,Sports,2023/2/26,Teacher,1 
+1264 ,38 ,Female,Berlin,Gold,88 ,2492 ,Home Goods,2023/7/8,Retired,1 
+1265 ,44 ,Male,London,Bronze,58 ,560 ,Electronics,2023/9/9,Doctor,1 
+1266 ,19 ,Male,Tokyo,Silver,66 ,79 ,Books,2023/4/28,Retired,1 
+1267 ,55 ,Male,London,Platinum,86 ,1072 ,Sports,2023/3/15,Artist,1 
+1268 ,31 ,Female,Boston,Gold,1 ,3835 ,Electronics,2023/11/25,Engineer,0 
+1269 ,58 ,Male,London,Gold,2 ,2053 ,Home Goods,2023/2/6,Student,0 
+1270 ,36 ,Other,Sydney,Silver,53 ,728 ,Sports,2023/10/26,Teacher,0 
+1271 ,36 ,Female,London,Platinum,5 ,724 ,Sports,2023/5/1,Engineer,1 
+1272 ,56 ,Other,Tokyo,Silver,7 ,258 ,Books,2023/6/11,Retired,0 
+1273 ,67 ,Other,London,Silver,94 ,2668 ,Home Goods,2023/4/1,Engineer,0 
+1274 ,68 ,Male,Boston,Platinum,45 ,2618 ,Electronics,2023/2/26,Other,0 
+1275 ,56 ,Male,Berlin,Silver,67 ,1255 ,Clothing,2023/2/3,Other,1 
+1276 ,41 ,Male,Tokyo,Silver,5 ,374 ,Sports,2023/7/19,Salesperson,1 
+1277 ,22 ,Other,Tokyo,Platinum,48 ,1751 ,Home Goods,2023/5/20,Engineer,1 
+1278 ,23 ,Other,Tokyo,Bronze,48 ,242 ,Home Goods,2023/1/28,Doctor,1 
+1279 ,41 ,Male,London,Gold,48 ,2169 ,Home Goods,2023/2/21,Other,0 
+1280 ,20 ,Female,Boston,Gold,37 ,409 ,Toys,2023/5/21,Doctor,0 
+1281 ,37 ,Female,San Francisco,Bronze,26 ,2515 ,Home Goods,2023/4/19,Artist,0 
+1282 ,54 ,Female,Tokyo,Bronze,20 ,758 ,Electronics,2023/5/5,Teacher,0 
+1283 ,35 ,Other,Tokyo,Platinum,39 ,4094 ,Electronics,2023/9/16,Student,0 
+1284 ,39 ,Other,Berlin,Platinum,76 ,656 ,Toys,2023/6/24,Doctor,1 
+1285 ,31 ,Male,London,Platinum,86 ,1353 ,Electronics,2023/10/10,Doctor,1 
+1286 ,60 ,Male,Boston,Bronze,95 ,237 ,Clothing,2023/5/2,Salesperson,0 
+1287 ,69 ,Other,San Francisco,Silver,2 ,1409 ,Clothing,2023/8/9,Teacher,0 
+1288 ,44 ,Female,Sydney,Bronze,56 ,4186 ,Electronics,2023/8/23,Salesperson,0 
+1289 ,67 ,Male,London,Bronze,84 ,2274 ,Electronics,2023/7/19,Salesperson,0 
+1290 ,50 ,Other,Sydney,Silver,98 ,735 ,Toys,2023/3/7,Other,1 
+1291 ,26 ,Female,Boston,Gold,68 ,235 ,Books,2023/7/4,Engineer,1 
+1292 ,26 ,Other,Sydney,Gold,18 ,441 ,Books,2023/3/27,Teacher,0 
+1293 ,38 ,Male,London,Gold,19 ,1252 ,Sports,2023/12/12,Student,0 
+1294 ,64 ,Female,Boston,Gold,87 ,1579 ,Clothing,2023/5/22,Student,1 
+1295 ,22 ,Other,San Francisco,Platinum,3 ,64 ,Toys,2023/11/11,Salesperson,0 
+1296 ,36 ,Male,Tokyo,Gold,63 ,792 ,Toys,2023/12/1,Student,0 
+1297 ,39 ,Female,Berlin,Silver,91 ,387 ,Books,2023/8/19,Salesperson,1 
+1298 ,57 ,Female,Berlin,Bronze,10 ,1342 ,Home Goods,2023/9/7,Doctor,1 
+1299 ,47 ,Female,London,Gold,98 ,78 ,Books,2023/11/13,Other,1 
+1300 ,28 ,Male,San Francisco,Silver,78 ,543 ,Clothing,2023/2/2,Engineer,1 
+1301 ,43 ,Female,London,Platinum,50 ,2634 ,Electronics,2023/10/1,Other,1 
+1302 ,41 ,Other,San Francisco,Bronze,46 ,215 ,Sports,2023/1/11,Other,0 
+1303 ,48 ,Male,Sydney,Platinum,8 ,2793 ,Home Goods,2023/11/6,Artist,1 
+1304 ,44 ,Female,Sydney,Platinum,91 ,289 ,Books,2023/10/28,Artist,0 
+1305 ,31 ,Male,London,Bronze,87 ,1784 ,Home Goods,2023/11/9,Doctor,1 
+1306 ,29 ,Male,San Francisco,Gold,97 ,1437 ,Electronics,2023/10/29,Other,0 
+1307 ,60 ,Female,Berlin,Bronze,68 ,2831 ,Home Goods,2023/3/6,Other,0 
+1308 ,28 ,Female,Boston,Platinum,50 ,1256 ,Electronics,2023/7/22,Other,1 
+1309 ,42 ,Female,Berlin,Platinum,6 ,430 ,Books,2023/3/27,Doctor,1 
+1310 ,42 ,Female,Boston,Gold,85 ,220 ,Books,2023/11/30,Student,1 
+1311 ,65 ,Other,Sydney,Gold,47 ,3813 ,Electronics,2023/9/28,Other,1 
+1312 ,22 ,Female,Sydney,Platinum,74 ,353 ,Books,2023/5/10,Salesperson,0 
+1313 ,61 ,Male,London,Platinum,73 ,972 ,Sports,2023/3/2,Salesperson,1 
+1314 ,45 ,Male,Boston,Platinum,82 ,176 ,Toys,2023/5/20,Doctor,0 
+1315 ,31 ,Female,Tokyo,Bronze,9 ,1547 ,Clothing,2023/9/23,Student,1 
+1316 ,24 ,Other,San Francisco,Gold,86 ,559 ,Sports,2023/6/20,Salesperson,1 
+1317 ,20 ,Female,San Francisco,Silver,64 ,146 ,Clothing,2023/3/20,Artist,1 
+1318 ,21 ,Female,Tokyo,Silver,95 ,258 ,Toys,2023/7/30,Artist,1 
+1319 ,47 ,Other,Sydney,Gold,54 ,2237 ,Home Goods,2023/1/5,Doctor,0 
+1320 ,60 ,Male,London,Bronze,45 ,195 ,Clothing,2023/5/4,Student,0 
+1321 ,22 ,Female,Berlin,Gold,26 ,1140 ,Clothing,2023/12/8,Engineer,0 
+1322 ,46 ,Male,Berlin,Gold,93 ,1609 ,Clothing,2023/8/24,Retired,0 
+1323 ,53 ,Other,San Francisco,Platinum,41 ,1039 ,Sports,2023/10/31,Teacher,0 
+1324 ,55 ,Female,Tokyo,Platinum,8 ,580 ,Home Goods,2023/11/7,Retired,1 
+1325 ,36 ,Male,San Francisco,Silver,63 ,205 ,Toys,2023/12/7,Salesperson,0 
+1326 ,56 ,Female,San Francisco,Bronze,66 ,1070 ,Clothing,2023/6/11,Artist,1 
+1327 ,31 ,Female,Berlin,Gold,15 ,3222 ,Electronics,2023/3/2,Doctor,1 
+1328 ,64 ,Other,Sydney,Platinum,56 ,340 ,Books,2023/2/4,Engineer,1 
+1329 ,32 ,Female,San Francisco,Platinum,38 ,320 ,Sports,2023/1/26,Retired,0 
+1330 ,59 ,Female,San Francisco,Bronze,67 ,1252 ,Home Goods,2023/4/25,Other,1 
+1331 ,24 ,Male,Sydney,Gold,44 ,356 ,Books,2023/12/23,Artist,0 
+1332 ,45 ,Male,Berlin,Silver,65 ,92 ,Books,2023/8/21,Engineer,0 
+1333 ,34 ,Female,Boston,Bronze,85 ,1303 ,Clothing,2023/12/2,Salesperson,1 
+1334 ,38 ,Male,Tokyo,Gold,18 ,774 ,Toys,2023/3/25,Engineer,0 
+1335 ,41 ,Male,Berlin,Silver,72 ,4455 ,Electronics,2023/7/29,Student,1 
+1336 ,53 ,Female,San Francisco,Platinum,19 ,1233 ,Clothing,2023/6/3,Other,1 
+1337 ,25 ,Other,Tokyo,Bronze,83 ,1552 ,Home Goods,2023/6/19,Other,1 
+1338 ,24 ,Female,London,Platinum,38 ,560 ,Toys,2023/10/30,Engineer,1 
+1339 ,39 ,Female,Sydney,Platinum,92 ,946 ,Sports,2023/3/11,Engineer,0 
+1340 ,18 ,Male,San Francisco,Platinum,76 ,259 ,Sports,2023/1/15,Artist,0 
+1341 ,68 ,Female,Sydney,Silver,93 ,542 ,Home Goods,2023/9/12,Other,0 
+1342 ,44 ,Other,Sydney,Platinum,19 ,884 ,Clothing,2023/8/11,Teacher,0 
+1343 ,27 ,Female,Boston,Silver,31 ,355 ,Books,2023/6/15,Student,1 
+1344 ,59 ,Female,Berlin,Gold,60 ,383 ,Books,2023/8/3,Teacher,1 
+1345 ,46 ,Male,San Francisco,Silver,35 ,898 ,Toys,2023/11/14,Artist,0 
+1346 ,21 ,Other,Tokyo,Platinum,75 ,237 ,Books,2023/10/16,Doctor,0 
+1347 ,68 ,Male,Boston,Gold,65 ,141 ,Clothing,2023/12/8,Artist,0 
+1348 ,39 ,Female,San Francisco,Bronze,88 ,301 ,Books,2023/7/22,Teacher,1 
+1349 ,65 ,Other,San Francisco,Gold,48 ,247 ,Toys,2023/1/23,Salesperson,0 
+1350 ,51 ,Male,Sydney,Silver,46 ,779 ,Toys,2023/12/27,Artist,1 
+1351 ,25 ,Female,Sydney,Gold,52 ,3597 ,Electronics,2023/10/21,Retired,0 
+1352 ,26 ,Other,Tokyo,Gold,84 ,667 ,Clothing,2023/6/20,Retired,0 
+1353 ,57 ,Female,Berlin,Platinum,7 ,374 ,Sports,2023/4/13,Doctor,1 
+1354 ,69 ,Male,Tokyo,Bronze,49 ,2735 ,Electronics,2023/9/4,Student,1 
+1355 ,51 ,Female,Tokyo,Gold,54 ,61 ,Books,2023/3/16,Engineer,0 
+1356 ,57 ,Female,Tokyo,Gold,81 ,1205 ,Sports,2023/2/27,Salesperson,1 
+1357 ,53 ,Female,Boston,Bronze,25 ,673 ,Sports,2023/5/17,Teacher,0 
+1358 ,25 ,Other,San Francisco,Platinum,17 ,70 ,Toys,2023/1/14,Salesperson,0 
+1359 ,59 ,Male,London,Silver,14 ,987 ,Clothing,2023/4/10,Doctor,0 
+1360 ,45 ,Female,San Francisco,Bronze,15 ,1191 ,Sports,2023/7/24,Doctor,0 
+1361 ,69 ,Female,Berlin,Gold,60 ,1447 ,Clothing,2023/2/12,Student,1 
+1362 ,58 ,Male,Berlin,Bronze,93 ,391 ,Books,2023/8/29,Student,0 
+1363 ,25 ,Other,San Francisco,Bronze,87 ,1383 ,Clothing,2023/2/15,Salesperson,1 
+1364 ,54 ,Female,Boston,Platinum,22 ,264 ,Books,2023/2/21,Salesperson,1 
+1365 ,63 ,Other,Tokyo,Silver,18 ,932 ,Home Goods,2023/8/30,Engineer,1 
+1366 ,48 ,Female,San Francisco,Gold,18 ,1959 ,Clothing,2023/10/26,Teacher,1 
+1367 ,27 ,Female,Tokyo,Platinum,31 ,218 ,Books,2023/4/10,Other,0 
+1368 ,65 ,Male,Berlin,Bronze,43 ,179 ,Books,2023/10/17,Engineer,0 
+1369 ,42 ,Other,Boston,Platinum,29 ,2093 ,Electronics,2023/1/1,Engineer,1 
+1370 ,64 ,Female,Boston,Gold,6 ,724 ,Toys,2023/7/22,Salesperson,1 
+1371 ,39 ,Female,San Francisco,Gold,83 ,122 ,Books,2023/9/28,Teacher,0 
+1372 ,18 ,Other,London,Gold,90 ,869 ,Toys,2023/11/1,Retired,1 
+1373 ,37 ,Male,Berlin,Platinum,21 ,776 ,Clothing,2023/10/2,Retired,1 
+1374 ,37 ,Female,San Francisco,Platinum,36 ,471 ,Books,2023/12/21,Student,1 
+1375 ,39 ,Female,Sydney,Bronze,81 ,4145 ,Electronics,2023/11/20,Retired,1 
+1376 ,45 ,Female,Sydney,Gold,73 ,530 ,Toys,2023/11/13,Artist,0 
+1377 ,51 ,Female,Berlin,Bronze,11 ,393 ,Books,2023/2/24,Other,0 
+1378 ,58 ,Female,Sydney,Gold,36 ,2643 ,Home Goods,2023/12/31,Teacher,0 
+1379 ,64 ,Other,Sydney,Gold,17 ,902 ,Sports,2023/9/15,Salesperson,1 
+1380 ,60 ,Female,Sydney,Bronze,35 ,475 ,Books,2023/8/28,Teacher,0 
+1381 ,39 ,Male,London,Silver,74 ,2976 ,Home Goods,2023/7/14,Teacher,1 
+1382 ,48 ,Female,Tokyo,Platinum,86 ,2925 ,Home Goods,2023/3/20,Student,0 
+1383 ,65 ,Female,Tokyo,Platinum,54 ,2529 ,Home Goods,2023/2/2,Teacher,1 
+1384 ,36 ,Other,San Francisco,Platinum,75 ,1779 ,Clothing,2023/2/18,Doctor,0 
+1385 ,21 ,Other,London,Bronze,72 ,1091 ,Clothing,2023/11/20,Engineer,0 
+1386 ,53 ,Female,Berlin,Bronze,49 ,290 ,Books,2023/11/4,Salesperson,1 
+1387 ,49 ,Male,London,Silver,56 ,1598 ,Clothing,2023/12/2,Engineer,1 
+1388 ,47 ,Female,San Francisco,Bronze,21 ,579 ,Clothing,2023/9/13,Retired,0 
+1389 ,57 ,Other,Sydney,Silver,79 ,912 ,Clothing,2023/5/14,Retired,1 
+1390 ,40 ,Male,Boston,Platinum,6 ,4417 ,Electronics,2023/3/2,Doctor,0 
+1391 ,28 ,Other,Berlin,Gold,38 ,1003 ,Sports,2023/6/30,Other,1 
+1392 ,60 ,Other,Boston,Gold,13 ,1809 ,Electronics,2023/10/30,Other,1 
+1393 ,26 ,Male,Tokyo,Platinum,40 ,281 ,Toys,2023/1/31,Retired,1 
+1394 ,49 ,Male,Sydney,Bronze,28 ,1998 ,Home Goods,2023/11/25,Other,1 
+1395 ,30 ,Male,London,Platinum,50 ,986 ,Clothing,2023/7/8,Other,1 
+1396 ,36 ,Male,San Francisco,Bronze,34 ,305 ,Toys,2023/3/14,Doctor,1 
+1397 ,25 ,Other,London,Gold,96 ,325 ,Books,2023/6/29,Teacher,0 
+1398 ,41 ,Male,Sydney,Gold,55 ,79 ,Books,2023/6/4,Engineer,0 
+1399 ,26 ,Female,Boston,Gold,51 ,455 ,Books,2023/1/25,Salesperson,1 
+1400 ,41 ,Other,Sydney,Bronze,49 ,952 ,Clothing,2023/3/23,Engineer,1 
+1401 ,64 ,Male,Berlin,Platinum,84 ,484 ,Books,2023/7/7,Student,1 
+1402 ,52 ,Male,Berlin,Silver,97 ,229 ,Books,2023/12/8,Other,0 
+1403 ,48 ,Female,San Francisco,Gold,62 ,934 ,Toys,2023/2/6,Artist,0 
+1404 ,21 ,Male,Berlin,Bronze,5 ,499 ,Toys,2023/9/30,Student,0 
+1405 ,66 ,Other,Berlin,Platinum,83 ,387 ,Toys,2023/10/6,Retired,0 
+1406 ,60 ,Female,Boston,Gold,84 ,1238 ,Sports,2023/7/4,Other,1 
+1407 ,22 ,Other,Boston,Gold,94 ,284 ,Books,2023/12/9,Other,0 
+1408 ,66 ,Male,Tokyo,Gold,56 ,1446 ,Sports,2023/8/22,Salesperson,1 
+1409 ,33 ,Female,Tokyo,Silver,63 ,752 ,Home Goods,2023/3/30,Salesperson,0 
+1410 ,42 ,Male,Berlin,Platinum,57 ,1844 ,Home Goods,2023/10/28,Salesperson,1 
+1411 ,48 ,Female,Berlin,Platinum,91 ,470 ,Books,2023/4/2,Retired,0 
+1412 ,60 ,Female,Berlin,Gold,61 ,395 ,Books,2023/4/11,Student,0 
+1413 ,44 ,Other,London,Bronze,39 ,581 ,Electronics,2023/8/21,Teacher,0 
+1414 ,52 ,Other,Boston,Platinum,72 ,869 ,Electronics,2023/12/18,Artist,1 
+1415 ,63 ,Other,London,Bronze,70 ,405 ,Books,2023/8/19,Retired,0 
+1416 ,65 ,Other,Berlin,Platinum,13 ,1646 ,Home Goods,2023/5/8,Other,0 
+1417 ,41 ,Male,San Francisco,Platinum,28 ,3407 ,Electronics,2023/8/9,Student,0 
+1418 ,58 ,Female,San Francisco,Silver,19 ,356 ,Books,2023/1/31,Retired,1 
+1419 ,53 ,Female,Boston,Gold,54 ,678 ,Electronics,2023/12/25,Student,0 
+1420 ,34 ,Other,London,Bronze,35 ,269 ,Sports,2023/7/17,Salesperson,0 
+1421 ,41 ,Female,Tokyo,Silver,93 ,970 ,Clothing,2023/6/19,Student,1 
+1422 ,65 ,Other,Boston,Silver,83 ,634 ,Sports,2023/1/4,Teacher,0 
+1423 ,44 ,Male,Sydney,Platinum,95 ,2476 ,Home Goods,2023/7/17,Salesperson,0 
+1424 ,32 ,Female,Sydney,Platinum,44 ,1016 ,Sports,2023/2/28,Teacher,0 
+1425 ,41 ,Female,Tokyo,Platinum,95 ,134 ,Clothing,2023/2/8,Other,0 
+1426 ,42 ,Other,London,Gold,37 ,1253 ,Sports,2023/11/24,Other,1 
+1427 ,67 ,Male,Tokyo,Bronze,84 ,411 ,Books,2023/8/29,Retired,1 
+1428 ,42 ,Other,Sydney,Platinum,36 ,3995 ,Electronics,2023/2/23,Artist,1 
+1429 ,33 ,Male,Berlin,Bronze,7 ,1271 ,Sports,2023/4/29,Engineer,0 
+1430 ,21 ,Other,Tokyo,Silver,87 ,3523 ,Electronics,2023/7/1,Student,1 
+1431 ,27 ,Other,Berlin,Platinum,31 ,3428 ,Electronics,2023/8/27,Salesperson,0 
+1432 ,64 ,Other,San Francisco,Platinum,11 ,202 ,Books,2023/5/17,Teacher,1 
+1433 ,38 ,Female,London,Bronze,31 ,187 ,Books,2023/12/24,Engineer,0 
+1434 ,20 ,Other,Tokyo,Silver,56 ,677 ,Toys,2023/1/20,Artist,0 
+1435 ,48 ,Female,Berlin,Bronze,37 ,1535 ,Clothing,2023/6/22,Artist,1 
+1436 ,30 ,Other,London,Silver,56 ,70 ,Books,2023/5/16,Retired,0 
+1437 ,43 ,Male,London,Silver,62 ,930 ,Electronics,2023/8/21,Other,1 
+1438 ,18 ,Other,San Francisco,Bronze,20 ,409 ,Toys,2023/12/24,Student,1 
+1439 ,51 ,Other,Berlin,Platinum,51 ,120 ,Books,2023/7/13,Artist,1 
+1440 ,52 ,Other,Sydney,Silver,93 ,495 ,Clothing,2023/6/10,Student,0 
+1441 ,31 ,Other,London,Bronze,46 ,1751 ,Clothing,2023/11/26,Artist,1 
+1442 ,29 ,Female,Sydney,Platinum,76 ,932 ,Home Goods,2023/10/8,Student,1 
+1443 ,44 ,Female,Tokyo,Gold,57 ,1014 ,Home Goods,2023/6/11,Student,0 
+1444 ,42 ,Other,Boston,Silver,32 ,111 ,Books,2023/8/18,Engineer,1 
+1445 ,69 ,Male,Berlin,Silver,94 ,3282 ,Electronics,2023/7/1,Doctor,1 
+1446 ,61 ,Other,Sydney,Gold,60 ,3020 ,Electronics,2023/5/25,Artist,1 
+1447 ,59 ,Male,San Francisco,Gold,76 ,2235 ,Home Goods,2023/10/29,Engineer,0 
+1448 ,65 ,Female,San Francisco,Gold,31 ,842 ,Toys,2023/4/23,Other,1 
+1449 ,31 ,Female,Tokyo,Bronze,90 ,704 ,Toys,2023/6/20,Doctor,1 
+1450 ,58 ,Female,London,Silver,81 ,1280 ,Home Goods,2023/4/26,Teacher,1 
+1451 ,49 ,Other,Tokyo,Gold,42 ,335 ,Books,2023/12/4,Doctor,0 
+1452 ,56 ,Other,Berlin,Platinum,78 ,920 ,Toys,2023/8/19,Doctor,1 
+1453 ,33 ,Female,Tokyo,Bronze,4 ,2275 ,Home Goods,2023/7/9,Student,1 
+1454 ,43 ,Female,Tokyo,Silver,28 ,318 ,Books,2023/1/26,Artist,0 
+1455 ,59 ,Male,San Francisco,Platinum,7 ,1019 ,Sports,2023/5/18,Teacher,1 
+1456 ,49 ,Other,Tokyo,Platinum,10 ,226 ,Books,2023/8/25,Engineer,1 
+1457 ,64 ,Other,Tokyo,Bronze,67 ,1412 ,Home Goods,2023/7/12,Artist,0 
+1458 ,68 ,Other,Sydney,Bronze,68 ,1123 ,Clothing,2023/10/4,Engineer,1 
+1459 ,51 ,Female,San Francisco,Bronze,83 ,1675 ,Clothing,2023/3/11,Retired,0 
+1460 ,56 ,Other,Sydney,Platinum,75 ,490 ,Clothing,2023/9/25,Other,0 
+1461 ,46 ,Female,London,Bronze,36 ,2241 ,Home Goods,2023/5/2,Teacher,0 
+1462 ,61 ,Other,San Francisco,Bronze,57 ,577 ,Sports,2023/10/30,Teacher,1 
+1463 ,38 ,Female,San Francisco,Bronze,45 ,4361 ,Electronics,2023/2/5,Student,1 
+1464 ,32 ,Male,San Francisco,Gold,60 ,335 ,Home Goods,2023/2/10,Doctor,0 
+1465 ,27 ,Female,London,Platinum,72 ,3571 ,Electronics,2023/8/11,Engineer,1 
+1466 ,60 ,Female,Boston,Platinum,9 ,4890 ,Electronics,2023/2/6,Artist,1 
+1467 ,21 ,Male,San Francisco,Bronze,78 ,1562 ,Clothing,2023/8/15,Teacher,1 
+1468 ,35 ,Other,Sydney,Silver,35 ,1186 ,Home Goods,2023/1/12,Other,1 
+1469 ,33 ,Other,Tokyo,Bronze,72 ,945 ,Sports,2023/10/17,Salesperson,1 
+1470 ,21 ,Female,Tokyo,Gold,73 ,1117 ,Home Goods,2023/6/5,Teacher,1 
+1471 ,65 ,Female,Tokyo,Platinum,94 ,888 ,Clothing,2023/11/3,Retired,0 
+1472 ,24 ,Male,Boston,Platinum,82 ,277 ,Books,2023/8/11,Doctor,1 
+1473 ,60 ,Other,Sydney,Gold,35 ,680 ,Toys,2023/9/8,Engineer,0 
+1474 ,23 ,Female,Tokyo,Silver,62 ,694 ,Toys,2023/7/6,Teacher,1 
+1475 ,38 ,Male,Boston,Silver,79 ,172 ,Books,2023/4/14,Artist,0 
+1476 ,31 ,Other,San Francisco,Platinum,66 ,361 ,Toys,2023/4/29,Teacher,0 
+1477 ,42 ,Other,Sydney,Gold,56 ,805 ,Toys,2023/11/18,Doctor,1 
+1478 ,64 ,Male,London,Gold,10 ,1051 ,Sports,2023/1/7,Engineer,1 
+1479 ,33 ,Female,Sydney,Bronze,60 ,1460 ,Home Goods,2023/1/2,Doctor,0 
+1480 ,54 ,Male,Boston,Silver,2 ,914 ,Sports,2023/6/11,Doctor,1 
+1481 ,34 ,Male,Tokyo,Bronze,48 ,417 ,Toys,2023/11/2,Doctor,0 
+1482 ,69 ,Male,London,Silver,58 ,1814 ,Electronics,2023/11/26,Teacher,0 
+1483 ,27 ,Other,Tokyo,Bronze,3 ,762 ,Home Goods,2023/4/16,Student,0 
+1484 ,37 ,Female,Sydney,Silver,20 ,337 ,Books,2023/12/4,Doctor,0 
+1485 ,42 ,Male,San Francisco,Platinum,26 ,540 ,Clothing,2023/8/30,Salesperson,1 
+1486 ,36 ,Other,San Francisco,Gold,54 ,215 ,Books,2023/4/10,Engineer,1 
+1487 ,32 ,Male,Berlin,Bronze,12 ,264 ,Toys,2023/11/21,Salesperson,0 
+1488 ,24 ,Female,Tokyo,Silver,9 ,1482 ,Home Goods,2023/6/1,Engineer,1 
+1489 ,45 ,Other,Berlin,Silver,30 ,2046 ,Home Goods,2023/3/21,Student,0 
+1490 ,41 ,Other,London,Silver,43 ,1885 ,Clothing,2023/7/30,Retired,0 
+1491 ,23 ,Female,London,Platinum,42 ,232 ,Books,2023/1/18,Engineer,1 
+1492 ,22 ,Female,San Francisco,Platinum,93 ,3287 ,Electronics,2023/1/3,Engineer,1 
+1493 ,41 ,Female,San Francisco,Bronze,83 ,214 ,Books,2023/6/16,Doctor,0 
+1494 ,64 ,Other,Tokyo,Platinum,54 ,1305 ,Sports,2023/9/17,Artist,1 
+1495 ,57 ,Female,Boston,Silver,26 ,1207 ,Clothing,2023/9/27,Doctor,0 
+1496 ,20 ,Female,London,Gold,28 ,4571 ,Electronics,2023/9/24,Doctor,0 
+1497 ,31 ,Female,Tokyo,Silver,39 ,717 ,Clothing,2023/7/1,Other,1 
+1498 ,60 ,Male,Berlin,Bronze,42 ,1271 ,Sports,2023/8/12,Teacher,1 
+1499 ,44 ,Male,San Francisco,Silver,48 ,885 ,Clothing,2023/2/8,Engineer,0 
+1500 ,42 ,Other,Tokyo,Platinum,78 ,480 ,Toys,2023/3/4,Doctor,1 
+1501 ,35 ,Female,London,Bronze,38 ,385 ,Sports,2023/10/8,Teacher,1 
+1502 ,41 ,Male,Sydney,Bronze,78 ,916 ,Toys,2023/12/27,Teacher,0 
+1503 ,19 ,Female,Tokyo,Platinum,56 ,723 ,Toys,2023/10/2,Teacher,0 
+1504 ,63 ,Other,San Francisco,Platinum,38 ,473 ,Books,2023/2/10,Salesperson,1 
+1505 ,39 ,Other,Sydney,Platinum,70 ,457 ,Books,2023/6/29,Teacher,1 
+1506 ,65 ,Female,Boston,Bronze,51 ,4104 ,Electronics,2023/9/16,Artist,0 
+1507 ,35 ,Other,London,Gold,61 ,160 ,Books,2023/1/20,Other,1 
+1508 ,51 ,Other,London,Silver,23 ,397 ,Home Goods,2023/10/8,Teacher,1 
+1509 ,61 ,Female,Berlin,Platinum,90 ,684 ,Sports,2023/1/16,Artist,0 
+1510 ,29 ,Female,Berlin,Platinum,94 ,261 ,Books,2023/4/17,Other,0 
+1511 ,52 ,Other,San Francisco,Bronze,55 ,981 ,Toys,2023/6/29,Teacher,0 
+1512 ,20 ,Female,Sydney,Bronze,6 ,644 ,Sports,2023/11/20,Other,1 
+1513 ,50 ,Female,Boston,Bronze,83 ,1588 ,Clothing,2023/3/17,Doctor,0 
+1514 ,44 ,Male,Tokyo,Gold,84 ,597 ,Toys,2023/1/12,Other,1 
+1515 ,37 ,Male,Berlin,Platinum,35 ,627 ,Toys,2023/5/3,Other,0 
+1516 ,44 ,Female,Berlin,Silver,60 ,400 ,Books,2023/9/30,Teacher,1 
+1517 ,44 ,Male,Berlin,Gold,37 ,3480 ,Electronics,2023/10/12,Teacher,1 
+1518 ,69 ,Male,London,Platinum,26 ,1508 ,Clothing,2023/9/10,Salesperson,1 
+1519 ,25 ,Male,London,Platinum,32 ,1948 ,Electronics,2023/10/9,Student,0 
+1520 ,53 ,Male,London,Platinum,17 ,1079 ,Home Goods,2023/9/22,Teacher,1 
+1521 ,49 ,Male,San Francisco,Platinum,41 ,654 ,Clothing,2023/3/14,Other,1 
+1522 ,33 ,Other,Boston,Silver,56 ,342 ,Books,2023/2/18,Teacher,0 
+1523 ,46 ,Female,Boston,Platinum,88 ,294 ,Clothing,2023/9/22,Artist,1 
+1524 ,30 ,Other,Boston,Bronze,83 ,436 ,Clothing,2023/1/24,Student,0 
+1525 ,64 ,Other,San Francisco,Silver,39 ,513 ,Clothing,2023/11/9,Teacher,0 
+1526 ,41 ,Male,Berlin,Platinum,12 ,1153 ,Sports,2023/2/23,Student,0 
+1527 ,24 ,Other,San Francisco,Bronze,61 ,151 ,Toys,2023/8/29,Salesperson,1 
+1528 ,23 ,Other,London,Silver,13 ,3368 ,Electronics,2023/8/12,Doctor,0 
+1529 ,46 ,Male,Tokyo,Gold,59 ,1238 ,Sports,2023/10/1,Teacher,1 
+1530 ,52 ,Male,Sydney,Bronze,6 ,3365 ,Electronics,2023/12/24,Student,0 
+1531 ,41 ,Female,Boston,Bronze,27 ,1059 ,Sports,2023/3/11,Artist,1 
+1532 ,39 ,Other,Sydney,Gold,20 ,698 ,Toys,2023/5/11,Doctor,0 
+1533 ,28 ,Other,Tokyo,Silver,36 ,235 ,Books,2023/11/9,Retired,1 
+1534 ,33 ,Female,London,Gold,42 ,526 ,Clothing,2023/2/21,Other,0 
+1535 ,32 ,Male,London,Gold,14 ,425 ,Home Goods,2023/5/22,Teacher,0 
+1536 ,41 ,Female,San Francisco,Bronze,85 ,777 ,Sports,2023/9/23,Salesperson,0 
+1537 ,19 ,Female,London,Gold,64 ,405 ,Sports,2023/10/28,Retired,1 
+1538 ,38 ,Male,London,Platinum,71 ,287 ,Books,2023/4/27,Engineer,1 
+1539 ,29 ,Female,London,Bronze,66 ,84 ,Toys,2023/2/16,Student,1 
+1540 ,30 ,Other,Sydney,Bronze,52 ,1027 ,Clothing,2023/8/8,Engineer,0 
+1541 ,65 ,Other,San Francisco,Gold,1 ,99 ,Books,2023/11/3,Student,0 
+1542 ,44 ,Female,London,Bronze,56 ,2412 ,Electronics,2023/1/4,Student,1 
+1543 ,36 ,Female,London,Platinum,29 ,1490 ,Home Goods,2023/3/4,Engineer,0 
+1544 ,63 ,Male,Boston,Gold,99 ,3779 ,Electronics,2023/1/15,Retired,0 
+1545 ,19 ,Female,Sydney,Gold,31 ,318 ,Clothing,2023/2/28,Doctor,1 
+1546 ,46 ,Other,Berlin,Gold,83 ,214 ,Home Goods,2023/3/29,Engineer,0 
+1547 ,41 ,Other,Sydney,Gold,15 ,692 ,Toys,2023/12/7,Artist,1 
+1548 ,56 ,Female,Sydney,Platinum,77 ,353 ,Books,2023/6/21,Artist,0 
+1549 ,38 ,Male,Sydney,Gold,35 ,281 ,Books,2023/10/18,Salesperson,1 
+1550 ,51 ,Other,Boston,Silver,82 ,531 ,Clothing,2023/12/14,Student,0 
+1551 ,69 ,Other,London,Silver,68 ,1748 ,Home Goods,2023/4/8,Salesperson,1 
+1552 ,64 ,Other,Boston,Gold,45 ,1792 ,Clothing,2023/8/21,Teacher,0 
+1553 ,48 ,Female,Sydney,Bronze,16 ,2447 ,Home Goods,2023/12/24,Engineer,0 
+1554 ,18 ,Other,Tokyo,Gold,60 ,1725 ,Home Goods,2023/8/13,Student,1 
+1555 ,32 ,Other,Berlin,Bronze,56 ,920 ,Home Goods,2023/8/11,Other,1 
+1556 ,51 ,Female,Sydney,Silver,26 ,887 ,Sports,2023/1/11,Artist,0 
+1557 ,62 ,Male,Berlin,Silver,25 ,197 ,Toys,2023/8/13,Other,0 
+1558 ,34 ,Female,London,Silver,84 ,1277 ,Sports,2023/2/19,Student,1 
+1559 ,18 ,Male,Boston,Gold,96 ,274 ,Sports,2023/8/5,Other,1 
+1560 ,63 ,Other,San Francisco,Platinum,76 ,1708 ,Electronics,2023/8/10,Engineer,0 
+1561 ,63 ,Other,Tokyo,Bronze,43 ,585 ,Sports,2023/6/25,Teacher,1 
+1562 ,48 ,Female,San Francisco,Silver,48 ,339 ,Books,2023/5/3,Artist,1 
+1563 ,36 ,Other,London,Platinum,51 ,1548 ,Home Goods,2023/6/2,Student,1 
+1564 ,54 ,Other,London,Bronze,74 ,311 ,Sports,2023/11/19,Doctor,1 
+1565 ,28 ,Other,London,Gold,86 ,1044 ,Sports,2023/2/11,Doctor,0 
+1566 ,63 ,Other,Tokyo,Bronze,68 ,588 ,Clothing,2023/7/25,Other,0 
+1567 ,42 ,Female,Tokyo,Silver,38 ,751 ,Clothing,2023/1/11,Other,0 
+1568 ,32 ,Male,Sydney,Silver,20 ,1148 ,Sports,2023/10/26,Engineer,0 
+1569 ,57 ,Other,Boston,Platinum,28 ,601 ,Sports,2023/2/16,Salesperson,0 
+1570 ,53 ,Female,Tokyo,Platinum,90 ,2467 ,Home Goods,2023/6/27,Artist,0 
+1571 ,51 ,Male,Berlin,Gold,58 ,1155 ,Home Goods,2023/5/28,Teacher,0 
+1572 ,60 ,Female,San Francisco,Silver,81 ,2343 ,Home Goods,2023/5/11,Other,0 
+1573 ,18 ,Other,Berlin,Platinum,4 ,931 ,Clothing,2023/1/26,Retired,0 
+1574 ,23 ,Other,London,Gold,1 ,535 ,Sports,2023/11/25,Retired,0 
+1575 ,44 ,Other,London,Gold,88 ,866 ,Electronics,2023/7/19,Engineer,0 
+1576 ,30 ,Female,Tokyo,Silver,15 ,956 ,Toys,2023/6/1,Engineer,0 
+1577 ,67 ,Female,Tokyo,Gold,72 ,325 ,Sports,2023/3/17,Teacher,1 
+1578 ,60 ,Male,Tokyo,Platinum,84 ,1130 ,Sports,2023/2/10,Retired,1 
+1579 ,38 ,Female,Tokyo,Bronze,45 ,1795 ,Clothing,2023/5/29,Engineer,1 
+1580 ,64 ,Other,Sydney,Silver,58 ,2618 ,Electronics,2023/10/14,Doctor,0 
+1581 ,42 ,Female,London,Platinum,74 ,1292 ,Clothing,2023/6/10,Retired,0 
+1582 ,22 ,Male,San Francisco,Bronze,26 ,355 ,Books,2023/5/25,Teacher,1 
+1583 ,36 ,Female,Tokyo,Platinum,30 ,281 ,Books,2023/3/20,Other,0 
+1584 ,46 ,Male,San Francisco,Silver,64 ,325 ,Sports,2023/3/31,Engineer,0 
+1585 ,67 ,Female,Tokyo,Gold,80 ,679 ,Toys,2023/7/22,Artist,0 
+1586 ,37 ,Other,Berlin,Silver,56 ,3645 ,Electronics,2023/8/11,Doctor,1 
+1587 ,33 ,Other,San Francisco,Bronze,10 ,163 ,Toys,2023/11/19,Other,0 
+1588 ,35 ,Female,Tokyo,Platinum,95 ,942 ,Toys,2023/7/11,Retired,0 
+1589 ,25 ,Male,London,Platinum,15 ,1846 ,Electronics,2023/6/29,Retired,1 
+1590 ,57 ,Male,London,Gold,78 ,517 ,Sports,2023/1/3,Other,1 
+1591 ,18 ,Other,Berlin,Bronze,57 ,1811 ,Home Goods,2023/3/25,Student,0 
+1592 ,20 ,Female,London,Gold,72 ,838 ,Toys,2023/4/28,Other,1 
+1593 ,44 ,Female,Sydney,Bronze,81 ,512 ,Electronics,2023/11/17,Student,1 
+1594 ,69 ,Male,Tokyo,Platinum,72 ,428 ,Home Goods,2023/8/23,Doctor,1 
+1595 ,22 ,Male,Berlin,Gold,81 ,159 ,Books,2023/11/27,Salesperson,0 
+1596 ,34 ,Female,Boston,Gold,38 ,2810 ,Electronics,2023/3/8,Retired,0 
+1597 ,31 ,Female,Tokyo,Bronze,20 ,4725 ,Electronics,2023/1/22,Other,0 
+1598 ,22 ,Other,Boston,Platinum,20 ,353 ,Home Goods,2023/2/11,Engineer,1 
+1599 ,48 ,Female,San Francisco,Gold,32 ,2873 ,Home Goods,2023/10/8,Retired,0 
+1600 ,38 ,Female,London,Silver,61 ,619 ,Toys,2023/10/9,Artist,1 
+1601 ,54 ,Male,Tokyo,Gold,43 ,1767 ,Clothing,2023/12/2,Student,0 
+1602 ,52 ,Female,San Francisco,Platinum,83 ,156 ,Books,2023/10/15,Doctor,1 
+1603 ,68 ,Other,San Francisco,Silver,68 ,3773 ,Electronics,2023/7/13,Teacher,1 
+1604 ,54 ,Female,London,Silver,32 ,562 ,Clothing,2023/6/15,Doctor,0 
+1605 ,49 ,Other,Tokyo,Platinum,98 ,4909 ,Electronics,2023/12/17,Retired,1 
+1606 ,62 ,Male,Boston,Gold,16 ,2932 ,Home Goods,2023/5/4,Other,0 
+1607 ,53 ,Other,San Francisco,Bronze,22 ,223 ,Books,2023/3/13,Teacher,1 
+1608 ,50 ,Female,San Francisco,Platinum,61 ,122 ,Books,2023/4/17,Engineer,1 
+1609 ,68 ,Other,London,Bronze,70 ,1575 ,Clothing,2023/2/9,Retired,1 
+1610 ,69 ,Male,San Francisco,Bronze,54 ,252 ,Books,2023/1/11,Artist,1 
+1611 ,23 ,Female,Boston,Bronze,61 ,1684 ,Electronics,2023/1/14,Other,0 
+1612 ,51 ,Male,San Francisco,Platinum,62 ,1363 ,Clothing,2023/12/17,Retired,1 
+1613 ,18 ,Other,Tokyo,Gold,35 ,425 ,Toys,2023/5/20,Artist,1 
+1614 ,27 ,Female,Berlin,Platinum,30 ,326 ,Books,2023/4/5,Student,0 
+1615 ,49 ,Other,Boston,Bronze,29 ,1067 ,Sports,2023/12/19,Teacher,0 
+1616 ,53 ,Female,San Francisco,Gold,17 ,1033 ,Sports,2023/12/26,Artist,1 
+1617 ,42 ,Other,Boston,Gold,5 ,727 ,Clothing,2023/9/20,Doctor,1 
+1618 ,56 ,Male,Sydney,Silver,47 ,286 ,Toys,2023/10/4,Retired,0 
+1619 ,29 ,Other,San Francisco,Silver,92 ,1305 ,Sports,2023/5/26,Salesperson,0 
+1620 ,62 ,Other,Boston,Gold,3 ,749 ,Sports,2023/7/8,Teacher,1 
+1621 ,61 ,Other,Sydney,Platinum,90 ,411 ,Books,2023/4/27,Engineer,0 
+1622 ,25 ,Male,Berlin,Platinum,29 ,849 ,Toys,2023/1/25,Teacher,0 
+1623 ,66 ,Male,Sydney,Silver,18 ,381 ,Clothing,2023/11/2,Artist,0 
+1624 ,50 ,Male,London,Bronze,31 ,249 ,Books,2023/1/31,Other,1 
+1625 ,47 ,Female,San Francisco,Bronze,6 ,1384 ,Electronics,2023/3/27,Retired,1 
+1626 ,58 ,Female,San Francisco,Platinum,85 ,4822 ,Electronics,2023/11/9,Retired,0 
+1627 ,42 ,Other,Berlin,Silver,99 ,2257 ,Electronics,2023/5/28,Artist,1 
+1628 ,61 ,Other,London,Gold,78 ,1953 ,Clothing,2023/11/15,Artist,1 
+1629 ,69 ,Other,Sydney,Platinum,20 ,721 ,Toys,2023/5/26,Other,1 
+1630 ,28 ,Male,London,Silver,99 ,647 ,Clothing,2023/9/11,Retired,0 
+1631 ,48 ,Male,Tokyo,Platinum,61 ,323 ,Home Goods,2023/3/22,Retired,0 
+1632 ,67 ,Other,Sydney,Platinum,89 ,320 ,Toys,2023/2/28,Engineer,1 
+1633 ,36 ,Male,Sydney,Bronze,82 ,494 ,Toys,2023/4/3,Salesperson,0 
+1634 ,28 ,Female,Sydney,Platinum,5 ,73 ,Toys,2023/2/4,Doctor,1 
+1635 ,57 ,Female,San Francisco,Bronze,51 ,936 ,Toys,2023/10/7,Engineer,0 
+1636 ,24 ,Other,Tokyo,Bronze,72 ,1934 ,Clothing,2023/2/15,Retired,1 
+1637 ,25 ,Male,London,Silver,34 ,1857 ,Home Goods,2023/4/29,Retired,1 
+1638 ,33 ,Male,Berlin,Gold,8 ,2203 ,Home Goods,2023/10/16,Other,0 
+1639 ,30 ,Male,London,Silver,71 ,2703 ,Electronics,2023/3/5,Salesperson,1 
+1640 ,69 ,Male,Berlin,Platinum,90 ,1364 ,Clothing,2023/10/8,Engineer,1 
+1641 ,18 ,Other,Sydney,Silver,57 ,3774 ,Electronics,2023/11/4,Salesperson,1 
+1642 ,21 ,Male,London,Bronze,48 ,781 ,Toys,2023/12/21,Engineer,0 
+1643 ,69 ,Male,Boston,Bronze,51 ,323 ,Toys,2023/4/15,Student,0 
+1644 ,33 ,Male,London,Bronze,61 ,818 ,Clothing,2023/4/4,Engineer,0 
+1645 ,21 ,Female,Tokyo,Platinum,26 ,2215 ,Home Goods,2023/11/5,Salesperson,1 
+1646 ,35 ,Female,Sydney,Gold,38 ,1410 ,Sports,2023/4/17,Teacher,1 
+1647 ,20 ,Female,Berlin,Silver,30 ,357 ,Books,2023/9/24,Other,1 
+1648 ,33 ,Female,Tokyo,Platinum,91 ,995 ,Toys,2023/7/22,Salesperson,1 
+1649 ,18 ,Male,Sydney,Gold,80 ,4811 ,Electronics,2023/1/31,Retired,1 
+1650 ,37 ,Female,Sydney,Platinum,83 ,2850 ,Electronics,2023/9/1,Salesperson,1 
+1651 ,62 ,Female,Sydney,Gold,56 ,606 ,Electronics,2023/3/28,Doctor,1 
+1652 ,41 ,Female,Sydney,Bronze,13 ,158 ,Books,2023/3/10,Doctor,0 
+1653 ,39 ,Female,Boston,Platinum,54 ,1162 ,Sports,2023/4/28,Artist,1 
+1654 ,18 ,Female,Sydney,Bronze,43 ,666 ,Clothing,2023/10/24,Teacher,1 
+1655 ,48 ,Male,San Francisco,Silver,30 ,169 ,Toys,2023/2/13,Retired,0 
+1656 ,38 ,Other,London,Platinum,74 ,4080 ,Electronics,2023/5/22,Doctor,1 
+1657 ,19 ,Other,San Francisco,Platinum,61 ,3935 ,Electronics,2023/3/11,Other,0 
+1658 ,63 ,Other,Tokyo,Bronze,69 ,1442 ,Electronics,2023/10/31,Retired,0 
+1659 ,38 ,Other,Berlin,Platinum,39 ,2474 ,Electronics,2023/5/12,Doctor,0 
+1660 ,60 ,Other,Boston,Gold,39 ,660 ,Sports,2023/9/13,Teacher,0 
+1661 ,30 ,Other,London,Bronze,70 ,655 ,Toys,2023/11/14,Other,1 
+1662 ,40 ,Male,Berlin,Platinum,33 ,1729 ,Home Goods,2023/9/10,Salesperson,0 
+1663 ,32 ,Male,Berlin,Bronze,80 ,594 ,Clothing,2023/8/11,Other,1 
+1664 ,42 ,Other,London,Platinum,37 ,1350 ,Home Goods,2023/1/23,Engineer,1 
+1665 ,64 ,Male,Tokyo,Platinum,3 ,2323 ,Electronics,2023/2/25,Salesperson,1 
+1666 ,62 ,Female,Boston,Silver,46 ,447 ,Books,2023/10/10,Retired,1 
+1667 ,61 ,Other,Berlin,Silver,9 ,2329 ,Home Goods,2023/2/5,Retired,1 
+1668 ,58 ,Male,Sydney,Gold,86 ,1600 ,Home Goods,2023/3/11,Teacher,1 
+1669 ,50 ,Other,Berlin,Gold,87 ,239 ,Books,2023/5/24,Student,1 
+1670 ,34 ,Other,Sydney,Silver,6 ,4486 ,Electronics,2023/4/18,Salesperson,1 
+1671 ,24 ,Male,Boston,Bronze,97 ,204 ,Books,2023/1/21,Student,0 
+1672 ,42 ,Other,Tokyo,Silver,41 ,1744 ,Electronics,2023/4/10,Artist,0 
+1673 ,31 ,Male,Sydney,Bronze,74 ,1326 ,Electronics,2023/7/4,Artist,1 
+1674 ,43 ,Female,Sydney,Bronze,45 ,387 ,Books,2023/2/3,Artist,1 
+1675 ,53 ,Male,London,Silver,18 ,1407 ,Clothing,2023/4/28,Student,1 
+1676 ,49 ,Female,Tokyo,Bronze,1 ,1015 ,Sports,2023/7/24,Engineer,1 
+1677 ,57 ,Other,Sydney,Bronze,65 ,855 ,Clothing,2023/9/23,Retired,0 
+1678 ,32 ,Male,London,Silver,87 ,736 ,Home Goods,2023/6/7,Artist,0 
+1679 ,67 ,Female,Tokyo,Platinum,47 ,880 ,Toys,2023/4/12,Teacher,1 
+1680 ,47 ,Other,Tokyo,Gold,26 ,184 ,Clothing,2023/4/16,Teacher,0 
+1681 ,66 ,Female,Tokyo,Platinum,42 ,203 ,Sports,2023/2/7,Engineer,1 
+1682 ,64 ,Female,Tokyo,Bronze,53 ,63 ,Books,2023/3/31,Doctor,1 
+1683 ,31 ,Other,San Francisco,Bronze,33 ,1576 ,Home Goods,2023/8/4,Teacher,1 
+1684 ,37 ,Male,San Francisco,Platinum,81 ,287 ,Toys,2023/8/21,Teacher,0 
+1685 ,33 ,Female,Boston,Platinum,58 ,3570 ,Electronics,2023/10/2,Salesperson,0 
+1686 ,51 ,Male,Tokyo,Silver,65 ,1191 ,Sports,2023/9/7,Engineer,1 
+1687 ,59 ,Male,Sydney,Gold,66 ,839 ,Toys,2023/4/18,Other,1 
+1688 ,53 ,Female,London,Silver,16 ,2650 ,Home Goods,2023/5/15,Other,1 
+1689 ,43 ,Other,Boston,Silver,65 ,170 ,Books,2023/5/31,Doctor,1 
+1690 ,69 ,Male,London,Silver,96 ,230 ,Clothing,2023/6/18,Teacher,1 
+1691 ,52 ,Other,Tokyo,Gold,59 ,385 ,Toys,2023/2/15,Retired,1 
+1692 ,40 ,Male,Boston,Silver,4 ,1089 ,Sports,2023/10/6,Teacher,0 
+1693 ,51 ,Female,Boston,Bronze,85 ,2128 ,Home Goods,2023/5/21,Artist,1 
+1694 ,53 ,Other,Berlin,Silver,85 ,776 ,Clothing,2023/12/6,Salesperson,1 
+1695 ,32 ,Female,Berlin,Silver,53 ,2064 ,Home Goods,2023/11/30,Student,0 
+1696 ,25 ,Female,London,Bronze,55 ,298 ,Toys,2023/4/22,Engineer,0 
+1697 ,50 ,Male,Sydney,Gold,54 ,1940 ,Electronics,2023/11/22,Retired,0 
+1698 ,21 ,Male,Boston,Bronze,82 ,820 ,Sports,2023/4/1,Student,0 
+1699 ,21 ,Female,Tokyo,Bronze,91 ,320 ,Sports,2023/6/5,Salesperson,1 
+1700 ,49 ,Female,Berlin,Platinum,55 ,370 ,Books,2023/10/22,Teacher,1 
+1701 ,50 ,Other,Berlin,Bronze,89 ,74 ,Toys,2023/8/2,Teacher,0 
+1702 ,64 ,Other,London,Platinum,50 ,366 ,Books,2023/9/21,Retired,1 
+1703 ,43 ,Female,San Francisco,Platinum,11 ,630 ,Electronics,2023/9/19,Artist,0 
+1704 ,39 ,Female,Sydney,Bronze,60 ,2607 ,Home Goods,2023/7/6,Engineer,1 
+1705 ,46 ,Male,Sydney,Platinum,99 ,713 ,Toys,2023/1/15,Doctor,1 
+1706 ,53 ,Female,London,Bronze,5 ,274 ,Books,2023/8/7,Doctor,1 
+1707 ,54 ,Female,San Francisco,Platinum,58 ,1233 ,Electronics,2023/12/3,Student,0 
+1708 ,38 ,Female,Berlin,Bronze,18 ,165 ,Books,2023/4/28,Engineer,1 
+1709 ,18 ,Other,San Francisco,Gold,52 ,642 ,Toys,2023/12/1,Artist,1 
+1710 ,58 ,Male,Boston,Platinum,14 ,4095 ,Electronics,2023/7/20,Retired,1 
+1711 ,32 ,Female,San Francisco,Silver,2 ,230 ,Books,2023/3/7,Teacher,1 
+1712 ,32 ,Male,San Francisco,Bronze,49 ,277 ,Books,2023/5/24,Artist,0 
+1713 ,58 ,Male,London,Bronze,20 ,399 ,Clothing,2023/3/27,Doctor,0 
+1714 ,65 ,Male,Berlin,Silver,46 ,457 ,Books,2023/6/7,Student,0 
+1715 ,45 ,Female,San Francisco,Gold,16 ,337 ,Sports,2023/9/15,Student,0 
+1716 ,25 ,Male,Tokyo,Gold,31 ,612 ,Sports,2023/7/19,Salesperson,1 
+1717 ,60 ,Other,Berlin,Silver,57 ,907 ,Sports,2023/1/2,Salesperson,0 
+1718 ,32 ,Female,Sydney,Bronze,71 ,259 ,Books,2023/12/21,Teacher,1 
+1719 ,47 ,Other,Tokyo,Platinum,65 ,886 ,Toys,2023/3/20,Salesperson,1 
+1720 ,69 ,Male,Boston,Bronze,67 ,1660 ,Clothing,2023/1/30,Doctor,1 
+1721 ,36 ,Other,San Francisco,Silver,6 ,135 ,Books,2023/1/13,Salesperson,0 
+1722 ,32 ,Male,Berlin,Platinum,25 ,1046 ,Clothing,2023/3/5,Artist,0 
+1723 ,28 ,Other,London,Silver,13 ,114 ,Sports,2023/7/8,Teacher,0 
+1724 ,53 ,Male,Berlin,Silver,76 ,555 ,Clothing,2023/7/6,Engineer,0 
+1725 ,67 ,Female,Tokyo,Platinum,49 ,1300 ,Sports,2023/6/25,Other,1 
+1726 ,47 ,Other,Berlin,Gold,25 ,908 ,Toys,2023/8/22,Engineer,1 
+1727 ,33 ,Male,Tokyo,Gold,41 ,915 ,Sports,2023/8/5,Teacher,0 
+1728 ,43 ,Other,Berlin,Gold,1 ,397 ,Sports,2023/5/19,Salesperson,0 
+1729 ,22 ,Male,Sydney,Platinum,87 ,3512 ,Electronics,2023/10/8,Doctor,0 
+1730 ,23 ,Female,London,Gold,86 ,1177 ,Home Goods,2023/5/2,Salesperson,0 
+1731 ,59 ,Other,San Francisco,Silver,1 ,1518 ,Home Goods,2023/3/25,Student,1 
+1732 ,54 ,Other,Tokyo,Silver,47 ,929 ,Toys,2023/12/6,Salesperson,0 
+1733 ,58 ,Male,London,Silver,23 ,1314 ,Sports,2023/4/5,Teacher,1 
+1734 ,40 ,Female,Tokyo,Gold,76 ,449 ,Clothing,2023/8/17,Other,0 
+1735 ,47 ,Other,Boston,Gold,52 ,1739 ,Home Goods,2023/4/19,Doctor,1 
+1736 ,34 ,Other,Berlin,Platinum,61 ,795 ,Home Goods,2023/12/13,Teacher,0 
+1737 ,26 ,Male,Berlin,Silver,24 ,255 ,Sports,2023/3/9,Other,0 
+1738 ,47 ,Male,Tokyo,Gold,50 ,1782 ,Clothing,2023/12/29,Artist,0 
+1739 ,56 ,Male,London,Platinum,4 ,2115 ,Home Goods,2023/1/3,Salesperson,0 
+1740 ,56 ,Other,Tokyo,Bronze,81 ,431 ,Toys,2023/6/1,Other,0 
+1741 ,32 ,Other,London,Platinum,52 ,1606 ,Electronics,2023/6/27,Teacher,0 
+1742 ,60 ,Female,Boston,Silver,62 ,192 ,Books,2023/7/4,Artist,1 
+1743 ,54 ,Male,Sydney,Platinum,75 ,2248 ,Home Goods,2023/5/30,Student,0 
+1744 ,18 ,Other,London,Silver,45 ,141 ,Books,2023/7/25,Salesperson,0 
+1745 ,22 ,Other,Berlin,Gold,58 ,301 ,Toys,2023/7/23,Retired,0 
+1746 ,62 ,Female,Sydney,Silver,13 ,495 ,Sports,2023/8/12,Doctor,0 
+1747 ,55 ,Female,Boston,Silver,32 ,1756 ,Clothing,2023/2/12,Doctor,1 
+1748 ,38 ,Female,Berlin,Bronze,84 ,1268 ,Clothing,2023/1/26,Retired,1 
+1749 ,27 ,Female,Berlin,Silver,43 ,3447 ,Electronics,2023/8/1,Student,1 
+1750 ,68 ,Male,San Francisco,Gold,19 ,299 ,Sports,2023/7/7,Salesperson,0 
+1751 ,34 ,Female,Berlin,Silver,44 ,459 ,Books,2023/12/22,Doctor,1 
+1752 ,68 ,Male,San Francisco,Gold,61 ,2977 ,Home Goods,2023/7/8,Other,0 
+1753 ,53 ,Female,San Francisco,Platinum,27 ,1672 ,Clothing,2023/5/23,Teacher,1 
+1754 ,56 ,Other,San Francisco,Bronze,44 ,448 ,Books,2023/11/5,Engineer,1 
+1755 ,26 ,Male,Sydney,Bronze,70 ,1598 ,Home Goods,2023/1/24,Student,0 
+1756 ,33 ,Female,Boston,Bronze,34 ,1355 ,Electronics,2023/11/16,Teacher,0 
+1757 ,57 ,Male,San Francisco,Bronze,17 ,626 ,Clothing,2023/5/7,Engineer,1 
+1758 ,20 ,Male,Sydney,Silver,11 ,1000 ,Clothing,2023/3/11,Student,1 
+1759 ,67 ,Other,Berlin,Gold,39 ,3896 ,Electronics,2023/12/6,Student,0 
+1760 ,53 ,Female,Tokyo,Platinum,33 ,381 ,Toys,2023/12/18,Doctor,0 
+1761 ,51 ,Other,Berlin,Platinum,79 ,575 ,Sports,2023/7/7,Teacher,0 
+1762 ,33 ,Male,San Francisco,Platinum,85 ,1922 ,Clothing,2023/9/3,Artist,0 
+1763 ,33 ,Female,San Francisco,Bronze,81 ,1188 ,Home Goods,2023/9/22,Student,1 
+1764 ,33 ,Male,London,Platinum,36 ,242 ,Books,2023/12/6,Engineer,1 
+1765 ,48 ,Other,Boston,Bronze,13 ,509 ,Toys,2023/1/4,Retired,1 
+1766 ,20 ,Male,London,Bronze,4 ,2099 ,Electronics,2023/10/30,Doctor,1 
+1767 ,52 ,Other,London,Platinum,20 ,957 ,Sports,2023/7/18,Teacher,1 
+1768 ,37 ,Other,Tokyo,Platinum,32 ,718 ,Clothing,2023/5/26,Other,0 
+1769 ,47 ,Other,Berlin,Bronze,46 ,780 ,Sports,2023/2/18,Doctor,0 
+1770 ,36 ,Male,Sydney,Silver,91 ,838 ,Sports,2023/12/21,Engineer,1 
+1771 ,56 ,Other,Boston,Bronze,74 ,94 ,Toys,2023/12/30,Retired,0 
+1772 ,28 ,Female,San Francisco,Gold,91 ,213 ,Sports,2023/9/4,Student,0 
+1773 ,36 ,Male,London,Bronze,72 ,658 ,Toys,2023/2/4,Engineer,1 
+1774 ,43 ,Other,Berlin,Bronze,13 ,1548 ,Home Goods,2023/12/11,Artist,0 
+1775 ,35 ,Other,Boston,Silver,94 ,4218 ,Electronics,2023/4/17,Retired,0 
+1776 ,67 ,Other,Boston,Silver,97 ,632 ,Clothing,2023/10/24,Artist,0 
+1777 ,55 ,Other,San Francisco,Platinum,31 ,382 ,Books,2023/9/29,Salesperson,1 
+1778 ,38 ,Female,Boston,Platinum,31 ,2379 ,Home Goods,2023/7/1,Engineer,0 
+1779 ,58 ,Female,Tokyo,Bronze,55 ,1113 ,Electronics,2023/2/15,Student,0 
+1780 ,64 ,Female,Boston,Bronze,40 ,1588 ,Home Goods,2023/1/18,Other,1 
+1781 ,41 ,Other,Berlin,Gold,5 ,757 ,Clothing,2023/11/30,Student,0 
+1782 ,36 ,Other,Boston,Silver,32 ,2226 ,Home Goods,2023/3/5,Teacher,1 
+1783 ,33 ,Male,San Francisco,Platinum,84 ,1113 ,Clothing,2023/9/14,Salesperson,0 
+1784 ,69 ,Other,Sydney,Platinum,59 ,597 ,Sports,2023/1/10,Artist,0 
+1785 ,50 ,Female,Boston,Platinum,49 ,534 ,Home Goods,2023/2/18,Retired,1 
+1786 ,55 ,Male,Berlin,Silver,25 ,271 ,Books,2023/4/19,Retired,0 
+1787 ,48 ,Other,Boston,Silver,1 ,569 ,Toys,2023/8/30,Teacher,0 
+1788 ,58 ,Female,Boston,Platinum,27 ,601 ,Toys,2023/6/21,Engineer,1 
+1789 ,68 ,Other,Boston,Gold,11 ,1051 ,Clothing,2023/6/29,Salesperson,1 
+1790 ,27 ,Female,Sydney,Gold,99 ,453 ,Clothing,2023/12/12,Artist,0 
+1791 ,22 ,Female,Tokyo,Platinum,73 ,1051 ,Sports,2023/3/30,Doctor,0 
+1792 ,34 ,Male,London,Bronze,22 ,1562 ,Clothing,2023/4/23,Retired,1 
+1793 ,33 ,Male,Boston,Silver,74 ,1353 ,Sports,2023/11/28,Student,1 
+1794 ,18 ,Other,Berlin,Silver,30 ,1319 ,Clothing,2023/5/5,Student,0 
+1795 ,69 ,Male,Boston,Silver,49 ,1344 ,Sports,2023/6/9,Teacher,0 
+1796 ,45 ,Other,San Francisco,Silver,89 ,1067 ,Clothing,2023/4/21,Retired,0 
+1797 ,38 ,Female,Sydney,Bronze,24 ,814 ,Sports,2023/10/17,Other,0 
+1798 ,59 ,Other,London,Gold,13 ,540 ,Sports,2023/8/6,Artist,0 
+1799 ,41 ,Male,San Francisco,Gold,98 ,1568 ,Clothing,2023/9/12,Other,0 
+1800 ,24 ,Female,London,Gold,59 ,2373 ,Electronics,2023/12/18,Doctor,1 
+1801 ,42 ,Male,London,Platinum,50 ,359 ,Sports,2023/3/13,Retired,1 
+1802 ,18 ,Female,Boston,Gold,21 ,2144 ,Home Goods,2023/6/29,Teacher,0 
+1803 ,66 ,Other,London,Bronze,4 ,2557 ,Home Goods,2023/2/5,Engineer,0 
+1804 ,68 ,Male,Boston,Platinum,7 ,127 ,Sports,2023/4/9,Doctor,0 
+1805 ,34 ,Male,London,Silver,45 ,623 ,Toys,2023/8/17,Artist,0 
+1806 ,46 ,Male,London,Platinum,38 ,421 ,Books,2023/4/11,Student,0 
+1807 ,42 ,Other,Berlin,Silver,43 ,1470 ,Sports,2023/9/10,Salesperson,0 
+1808 ,19 ,Male,Berlin,Bronze,87 ,655 ,Toys,2023/6/1,Salesperson,1 
+1809 ,27 ,Other,Berlin,Gold,34 ,504 ,Toys,2023/6/24,Teacher,0 
+1810 ,39 ,Other,Berlin,Platinum,73 ,465 ,Clothing,2023/12/20,Other,0 
+1811 ,18 ,Male,Tokyo,Gold,18 ,862 ,Toys,2023/11/22,Artist,1 
+1812 ,30 ,Male,Tokyo,Bronze,89 ,972 ,Toys,2023/11/11,Other,1 
+1813 ,50 ,Male,London,Gold,39 ,54 ,Books,2023/3/10,Retired,0 
+1814 ,58 ,Male,Tokyo,Bronze,30 ,1949 ,Electronics,2023/9/29,Artist,1 
+1815 ,35 ,Female,Tokyo,Gold,85 ,426 ,Books,2023/12/11,Student,0 
+1816 ,37 ,Male,San Francisco,Bronze,69 ,732 ,Home Goods,2023/11/9,Salesperson,0 
+1817 ,48 ,Male,Berlin,Platinum,67 ,3868 ,Electronics,2023/2/22,Other,0 
+1818 ,41 ,Male,Boston,Gold,15 ,2276 ,Home Goods,2023/12/19,Artist,1 
+1819 ,51 ,Female,London,Platinum,41 ,440 ,Books,2023/12/15,Engineer,0 
+1820 ,36 ,Male,London,Platinum,24 ,3791 ,Electronics,2023/9/16,Teacher,1 
+1821 ,64 ,Male,Boston,Platinum,93 ,1362 ,Home Goods,2023/9/18,Retired,1 
+1822 ,40 ,Other,Sydney,Bronze,59 ,329 ,Clothing,2023/2/2,Other,1 
+1823 ,21 ,Female,Tokyo,Silver,75 ,536 ,Clothing,2023/11/29,Other,1 
+1824 ,52 ,Other,Berlin,Silver,23 ,1322 ,Sports,2023/9/22,Teacher,0 
+1825 ,67 ,Female,Sydney,Platinum,83 ,2946 ,Electronics,2023/1/9,Other,0 
+1826 ,42 ,Female,Berlin,Gold,52 ,795 ,Sports,2023/1/23,Other,1 
+1827 ,24 ,Other,London,Bronze,65 ,356 ,Books,2023/10/8,Retired,1 
+1828 ,55 ,Other,London,Silver,53 ,261 ,Toys,2023/6/10,Doctor,0 
+1829 ,51 ,Other,San Francisco,Silver,17 ,1686 ,Electronics,2023/3/4,Artist,1 
+1830 ,30 ,Male,Berlin,Platinum,43 ,3592 ,Electronics,2023/2/22,Salesperson,1 
+1831 ,55 ,Other,Berlin,Platinum,58 ,402 ,Sports,2023/8/16,Engineer,0 
+1832 ,33 ,Female,Sydney,Platinum,51 ,77 ,Toys,2023/2/17,Artist,0 
+1833 ,19 ,Other,Tokyo,Gold,23 ,1769 ,Clothing,2023/4/22,Engineer,0 
+1834 ,24 ,Male,Tokyo,Platinum,48 ,1866 ,Home Goods,2023/2/13,Engineer,0 
+1835 ,33 ,Other,London,Silver,37 ,666 ,Toys,2023/2/1,Student,1 
+1836 ,46 ,Female,Boston,Silver,1 ,2181 ,Electronics,2023/9/30,Engineer,0 
+1837 ,21 ,Male,Berlin,Gold,14 ,513 ,Sports,2023/7/22,Retired,0 
+1838 ,50 ,Other,Berlin,Gold,56 ,231 ,Toys,2023/11/3,Doctor,0 
+1839 ,39 ,Other,Boston,Gold,20 ,1290 ,Home Goods,2023/5/13,Other,1 
+1840 ,62 ,Female,Berlin,Bronze,58 ,1490 ,Sports,2023/9/18,Salesperson,1 
+1841 ,47 ,Male,San Francisco,Gold,6 ,978 ,Clothing,2023/1/13,Retired,1 
+1842 ,64 ,Female,London,Platinum,75 ,904 ,Clothing,2023/7/26,Retired,0 
+1843 ,21 ,Male,London,Platinum,64 ,814 ,Clothing,2023/8/3,Engineer,0 
+1844 ,20 ,Other,San Francisco,Bronze,16 ,3346 ,Electronics,2023/9/19,Other,1 
+1845 ,46 ,Other,Berlin,Bronze,99 ,441 ,Clothing,2023/12/24,Doctor,0 
+1846 ,38 ,Other,San Francisco,Gold,79 ,568 ,Home Goods,2023/10/31,Doctor,0 
+1847 ,61 ,Other,Sydney,Bronze,18 ,1283 ,Sports,2023/10/2,Teacher,0 
+1848 ,48 ,Female,London,Silver,16 ,3855 ,Electronics,2023/9/22,Engineer,1 
+1849 ,47 ,Female,Boston,Gold,31 ,241 ,Toys,2023/3/12,Other,0 
+1850 ,38 ,Other,Berlin,Silver,96 ,511 ,Toys,2023/12/20,Teacher,1 
+1851 ,49 ,Other,Berlin,Gold,2 ,1350 ,Clothing,2023/4/21,Retired,0 
+1852 ,43 ,Other,Tokyo,Bronze,62 ,993 ,Toys,2023/9/17,Salesperson,1 
+1853 ,59 ,Other,San Francisco,Platinum,24 ,253 ,Toys,2023/2/13,Artist,1 
+1854 ,64 ,Other,Boston,Gold,34 ,171 ,Books,2023/3/19,Retired,0 
+1855 ,35 ,Female,Boston,Silver,40 ,508 ,Toys,2023/11/27,Retired,0 
+1856 ,40 ,Female,Tokyo,Platinum,9 ,3883 ,Electronics,2023/12/26,Salesperson,0 
+1857 ,31 ,Female,Boston,Platinum,86 ,1276 ,Sports,2023/10/8,Engineer,1 
+1858 ,48 ,Female,London,Gold,99 ,554 ,Clothing,2023/5/16,Engineer,0 
+1859 ,41 ,Female,London,Silver,72 ,1185 ,Sports,2023/4/16,Salesperson,1 
+1860 ,68 ,Male,Berlin,Bronze,35 ,754 ,Toys,2023/11/9,Student,1 
+1861 ,54 ,Other,Sydney,Silver,75 ,1574 ,Home Goods,2023/5/3,Engineer,1 
+1862 ,39 ,Other,Sydney,Bronze,52 ,716 ,Sports,2023/2/26,Salesperson,0 
+1863 ,25 ,Other,London,Silver,82 ,1310 ,Clothing,2023/1/31,Teacher,1 
+1864 ,21 ,Male,Berlin,Gold,48 ,286 ,Books,2023/5/9,Retired,1 
+1865 ,41 ,Female,San Francisco,Bronze,93 ,835 ,Toys,2023/3/23,Teacher,1 
+1866 ,30 ,Female,Berlin,Platinum,87 ,125 ,Toys,2023/9/30,Doctor,1 
+1867 ,67 ,Male,London,Bronze,29 ,4373 ,Electronics,2023/9/14,Other,0 
+1868 ,31 ,Female,Boston,Gold,68 ,662 ,Electronics,2023/4/16,Retired,1 
+1869 ,25 ,Male,Tokyo,Gold,37 ,259 ,Toys,2023/10/28,Teacher,1 
+1870 ,59 ,Female,San Francisco,Platinum,19 ,338 ,Books,2023/5/24,Student,1 
+1871 ,48 ,Female,Sydney,Platinum,10 ,299 ,Home Goods,2023/11/13,Doctor,0 
+1872 ,44 ,Male,Berlin,Bronze,26 ,1700 ,Clothing,2023/10/1,Doctor,1 
+1873 ,26 ,Female,Berlin,Bronze,47 ,1302 ,Sports,2023/1/5,Engineer,0 
+1874 ,57 ,Male,Berlin,Gold,98 ,157 ,Books,2023/12/7,Artist,0 
+1875 ,50 ,Other,London,Silver,37 ,235 ,Home Goods,2023/7/3,Salesperson,1 
+1876 ,38 ,Male,Boston,Gold,10 ,1462 ,Clothing,2023/5/19,Engineer,0 
+1877 ,35 ,Female,Tokyo,Gold,69 ,1447 ,Sports,2023/2/5,Salesperson,1 
+1878 ,27 ,Male,London,Platinum,81 ,2098 ,Electronics,2023/6/19,Engineer,0 
+1879 ,57 ,Other,Tokyo,Bronze,12 ,751 ,Clothing,2023/2/15,Teacher,1 
+1880 ,43 ,Female,San Francisco,Gold,63 ,1185 ,Electronics,2023/8/21,Artist,0 
+1881 ,19 ,Male,Tokyo,Platinum,23 ,549 ,Electronics,2023/6/6,Other,0 
+1882 ,49 ,Other,London,Silver,84 ,2681 ,Home Goods,2023/8/28,Salesperson,1 
+1883 ,53 ,Female,Boston,Platinum,15 ,1439 ,Home Goods,2023/5/22,Salesperson,1 
+1884 ,61 ,Female,London,Bronze,52 ,1620 ,Home Goods,2023/4/6,Teacher,0 
+1885 ,45 ,Other,Boston,Platinum,45 ,1384 ,Home Goods,2023/10/15,Engineer,0 
+1886 ,57 ,Other,Boston,Gold,56 ,141 ,Books,2023/8/15,Engineer,1 
+1887 ,68 ,Male,London,Platinum,15 ,430 ,Books,2023/1/16,Doctor,1 
+1888 ,36 ,Female,Tokyo,Bronze,10 ,1775 ,Clothing,2023/7/28,Other,0 
+1889 ,40 ,Female,Boston,Bronze,80 ,1792 ,Home Goods,2023/7/23,Engineer,0 
+1890 ,19 ,Female,Tokyo,Silver,65 ,427 ,Toys,2023/12/3,Student,0 
+1891 ,52 ,Female,Sydney,Bronze,23 ,279 ,Books,2023/6/27,Doctor,1 
+1892 ,20 ,Other,Berlin,Bronze,21 ,80 ,Books,2023/8/14,Retired,1 
+1893 ,35 ,Male,London,Gold,40 ,951 ,Sports,2023/2/21,Salesperson,0 
+1894 ,39 ,Male,Tokyo,Silver,84 ,430 ,Books,2023/9/15,Doctor,1 
+1895 ,29 ,Other,Sydney,Gold,70 ,3128 ,Electronics,2023/1/17,Retired,0 
+1896 ,47 ,Female,San Francisco,Silver,25 ,843 ,Home Goods,2023/1/9,Artist,0 
+1897 ,36 ,Male,Sydney,Gold,4 ,2873 ,Home Goods,2023/8/12,Salesperson,1 
+1898 ,29 ,Female,Berlin,Bronze,70 ,113 ,Books,2023/12/23,Engineer,0 
+1899 ,61 ,Other,Boston,Platinum,24 ,1056 ,Sports,2023/2/15,Salesperson,0 
+1900 ,37 ,Other,Sydney,Silver,4 ,256 ,Books,2023/6/1,Student,1 
+1901 ,21 ,Male,Berlin,Bronze,64 ,293 ,Toys,2023/5/22,Student,1 
+1902 ,37 ,Other,London,Silver,39 ,442 ,Books,2023/2/4,Engineer,0 
+1903 ,18 ,Male,Berlin,Gold,82 ,231 ,Toys,2023/7/16,Student,0 
+1904 ,47 ,Female,Tokyo,Platinum,52 ,398 ,Toys,2023/2/13,Engineer,1 
+1905 ,39 ,Male,Berlin,Platinum,97 ,1541 ,Home Goods,2023/3/18,Salesperson,0 
+1906 ,69 ,Male,San Francisco,Bronze,57 ,2557 ,Electronics,2023/10/18,Teacher,1 
+1907 ,45 ,Other,Sydney,Gold,9 ,159 ,Clothing,2023/10/12,Artist,1 
+1908 ,67 ,Female,Boston,Platinum,29 ,704 ,Sports,2023/6/14,Teacher,1 
+1909 ,50 ,Male,Boston,Gold,2 ,353 ,Books,2023/1/16,Engineer,1 
+1910 ,40 ,Female,Berlin,Bronze,34 ,920 ,Sports,2023/12/19,Teacher,1 
+1911 ,38 ,Other,Sydney,Bronze,23 ,365 ,Clothing,2023/7/12,Doctor,1 
+1912 ,53 ,Male,Berlin,Silver,71 ,4471 ,Electronics,2023/11/17,Engineer,0 
+1913 ,35 ,Male,Sydney,Gold,43 ,319 ,Sports,2023/12/9,Doctor,1 
+1914 ,23 ,Other,San Francisco,Platinum,78 ,944 ,Home Goods,2023/3/31,Engineer,1 
+1915 ,29 ,Female,Sydney,Bronze,82 ,50 ,Books,2023/7/23,Other,0 
+1916 ,23 ,Male,Tokyo,Bronze,4 ,1439 ,Sports,2023/11/29,Salesperson,0 
+1917 ,27 ,Other,Sydney,Bronze,50 ,397 ,Books,2023/12/8,Artist,0 
+1918 ,64 ,Female,London,Platinum,8 ,1736 ,Home Goods,2023/10/28,Engineer,0 
+1919 ,28 ,Male,Boston,Gold,9 ,1639 ,Home Goods,2023/11/17,Artist,0 
+1920 ,47 ,Male,Tokyo,Silver,33 ,902 ,Sports,2023/3/18,Teacher,1 
+1921 ,50 ,Female,London,Silver,66 ,723 ,Home Goods,2023/1/17,Other,1 
+1922 ,56 ,Other,Berlin,Gold,6 ,277 ,Books,2023/10/6,Engineer,1 
+1923 ,60 ,Other,London,Platinum,44 ,4804 ,Electronics,2023/11/18,Teacher,0 
+1924 ,41 ,Male,London,Silver,64 ,396 ,Clothing,2023/6/21,Artist,1 
+1925 ,58 ,Male,Berlin,Bronze,50 ,1270 ,Sports,2023/7/14,Artist,1 
+1926 ,49 ,Other,Sydney,Gold,92 ,4589 ,Electronics,2023/12/7,Artist,1 
+1927 ,36 ,Male,London,Silver,14 ,2748 ,Home Goods,2023/11/20,Teacher,1 
+1928 ,58 ,Male,Boston,Gold,23 ,272 ,Books,2023/4/14,Engineer,1 
+1929 ,23 ,Other,Berlin,Gold,49 ,1148 ,Clothing,2023/2/21,Other,0 
+1930 ,66 ,Female,Sydney,Gold,81 ,602 ,Toys,2023/11/21,Retired,1 
+1931 ,46 ,Female,San Francisco,Silver,97 ,296 ,Toys,2023/9/15,Retired,1 
+1932 ,33 ,Other,Berlin,Silver,70 ,228 ,Books,2023/12/8,Salesperson,1 
+1933 ,58 ,Male,London,Platinum,16 ,1939 ,Electronics,2023/8/12,Artist,1 
+1934 ,60 ,Other,Sydney,Silver,5 ,364 ,Toys,2023/10/22,Engineer,1 
+1935 ,36 ,Female,Sydney,Bronze,77 ,257 ,Books,2023/4/29,Retired,1 
+1936 ,28 ,Female,Boston,Platinum,69 ,546 ,Home Goods,2023/11/30,Teacher,0 
+1937 ,58 ,Male,Boston,Platinum,86 ,647 ,Sports,2023/11/18,Teacher,1 
+1938 ,43 ,Other,Tokyo,Silver,83 ,118 ,Books,2023/6/27,Teacher,1 
+1939 ,22 ,Other,San Francisco,Bronze,86 ,1375 ,Electronics,2023/6/10,Salesperson,1 
+1940 ,67 ,Other,San Francisco,Silver,75 ,1085 ,Sports,2023/1/2,Artist,1 
+1941 ,36 ,Female,London,Gold,32 ,1260 ,Sports,2023/11/23,Other,1 
+1942 ,67 ,Other,Tokyo,Platinum,51 ,742 ,Clothing,2023/3/29,Teacher,0 
+1943 ,40 ,Female,Tokyo,Silver,10 ,976 ,Sports,2023/7/16,Retired,0 
+1944 ,64 ,Other,Boston,Platinum,32 ,240 ,Books,2023/8/28,Salesperson,0 
+1945 ,31 ,Female,London,Platinum,64 ,708 ,Sports,2023/12/14,Teacher,1 
+1946 ,39 ,Female,London,Gold,57 ,658 ,Toys,2023/2/10,Doctor,1 
+1947 ,34 ,Male,Tokyo,Bronze,28 ,664 ,Electronics,2023/7/24,Artist,0 
+1948 ,35 ,Other,Sydney,Gold,40 ,1097 ,Clothing,2023/7/7,Engineer,0 
+1949 ,48 ,Other,London,Bronze,99 ,552 ,Electronics,2023/7/16,Retired,1 
+1950 ,66 ,Other,Boston,Gold,71 ,2524 ,Electronics,2023/1/4,Teacher,1 
+1951 ,67 ,Male,Sydney,Bronze,62 ,816 ,Toys,2023/3/26,Other,1 
+1952 ,69 ,Other,London,Platinum,90 ,191 ,Books,2023/4/12,Retired,0 
+1953 ,32 ,Female,San Francisco,Silver,78 ,1434 ,Sports,2023/3/5,Salesperson,0 
+1954 ,48 ,Male,Tokyo,Gold,54 ,4174 ,Electronics,2023/4/30,Student,1 
+1955 ,28 ,Female,Boston,Platinum,75 ,2868 ,Electronics,2023/9/10,Retired,0 
+1956 ,39 ,Female,Boston,Gold,79 ,450 ,Toys,2023/3/21,Artist,0 
+1957 ,22 ,Female,Sydney,Platinum,69 ,640 ,Clothing,2023/2/16,Teacher,0 
+1958 ,25 ,Male,Berlin,Gold,68 ,611 ,Electronics,2023/2/16,Other,0 
+1959 ,38 ,Female,London,Platinum,46 ,73 ,Books,2023/11/12,Artist,0 
+1960 ,52 ,Female,Berlin,Bronze,14 ,2252 ,Home Goods,2023/4/17,Salesperson,1 
+1961 ,59 ,Male,Tokyo,Gold,60 ,402 ,Sports,2023/3/14,Other,0 
+1962 ,53 ,Male,Berlin,Bronze,57 ,2962 ,Electronics,2023/8/17,Retired,0 
+1963 ,68 ,Male,Berlin,Bronze,62 ,537 ,Toys,2023/12/27,Engineer,0 
+1964 ,31 ,Other,Tokyo,Platinum,55 ,2424 ,Electronics,2023/12/18,Doctor,0 
+1965 ,29 ,Female,Sydney,Platinum,65 ,224 ,Toys,2023/11/2,Engineer,1 
+1966 ,63 ,Other,Sydney,Silver,90 ,3070 ,Electronics,2023/2/20,Engineer,1 
+1967 ,20 ,Other,Berlin,Gold,98 ,1976 ,Electronics,2023/8/20,Salesperson,0 
+1968 ,39 ,Other,Sydney,Bronze,4 ,191 ,Toys,2023/4/1,Teacher,1 
+1969 ,35 ,Male,Sydney,Platinum,43 ,4539 ,Electronics,2023/9/27,Student,1 
+1970 ,48 ,Female,Tokyo,Bronze,11 ,429 ,Books,2023/1/29,Student,1 
+1971 ,52 ,Other,Sydney,Gold,14 ,1336 ,Electronics,2023/6/26,Engineer,0 
+1972 ,45 ,Female,Boston,Gold,73 ,446 ,Home Goods,2023/10/13,Other,1 
+1973 ,39 ,Male,Berlin,Gold,50 ,2710 ,Electronics,2023/10/17,Salesperson,0 
+1974 ,69 ,Male,Sydney,Platinum,45 ,913 ,Clothing,2023/10/2,Engineer,1 
+1975 ,53 ,Male,Sydney,Platinum,55 ,738 ,Clothing,2023/6/13,Teacher,0 
+1976 ,69 ,Female,Tokyo,Gold,78 ,119 ,Books,2023/1/10,Salesperson,0 
+1977 ,46 ,Other,London,Silver,35 ,1179 ,Sports,2023/9/12,Engineer,0 
+1978 ,52 ,Female,Berlin,Silver,81 ,4352 ,Electronics,2023/3/28,Engineer,0 
+1979 ,45 ,Male,San Francisco,Gold,83 ,126 ,Clothing,2023/9/25,Artist,0 
+1980 ,28 ,Other,San Francisco,Gold,8 ,615 ,Toys,2023/8/29,Student,1 
+1981 ,26 ,Other,San Francisco,Silver,5 ,4474 ,Electronics,2023/3/13,Teacher,0 
+1982 ,29 ,Male,San Francisco,Platinum,31 ,129 ,Clothing,2023/2/2,Artist,0 
+1983 ,35 ,Other,Boston,Bronze,56 ,327 ,Home Goods,2023/12/9,Doctor,1 
+1984 ,45 ,Male,Berlin,Silver,42 ,974 ,Clothing,2023/1/12,Artist,1 
+1985 ,43 ,Female,Boston,Silver,40 ,1409 ,Home Goods,2023/6/4,Artist,0 
+1986 ,40 ,Other,Sydney,Platinum,9 ,534 ,Toys,2023/10/23,Engineer,0 
+1987 ,54 ,Female,London,Gold,10 ,1061 ,Clothing,2023/12/6,Doctor,0 
+1988 ,32 ,Male,San Francisco,Bronze,29 ,76 ,Toys,2023/12/14,Salesperson,0 
+1989 ,21 ,Female,Berlin,Silver,81 ,4204 ,Electronics,2023/5/6,Retired,1 
+1990 ,46 ,Other,San Francisco,Silver,93 ,423 ,Books,2023/4/16,Doctor,0 
+1991 ,38 ,Male,Boston,Platinum,16 ,793 ,Sports,2023/2/5,Student,1 
+1992 ,26 ,Other,London,Platinum,1 ,167 ,Books,2023/1/8,Retired,0 
+1993 ,61 ,Female,Tokyo,Platinum,33 ,1057 ,Clothing,2023/12/23,Retired,1 
+1994 ,53 ,Other,San Francisco,Bronze,42 ,2138 ,Home Goods,2023/12/12,Student,0 
+1995 ,26 ,Female,Berlin,Platinum,39 ,1107 ,Clothing,2023/5/10,Student,1 
+1996 ,35 ,Male,London,Platinum,50 ,1677 ,Electronics,2023/2/18,Other,1 
+1997 ,69 ,Female,San Francisco,Platinum,66 ,3863 ,Electronics,2023/12/4,Artist,0 
+1998 ,64 ,Other,Tokyo,Bronze,57 ,4325 ,Electronics,2023/4/24,Engineer,1 
+1999 ,50 ,Other,London,Bronze,62 ,1920 ,Clothing,2023/5/29,Salesperson,0 
+2000 ,52 ,Male,London,Silver,39 ,847 ,Toys,2023/11/5,Retired,0 
+2001 ,37 ,Male,San Francisco,Gold,34 ,648 ,Toys,2023/6/6,Engineer,1 
+2002 ,45 ,Other,Boston,Bronze,8 ,3128 ,Electronics,2023/12/7,Artist,0 
+2003 ,49 ,Male,Berlin,Platinum,96 ,361 ,Books,2023/10/17,Other,1 
+2004 ,68 ,Other,Tokyo,Bronze,15 ,626 ,Sports,2023/7/17,Salesperson,0 
+2005 ,34 ,Male,Boston,Silver,25 ,595 ,Home Goods,2023/3/10,Artist,1 
+2006 ,45 ,Male,Boston,Bronze,87 ,1560 ,Home Goods,2023/3/31,Engineer,1 
+2007 ,60 ,Other,London,Platinum,88 ,673 ,Clothing,2023/4/5,Teacher,0 
+2008 ,64 ,Other,Boston,Silver,71 ,117 ,Books,2023/9/20,Other,0 
+2009 ,33 ,Other,San Francisco,Platinum,30 ,393 ,Toys,2023/12/10,Teacher,0 
+2010 ,44 ,Other,Boston,Gold,74 ,359 ,Sports,2023/9/17,Teacher,1 
+2011 ,55 ,Female,Berlin,Bronze,70 ,166 ,Books,2023/9/3,Other,1 
+2012 ,42 ,Other,Sydney,Platinum,61 ,525 ,Sports,2023/3/13,Salesperson,0 
+2013 ,58 ,Female,Sydney,Gold,13 ,950 ,Home Goods,2023/12/2,Artist,1 
+2014 ,56 ,Female,London,Gold,72 ,2204 ,Home Goods,2023/5/28,Teacher,0 
+2015 ,37 ,Other,London,Gold,34 ,1317 ,Electronics,2023/8/15,Student,0 
+2016 ,62 ,Male,London,Bronze,82 ,971 ,Toys,2023/11/27,Student,1 
+2017 ,38 ,Other,London,Silver,4 ,1419 ,Home Goods,2023/11/29,Student,1 
+2018 ,39 ,Female,Sydney,Platinum,60 ,179 ,Toys,2023/7/23,Salesperson,1 
+2019 ,19 ,Female,Boston,Bronze,77 ,3534 ,Electronics,2023/7/10,Doctor,1 
+2020 ,22 ,Other,Berlin,Platinum,55 ,1951 ,Home Goods,2023/2/13,Teacher,1 
+2021 ,46 ,Other,Berlin,Bronze,38 ,403 ,Books,2023/2/20,Teacher,0 
+2022 ,36 ,Other,Sydney,Bronze,54 ,2897 ,Home Goods,2023/7/30,Retired,0 
+2023 ,22 ,Other,Sydney,Platinum,31 ,1193 ,Clothing,2023/3/31,Retired,0 
+2024 ,34 ,Male,Tokyo,Bronze,1 ,203 ,Clothing,2023/5/30,Student,1 
+2025 ,32 ,Male,Boston,Silver,68 ,1661 ,Home Goods,2023/8/12,Retired,0 
+2026 ,62 ,Female,Berlin,Platinum,83 ,1659 ,Home Goods,2023/11/30,Teacher,0 
+2027 ,53 ,Female,Sydney,Silver,14 ,320 ,Books,2023/11/21,Artist,1 
+2028 ,57 ,Female,Tokyo,Gold,95 ,728 ,Home Goods,2023/12/23,Teacher,0 
+2029 ,64 ,Male,Tokyo,Gold,32 ,343 ,Clothing,2023/4/3,Other,0 
+2030 ,50 ,Other,San Francisco,Platinum,94 ,1913 ,Clothing,2023/2/21,Student,0 
+2031 ,21 ,Male,London,Bronze,90 ,2590 ,Home Goods,2023/11/17,Retired,0 
+2032 ,29 ,Other,Tokyo,Bronze,14 ,2786 ,Home Goods,2023/5/1,Other,0 
+2033 ,26 ,Male,London,Silver,1 ,422 ,Books,2023/1/26,Doctor,0 
+2034 ,52 ,Male,Tokyo,Bronze,55 ,1855 ,Home Goods,2023/12/15,Doctor,1 
+2035 ,51 ,Female,Boston,Bronze,58 ,711 ,Clothing,2023/1/24,Artist,0 
+2036 ,64 ,Female,Tokyo,Gold,25 ,883 ,Clothing,2023/7/27,Doctor,1 
+2037 ,46 ,Other,London,Platinum,45 ,1484 ,Sports,2023/4/1,Retired,1 
+2038 ,43 ,Female,Tokyo,Platinum,86 ,1592 ,Clothing,2023/7/19,Doctor,0 
+2039 ,21 ,Female,London,Platinum,95 ,692 ,Clothing,2023/7/14,Student,0 
+2040 ,19 ,Other,Boston,Silver,79 ,674 ,Toys,2023/4/4,Salesperson,1 
+2041 ,52 ,Male,San Francisco,Gold,97 ,420 ,Books,2023/3/29,Other,0 
+2042 ,26 ,Other,Sydney,Silver,26 ,466 ,Books,2023/3/7,Doctor,0 
+2043 ,65 ,Other,Sydney,Silver,59 ,3374 ,Electronics,2023/12/6,Engineer,1 
+2044 ,43 ,Male,Tokyo,Silver,97 ,1892 ,Home Goods,2023/3/15,Other,0 
+2045 ,45 ,Other,Boston,Gold,38 ,760 ,Toys,2023/1/6,Student,0 
+2046 ,47 ,Male,Berlin,Silver,66 ,1118 ,Sports,2023/12/24,Retired,0 
+2047 ,43 ,Male,San Francisco,Bronze,54 ,681 ,Sports,2023/6/26,Retired,0 
+2048 ,31 ,Female,Tokyo,Gold,79 ,729 ,Toys,2023/3/13,Student,0 
+2049 ,28 ,Other,London,Bronze,67 ,444 ,Books,2023/5/31,Teacher,0 
+2050 ,34 ,Female,Berlin,Platinum,57 ,163 ,Books,2023/12/30,Artist,1 
+2051 ,33 ,Female,Berlin,Platinum,4 ,553 ,Sports,2023/2/27,Doctor,0 
+2052 ,28 ,Female,Sydney,Silver,2 ,629 ,Toys,2023/10/21,Doctor,0 
+2053 ,30 ,Other,Sydney,Silver,53 ,4759 ,Electronics,2023/10/25,Retired,0 
+2054 ,51 ,Male,Berlin,Silver,49 ,1484 ,Sports,2023/4/16,Other,1 
+2055 ,18 ,Female,Tokyo,Gold,28 ,692 ,Toys,2023/3/24,Artist,0 
+2056 ,48 ,Female,San Francisco,Bronze,23 ,2209 ,Home Goods,2023/5/15,Student,1 
+2057 ,21 ,Other,London,Gold,24 ,3330 ,Electronics,2023/6/24,Other,1 
+2058 ,35 ,Female,Sydney,Silver,68 ,1310 ,Home Goods,2023/7/26,Engineer,1 
+2059 ,18 ,Other,Berlin,Gold,28 ,1473 ,Home Goods,2023/12/23,Teacher,0 
+2060 ,56 ,Female,San Francisco,Silver,24 ,408 ,Home Goods,2023/7/10,Salesperson,0 
+2061 ,21 ,Male,Sydney,Silver,38 ,155 ,Clothing,2023/5/27,Artist,1 
+2062 ,48 ,Male,London,Gold,49 ,211 ,Sports,2023/4/25,Other,0 
+2063 ,39 ,Other,Sydney,Silver,7 ,1952 ,Clothing,2023/1/28,Artist,1 
+2064 ,44 ,Other,London,Bronze,4 ,213 ,Toys,2023/1/15,Teacher,0 
+2065 ,49 ,Female,Boston,Platinum,8 ,204 ,Sports,2023/8/24,Artist,0 
+2066 ,28 ,Female,Berlin,Bronze,55 ,471 ,Books,2023/7/11,Artist,0 
+2067 ,23 ,Other,Sydney,Bronze,79 ,1745 ,Clothing,2023/11/14,Other,0 
+2068 ,51 ,Female,Tokyo,Bronze,21 ,1816 ,Clothing,2023/5/14,Engineer,0 
+2069 ,54 ,Other,Sydney,Gold,58 ,205 ,Books,2023/12/24,Salesperson,0 
+2070 ,27 ,Male,San Francisco,Bronze,68 ,2998 ,Electronics,2023/5/18,Retired,1 
+2071 ,64 ,Female,Sydney,Platinum,56 ,448 ,Books,2023/7/10,Artist,1 
+2072 ,18 ,Female,Tokyo,Bronze,59 ,901 ,Electronics,2023/3/30,Other,1 
+2073 ,57 ,Female,London,Gold,46 ,2116 ,Home Goods,2023/4/20,Teacher,1 
+2074 ,61 ,Other,Sydney,Silver,85 ,2727 ,Home Goods,2023/2/5,Artist,1 
+2075 ,63 ,Male,Sydney,Platinum,99 ,825 ,Toys,2023/4/19,Other,1 
+2076 ,23 ,Other,Berlin,Bronze,50 ,122 ,Books,2023/3/24,Retired,0 
+2077 ,28 ,Female,Tokyo,Platinum,56 ,951 ,Clothing,2023/4/29,Doctor,0 
+2078 ,21 ,Female,Boston,Platinum,86 ,2527 ,Electronics,2023/8/14,Other,0 
+2079 ,57 ,Female,Sydney,Platinum,28 ,586 ,Home Goods,2023/4/15,Salesperson,0 
+2080 ,31 ,Other,Boston,Bronze,93 ,243 ,Sports,2023/9/26,Engineer,1 
+2081 ,55 ,Male,Sydney,Silver,73 ,744 ,Toys,2023/7/22,Doctor,0 
+2082 ,34 ,Female,Berlin,Gold,47 ,1114 ,Electronics,2023/2/20,Student,1 
+2083 ,43 ,Female,London,Bronze,48 ,2315 ,Home Goods,2023/5/18,Other,1 
+2084 ,61 ,Other,Berlin,Silver,43 ,2130 ,Home Goods,2023/3/14,Teacher,0 
+2085 ,64 ,Male,Berlin,Bronze,82 ,788 ,Toys,2023/5/12,Teacher,0 
+2086 ,25 ,Other,San Francisco,Platinum,81 ,864 ,Clothing,2023/7/14,Engineer,1 
+2087 ,61 ,Other,San Francisco,Gold,30 ,99 ,Toys,2023/11/15,Engineer,0 
+2088 ,18 ,Female,Berlin,Platinum,59 ,696 ,Home Goods,2023/4/1,Retired,1 
+2089 ,32 ,Other,San Francisco,Bronze,46 ,1922 ,Electronics,2023/4/11,Doctor,0 
+2090 ,32 ,Female,Sydney,Platinum,83 ,432 ,Books,2023/8/5,Engineer,0 
+2091 ,51 ,Male,London,Silver,99 ,1273 ,Sports,2023/3/21,Teacher,0 
+2092 ,64 ,Other,Sydney,Gold,95 ,900 ,Sports,2023/3/5,Artist,1 
+2093 ,18 ,Female,Berlin,Bronze,65 ,243 ,Toys,2023/3/14,Doctor,1 
+2094 ,32 ,Other,London,Silver,57 ,915 ,Sports,2023/9/20,Salesperson,0 
+2095 ,20 ,Female,Berlin,Gold,45 ,781 ,Clothing,2023/10/25,Student,1 
+2096 ,53 ,Male,Tokyo,Platinum,66 ,3105 ,Electronics,2023/8/20,Teacher,1 
+2097 ,49 ,Male,Tokyo,Bronze,35 ,744 ,Home Goods,2023/6/18,Teacher,0 
+2098 ,57 ,Male,Berlin,Gold,19 ,1490 ,Sports,2023/3/13,Doctor,0 
+2099 ,25 ,Other,Berlin,Bronze,22 ,1206 ,Home Goods,2023/10/16,Student,0 
+2100 ,25 ,Male,London,Silver,41 ,545 ,Home Goods,2023/11/30,Doctor,0 
+2101 ,34 ,Female,San Francisco,Bronze,26 ,1235 ,Electronics,2023/4/14,Other,1 
+2102 ,20 ,Male,Berlin,Platinum,73 ,2916 ,Electronics,2023/12/14,Student,0 
+2103 ,23 ,Female,Berlin,Platinum,71 ,1086 ,Sports,2023/8/13,Student,1 
+2104 ,56 ,Other,London,Gold,4 ,564 ,Toys,2023/3/22,Doctor,1 
+2105 ,68 ,Male,Berlin,Silver,63 ,71 ,Toys,2023/3/4,Artist,0 
+2106 ,69 ,Male,London,Bronze,52 ,568 ,Toys,2023/7/1,Engineer,1 
+2107 ,33 ,Female,Boston,Silver,23 ,655 ,Toys,2023/9/11,Artist,0 
+2108 ,32 ,Female,London,Platinum,79 ,127 ,Books,2023/2/6,Engineer,1 
+2109 ,58 ,Male,Sydney,Bronze,3 ,773 ,Toys,2023/11/25,Other,0 
+2110 ,31 ,Female,Berlin,Platinum,26 ,371 ,Books,2023/12/22,Student,1 
+2111 ,30 ,Other,San Francisco,Gold,47 ,906 ,Toys,2023/8/5,Engineer,1 
+2112 ,55 ,Female,Sydney,Gold,75 ,4450 ,Electronics,2023/2/11,Engineer,1 
+2113 ,29 ,Male,Tokyo,Silver,31 ,1165 ,Sports,2023/5/30,Doctor,0 
+2114 ,33 ,Male,San Francisco,Platinum,23 ,434 ,Books,2023/6/21,Artist,0 
+2115 ,49 ,Female,London,Gold,90 ,324 ,Books,2023/1/27,Salesperson,0 
+2116 ,64 ,Other,San Francisco,Gold,81 ,623 ,Toys,2023/9/11,Other,1 
+2117 ,67 ,Female,San Francisco,Gold,3 ,2832 ,Home Goods,2023/12/23,Teacher,1 
+2118 ,52 ,Male,Boston,Gold,97 ,718 ,Clothing,2023/6/11,Teacher,1 
+2119 ,24 ,Male,Boston,Bronze,16 ,571 ,Sports,2023/4/15,Salesperson,1 
+2120 ,60 ,Female,San Francisco,Silver,26 ,253 ,Sports,2023/1/4,Other,0 
+2121 ,23 ,Other,London,Platinum,78 ,436 ,Books,2023/5/16,Salesperson,0 
+2122 ,39 ,Male,Tokyo,Platinum,21 ,426 ,Books,2023/9/15,Salesperson,1 
+2123 ,61 ,Male,San Francisco,Silver,82 ,303 ,Clothing,2023/5/3,Engineer,1 
+2124 ,62 ,Other,Tokyo,Gold,9 ,1124 ,Home Goods,2023/4/20,Teacher,1 
+2125 ,24 ,Female,Berlin,Platinum,54 ,815 ,Clothing,2023/2/17,Doctor,1 
+2126 ,26 ,Other,London,Silver,34 ,548 ,Home Goods,2023/3/23,Salesperson,0 
+2127 ,30 ,Female,London,Bronze,42 ,918 ,Electronics,2023/10/26,Engineer,0 
+2128 ,64 ,Female,Berlin,Platinum,57 ,4857 ,Electronics,2023/9/6,Teacher,0 
+2129 ,64 ,Other,Boston,Gold,77 ,705 ,Home Goods,2023/3/2,Artist,0 
+2130 ,36 ,Other,San Francisco,Silver,23 ,231 ,Clothing,2023/4/27,Engineer,0 
+2131 ,25 ,Other,London,Bronze,75 ,1613 ,Home Goods,2023/3/5,Other,0 
+2132 ,47 ,Female,Boston,Gold,94 ,3967 ,Electronics,2023/3/5,Retired,0 
+2133 ,36 ,Other,San Francisco,Bronze,86 ,3226 ,Electronics,2023/5/1,Student,0 
+2134 ,27 ,Female,London,Platinum,95 ,1449 ,Clothing,2023/10/23,Engineer,0 
+2135 ,64 ,Male,Boston,Platinum,19 ,573 ,Home Goods,2023/3/2,Salesperson,1 
+2136 ,40 ,Male,London,Gold,50 ,3663 ,Electronics,2023/4/19,Artist,1 
+2137 ,38 ,Female,London,Silver,34 ,413 ,Home Goods,2023/6/13,Other,0 
+2138 ,51 ,Male,Boston,Bronze,5 ,326 ,Toys,2023/7/13,Retired,0 
+2139 ,65 ,Other,London,Silver,27 ,526 ,Electronics,2023/12/17,Salesperson,0 
+2140 ,42 ,Male,San Francisco,Bronze,17 ,679 ,Toys,2023/5/24,Artist,1 
+2141 ,27 ,Female,Berlin,Bronze,59 ,3413 ,Electronics,2023/3/31,Other,1 
+2142 ,30 ,Male,Tokyo,Platinum,17 ,1233 ,Clothing,2023/5/1,Teacher,1 
+2143 ,41 ,Other,Tokyo,Gold,9 ,847 ,Toys,2023/4/30,Teacher,1 
+2144 ,63 ,Female,Berlin,Silver,35 ,143 ,Toys,2023/9/20,Salesperson,1 
+2145 ,54 ,Female,Boston,Platinum,5 ,1655 ,Clothing,2023/11/25,Student,1 
+2146 ,41 ,Male,London,Bronze,43 ,227 ,Books,2023/11/6,Retired,0 
+2147 ,57 ,Other,London,Silver,4 ,2469 ,Home Goods,2023/5/28,Salesperson,0 
+2148 ,55 ,Other,Boston,Platinum,71 ,521 ,Toys,2023/9/6,Student,0 
+2149 ,24 ,Male,Berlin,Platinum,51 ,107 ,Books,2023/8/28,Retired,1 
+2150 ,61 ,Male,Boston,Bronze,44 ,1437 ,Home Goods,2023/7/3,Engineer,0 
+2151 ,19 ,Other,Boston,Silver,92 ,906 ,Clothing,2023/6/28,Engineer,0 
+2152 ,37 ,Male,Sydney,Bronze,75 ,2454 ,Electronics,2023/11/3,Artist,1 
+2153 ,47 ,Female,San Francisco,Platinum,75 ,610 ,Electronics,2023/10/26,Salesperson,1 
+2154 ,66 ,Male,Tokyo,Gold,41 ,859 ,Home Goods,2023/8/28,Teacher,0 
+2155 ,63 ,Other,San Francisco,Gold,31 ,1523 ,Electronics,2023/4/10,Other,0 
+2156 ,26 ,Other,Boston,Silver,56 ,2231 ,Home Goods,2023/5/30,Student,1 
+2157 ,52 ,Male,Tokyo,Bronze,61 ,1475 ,Sports,2023/11/21,Doctor,1 
+2158 ,47 ,Female,Tokyo,Bronze,60 ,978 ,Toys,2023/1/2,Artist,0 
+2159 ,18 ,Other,London,Gold,30 ,1197 ,Sports,2023/8/1,Artist,0 
+2160 ,33 ,Female,Berlin,Bronze,86 ,110 ,Toys,2023/3/23,Doctor,1 
+2161 ,37 ,Other,Tokyo,Gold,28 ,2670 ,Electronics,2023/12/26,Student,0 
+2162 ,22 ,Male,Berlin,Gold,9 ,906 ,Home Goods,2023/7/31,Retired,1 
+2163 ,25 ,Other,Tokyo,Gold,48 ,1485 ,Electronics,2023/6/30,Student,1 
+2164 ,19 ,Other,London,Platinum,11 ,230 ,Books,2023/10/1,Artist,0 
+2165 ,26 ,Male,Berlin,Bronze,90 ,463 ,Books,2023/4/2,Doctor,1 
+2166 ,44 ,Other,Tokyo,Platinum,98 ,853 ,Toys,2023/5/18,Teacher,1 
+2167 ,58 ,Other,London,Gold,59 ,134 ,Sports,2023/9/28,Engineer,1 
+2168 ,43 ,Other,Sydney,Gold,33 ,1172 ,Clothing,2023/10/11,Teacher,0 
+2169 ,50 ,Male,London,Platinum,4 ,298 ,Toys,2023/9/9,Other,0 
+2170 ,24 ,Male,Berlin,Gold,54 ,453 ,Books,2023/11/12,Doctor,1 
+2171 ,50 ,Male,London,Platinum,5 ,386 ,Books,2023/2/4,Artist,1 
+2172 ,25 ,Male,Berlin,Gold,89 ,625 ,Home Goods,2023/10/1,Student,1 
+2173 ,56 ,Other,London,Bronze,90 ,650 ,Clothing,2023/11/8,Salesperson,1 
+2174 ,35 ,Other,San Francisco,Platinum,81 ,237 ,Toys,2023/2/4,Artist,1 
+2175 ,47 ,Other,Berlin,Silver,86 ,4017 ,Electronics,2023/1/17,Other,0 
+2176 ,68 ,Male,Tokyo,Platinum,18 ,752 ,Clothing,2023/1/6,Retired,1 
+2177 ,56 ,Male,London,Gold,59 ,989 ,Sports,2023/7/19,Retired,0 
+2178 ,21 ,Other,Boston,Silver,67 ,890 ,Toys,2023/5/31,Artist,0 
+2179 ,28 ,Female,London,Platinum,46 ,1091 ,Sports,2023/3/24,Retired,0 
+2180 ,68 ,Female,Sydney,Bronze,54 ,455 ,Toys,2023/10/14,Doctor,1 
+2181 ,45 ,Other,San Francisco,Gold,32 ,142 ,Books,2023/5/24,Salesperson,1 
+2182 ,34 ,Other,Tokyo,Silver,1 ,1450 ,Sports,2023/10/29,Student,1 
+2183 ,67 ,Female,San Francisco,Gold,92 ,63 ,Toys,2023/7/21,Retired,1 
+2184 ,61 ,Female,San Francisco,Platinum,51 ,50 ,Books,2023/7/24,Engineer,1 
+2185 ,64 ,Other,Tokyo,Silver,25 ,712 ,Toys,2023/9/3,Doctor,1 
+2186 ,60 ,Male,San Francisco,Silver,52 ,143 ,Books,2023/6/25,Engineer,1 
+2187 ,24 ,Male,Berlin,Silver,97 ,294 ,Books,2023/5/1,Retired,0 
+2188 ,26 ,Other,Tokyo,Bronze,86 ,2399 ,Electronics,2023/1/8,Student,1 
+2189 ,49 ,Other,Boston,Bronze,72 ,280 ,Toys,2023/10/14,Retired,0 
+2190 ,43 ,Other,London,Silver,32 ,96 ,Books,2023/8/11,Student,1 
+2191 ,52 ,Male,Boston,Bronze,16 ,879 ,Toys,2023/5/2,Artist,0 
+2192 ,51 ,Other,Tokyo,Platinum,69 ,4418 ,Electronics,2023/10/10,Retired,1 
+2193 ,50 ,Male,London,Bronze,38 ,1033 ,Sports,2023/12/16,Salesperson,1 
+2194 ,62 ,Female,Boston,Bronze,32 ,389 ,Books,2023/10/28,Retired,0 
+2195 ,24 ,Other,Sydney,Bronze,2 ,1011 ,Sports,2023/6/19,Teacher,1 
+2196 ,23 ,Other,Boston,Platinum,2 ,1759 ,Clothing,2023/5/28,Doctor,1 
+2197 ,55 ,Male,Berlin,Gold,64 ,2535 ,Home Goods,2023/9/14,Student,1 
+2198 ,48 ,Female,Tokyo,Bronze,17 ,1325 ,Clothing,2023/4/23,Salesperson,0 
+2199 ,42 ,Female,Berlin,Platinum,66 ,378 ,Books,2023/7/25,Doctor,1 
+2200 ,64 ,Male,Sydney,Gold,85 ,1609 ,Clothing,2023/10/5,Salesperson,0 
+2201 ,38 ,Male,London,Bronze,79 ,524 ,Toys,2023/4/3,Doctor,0 
+2202 ,40 ,Male,San Francisco,Platinum,55 ,283 ,Books,2023/12/29,Artist,0 
+2203 ,18 ,Female,Sydney,Gold,69 ,557 ,Toys,2023/8/24,Other,0 
+2204 ,23 ,Female,London,Platinum,20 ,638 ,Toys,2023/10/3,Artist,0 
+2205 ,40 ,Other,London,Platinum,77 ,2543 ,Home Goods,2023/2/26,Other,1 
+2206 ,45 ,Other,Sydney,Bronze,6 ,1359 ,Sports,2023/4/22,Salesperson,1 
+2207 ,57 ,Female,Tokyo,Gold,14 ,2444 ,Electronics,2023/1/30,Doctor,1 
+2208 ,55 ,Female,Tokyo,Bronze,39 ,210 ,Books,2023/8/1,Salesperson,0 
+2209 ,43 ,Other,Boston,Silver,24 ,1989 ,Electronics,2023/7/15,Artist,1 
+2210 ,66 ,Other,London,Platinum,76 ,407 ,Books,2023/8/26,Engineer,0 
+2211 ,54 ,Male,Boston,Silver,22 ,781 ,Toys,2023/4/1,Retired,1 
+2212 ,18 ,Other,Tokyo,Gold,24 ,1295 ,Sports,2023/1/23,Artist,1 
+2213 ,63 ,Male,London,Bronze,37 ,3442 ,Electronics,2023/10/23,Other,0 
+2214 ,56 ,Female,Sydney,Gold,73 ,1184 ,Clothing,2023/10/12,Doctor,1 
+2215 ,50 ,Female,San Francisco,Bronze,44 ,327 ,Clothing,2023/3/21,Other,0 
+2216 ,23 ,Male,Boston,Silver,8 ,2990 ,Home Goods,2023/4/8,Student,1 
+2217 ,33 ,Female,Tokyo,Platinum,32 ,193 ,Books,2023/2/21,Teacher,0 
+2218 ,23 ,Other,London,Silver,52 ,4919 ,Electronics,2023/11/27,Teacher,1 
+2219 ,51 ,Other,Tokyo,Bronze,52 ,1177 ,Clothing,2023/12/16,Teacher,1 
+2220 ,18 ,Female,San Francisco,Silver,93 ,763 ,Toys,2023/8/11,Artist,1 
+2221 ,30 ,Other,London,Gold,4 ,1325 ,Clothing,2023/9/27,Student,1 
+2222 ,34 ,Other,Tokyo,Silver,88 ,2944 ,Electronics,2023/2/26,Doctor,1 
+2223 ,50 ,Other,Berlin,Platinum,80 ,868 ,Toys,2023/2/28,Retired,0 
+2224 ,51 ,Male,London,Bronze,40 ,450 ,Books,2023/7/12,Other,1 
+2225 ,69 ,Male,Tokyo,Bronze,69 ,305 ,Books,2023/5/21,Artist,1 
+2226 ,34 ,Male,Boston,Bronze,72 ,1286 ,Electronics,2023/11/24,Doctor,0 
+2227 ,59 ,Female,Boston,Silver,10 ,452 ,Books,2023/7/27,Teacher,1 
+2228 ,30 ,Female,London,Bronze,24 ,604 ,Sports,2023/5/1,Retired,1 
+2229 ,39 ,Other,Berlin,Bronze,91 ,1489 ,Clothing,2023/3/13,Doctor,0 
+2230 ,28 ,Female,San Francisco,Silver,22 ,242 ,Books,2023/1/25,Retired,0 
+2231 ,35 ,Female,Boston,Platinum,57 ,2396 ,Electronics,2023/7/22,Engineer,0 
+2232 ,32 ,Female,Sydney,Platinum,29 ,681 ,Toys,2023/2/18,Artist,1 
+2233 ,25 ,Other,Boston,Silver,73 ,2131 ,Electronics,2023/6/12,Student,0 
+2234 ,38 ,Female,Tokyo,Silver,12 ,418 ,Home Goods,2023/8/13,Artist,1 
+2235 ,47 ,Other,Tokyo,Platinum,20 ,642 ,Sports,2023/11/12,Teacher,0 
+2236 ,30 ,Other,Berlin,Gold,70 ,1967 ,Home Goods,2023/1/11,Salesperson,0 
+2237 ,25 ,Female,San Francisco,Silver,70 ,3832 ,Electronics,2023/9/14,Salesperson,1 
+2238 ,24 ,Other,San Francisco,Bronze,52 ,2009 ,Home Goods,2023/8/18,Teacher,0 
+2239 ,36 ,Female,Boston,Silver,93 ,245 ,Books,2023/3/25,Retired,0 
+2240 ,18 ,Male,San Francisco,Platinum,79 ,1361 ,Sports,2023/1/29,Other,1 
+2241 ,60 ,Other,San Francisco,Silver,85 ,2745 ,Electronics,2023/7/19,Other,1 
+2242 ,62 ,Male,Boston,Platinum,37 ,2996 ,Home Goods,2023/12/1,Salesperson,1 
+2243 ,23 ,Other,Boston,Gold,69 ,3752 ,Electronics,2023/9/1,Retired,1 
+2244 ,29 ,Other,Tokyo,Bronze,18 ,997 ,Toys,2023/11/5,Student,0 
+2245 ,65 ,Male,Berlin,Bronze,2 ,3771 ,Electronics,2023/3/5,Engineer,1 
+2246 ,42 ,Male,San Francisco,Platinum,39 ,725 ,Clothing,2023/11/4,Teacher,0 
+2247 ,52 ,Other,London,Silver,91 ,679 ,Toys,2023/7/24,Student,1 
+2248 ,32 ,Female,London,Silver,68 ,1711 ,Home Goods,2023/7/18,Teacher,0 
+2249 ,56 ,Other,San Francisco,Platinum,13 ,340 ,Books,2023/5/21,Teacher,1 
+2250 ,42 ,Female,Tokyo,Platinum,9 ,4590 ,Electronics,2023/2/14,Doctor,0 
+2251 ,60 ,Female,London,Platinum,86 ,1943 ,Home Goods,2023/5/14,Other,1 
+2252 ,51 ,Female,Tokyo,Bronze,64 ,535 ,Toys,2023/1/3,Student,0 
+2253 ,42 ,Other,London,Platinum,40 ,93 ,Toys,2023/6/15,Other,1 
+2254 ,21 ,Male,Berlin,Bronze,49 ,2579 ,Electronics,2023/7/31,Teacher,0 
+2255 ,59 ,Other,Boston,Bronze,60 ,375 ,Toys,2023/5/11,Retired,0 
+2256 ,48 ,Female,Sydney,Bronze,99 ,250 ,Sports,2023/9/25,Student,0 
+2257 ,57 ,Other,Sydney,Bronze,98 ,1016 ,Electronics,2023/9/8,Salesperson,0 
+2258 ,40 ,Male,Berlin,Gold,59 ,586 ,Toys,2023/8/10,Student,0 
+2259 ,56 ,Female,San Francisco,Gold,58 ,4293 ,Electronics,2023/4/11,Salesperson,0 
+2260 ,59 ,Other,Sydney,Bronze,10 ,71 ,Books,2023/5/28,Student,0 
+2261 ,50 ,Female,Boston,Gold,69 ,891 ,Toys,2023/12/18,Student,0 
+2262 ,45 ,Other,Boston,Platinum,78 ,385 ,Sports,2023/9/14,Doctor,0 
+2263 ,45 ,Female,London,Silver,46 ,210 ,Books,2023/3/30,Student,1 
+2264 ,36 ,Female,London,Platinum,48 ,297 ,Sports,2023/10/22,Other,0 
+2265 ,51 ,Female,Boston,Bronze,65 ,248 ,Books,2023/8/9,Engineer,1 
+2266 ,54 ,Other,Sydney,Silver,14 ,1270 ,Sports,2023/11/24,Salesperson,0 
+2267 ,62 ,Female,San Francisco,Bronze,94 ,276 ,Clothing,2023/11/22,Other,0 
+2268 ,24 ,Female,Berlin,Silver,47 ,1408 ,Sports,2023/9/21,Engineer,0 
+2269 ,69 ,Other,Berlin,Platinum,60 ,1049 ,Electronics,2023/9/28,Salesperson,0 
+2270 ,56 ,Female,Tokyo,Bronze,67 ,1943 ,Home Goods,2023/6/19,Doctor,0 
+2271 ,63 ,Male,London,Bronze,22 ,311 ,Clothing,2023/4/16,Student,1 
+2272 ,66 ,Male,Berlin,Silver,77 ,1264 ,Sports,2023/10/24,Doctor,1 
+2273 ,52 ,Other,London,Platinum,33 ,705 ,Sports,2023/3/8,Retired,1 
+2274 ,49 ,Female,London,Gold,24 ,1245 ,Clothing,2023/8/29,Teacher,1 
+2275 ,65 ,Other,Boston,Bronze,76 ,2460 ,Home Goods,2023/11/14,Student,1 
+2276 ,52 ,Female,Sydney,Gold,35 ,902 ,Sports,2023/12/28,Doctor,1 
+2277 ,25 ,Other,Tokyo,Gold,46 ,307 ,Books,2023/5/20,Engineer,0 
+2278 ,60 ,Female,Berlin,Gold,44 ,651 ,Toys,2023/6/19,Other,0 
+2279 ,38 ,Other,Berlin,Platinum,31 ,148 ,Books,2023/12/8,Artist,1 
+2280 ,67 ,Other,Sydney,Silver,84 ,2216 ,Home Goods,2023/5/30,Artist,1 
+2281 ,44 ,Male,Berlin,Platinum,26 ,671 ,Sports,2023/5/19,Salesperson,0 
+2282 ,68 ,Male,Sydney,Silver,22 ,1748 ,Home Goods,2023/9/4,Teacher,0 
+2283 ,40 ,Male,Boston,Gold,38 ,176 ,Toys,2023/4/3,Teacher,0 
+2284 ,20 ,Other,Berlin,Bronze,76 ,234 ,Clothing,2023/2/19,Salesperson,0 
+2285 ,59 ,Other,Tokyo,Platinum,53 ,1813 ,Electronics,2023/8/13,Salesperson,1 
+2286 ,18 ,Other,Tokyo,Bronze,63 ,886 ,Toys,2023/10/24,Doctor,0 
+2287 ,46 ,Other,London,Gold,58 ,214 ,Books,2023/6/19,Artist,0 
+2288 ,57 ,Male,San Francisco,Bronze,87 ,459 ,Books,2023/10/24,Student,0 
+2289 ,23 ,Male,Berlin,Bronze,19 ,453 ,Sports,2023/11/23,Other,0 
+2290 ,26 ,Male,San Francisco,Platinum,36 ,118 ,Toys,2023/7/5,Artist,0 
+2291 ,27 ,Male,Berlin,Platinum,98 ,166 ,Sports,2023/3/7,Student,1 
+2292 ,48 ,Female,Sydney,Gold,62 ,1359 ,Sports,2023/11/17,Salesperson,1 
+2293 ,51 ,Other,Sydney,Bronze,90 ,1694 ,Clothing,2023/11/8,Doctor,1 
+2294 ,29 ,Other,Tokyo,Bronze,51 ,2590 ,Home Goods,2023/7/4,Retired,1 
+2295 ,52 ,Male,San Francisco,Platinum,23 ,955 ,Clothing,2023/7/3,Teacher,1 
+2296 ,58 ,Male,London,Bronze,40 ,3132 ,Electronics,2023/5/12,Doctor,0 
+2297 ,45 ,Other,Sydney,Bronze,10 ,978 ,Clothing,2023/3/3,Salesperson,0 
+2298 ,30 ,Male,Tokyo,Bronze,44 ,95 ,Toys,2023/4/12,Teacher,0 
+2299 ,41 ,Other,Sydney,Bronze,14 ,1022 ,Clothing,2023/11/13,Salesperson,0 
+2300 ,61 ,Other,Boston,Bronze,95 ,489 ,Clothing,2023/12/17,Doctor,1 
+2301 ,58 ,Female,San Francisco,Platinum,67 ,1105 ,Clothing,2023/2/10,Teacher,1 
+2302 ,20 ,Male,Berlin,Bronze,78 ,235 ,Books,2023/3/3,Artist,0 
+2303 ,40 ,Male,Berlin,Gold,98 ,450 ,Sports,2023/4/18,Artist,1 
+2304 ,36 ,Female,Boston,Bronze,94 ,220 ,Books,2023/7/2,Other,0 
+2305 ,47 ,Female,Boston,Gold,80 ,532 ,Toys,2023/7/31,Engineer,1 
+2306 ,59 ,Female,San Francisco,Bronze,1 ,438 ,Books,2023/2/5,Other,1 
+2307 ,52 ,Other,San Francisco,Platinum,9 ,657 ,Toys,2023/4/13,Retired,0 
+2308 ,65 ,Other,San Francisco,Bronze,7 ,1749 ,Electronics,2023/12/1,Salesperson,0 
+2309 ,47 ,Other,London,Bronze,52 ,470 ,Toys,2023/4/16,Student,0 
+2310 ,49 ,Other,Boston,Silver,6 ,1248 ,Home Goods,2023/1/25,Salesperson,0 
+2311 ,52 ,Female,Sydney,Platinum,99 ,2148 ,Home Goods,2023/12/29,Artist,0 
+2312 ,34 ,Male,San Francisco,Platinum,81 ,886 ,Sports,2023/1/16,Artist,0 
+2313 ,67 ,Other,Tokyo,Platinum,29 ,504 ,Toys,2023/9/18,Salesperson,1 
+2314 ,19 ,Male,Berlin,Gold,71 ,264 ,Books,2023/2/6,Retired,1 
+2315 ,29 ,Male,London,Bronze,39 ,903 ,Toys,2023/9/30,Salesperson,0 
+2316 ,19 ,Female,London,Bronze,53 ,987 ,Toys,2023/6/29,Artist,1 
+2317 ,46 ,Female,Berlin,Platinum,23 ,845 ,Clothing,2023/2/21,Student,0 
+2318 ,67 ,Male,Boston,Bronze,96 ,1732 ,Electronics,2023/10/8,Student,1 
+2319 ,18 ,Other,Boston,Silver,2 ,2600 ,Home Goods,2023/10/4,Engineer,0 
+2320 ,29 ,Male,Tokyo,Gold,3 ,1013 ,Sports,2023/1/6,Doctor,0 
+2321 ,55 ,Male,Tokyo,Platinum,73 ,546 ,Sports,2023/4/14,Doctor,1 
+2322 ,32 ,Female,Berlin,Silver,12 ,652 ,Clothing,2023/8/19,Doctor,0 
+2323 ,61 ,Female,Berlin,Bronze,73 ,1284 ,Sports,2023/3/4,Teacher,1 
+2324 ,30 ,Female,London,Bronze,23 ,3737 ,Electronics,2023/8/22,Teacher,0 
+2325 ,66 ,Other,London,Silver,74 ,488 ,Books,2023/10/19,Artist,1 
+2326 ,54 ,Female,Berlin,Bronze,40 ,799 ,Toys,2023/5/4,Artist,0 
+2327 ,67 ,Other,London,Gold,22 ,850 ,Toys,2023/7/31,Other,1 
+2328 ,32 ,Female,Tokyo,Platinum,90 ,706 ,Home Goods,2023/3/15,Student,0 
+2329 ,27 ,Female,Sydney,Platinum,57 ,579 ,Sports,2023/1/7,Engineer,1 
+2330 ,39 ,Other,Tokyo,Gold,58 ,710 ,Home Goods,2023/3/14,Artist,0 
+2331 ,69 ,Female,London,Bronze,22 ,927 ,Sports,2023/12/30,Salesperson,0 
+2332 ,50 ,Other,Boston,Silver,5 ,102 ,Clothing,2023/4/19,Salesperson,1 
+2333 ,25 ,Other,Boston,Silver,10 ,1291 ,Sports,2023/7/27,Doctor,0 
+2334 ,18 ,Male,Sydney,Gold,11 ,441 ,Toys,2023/12/14,Artist,1 
+2335 ,64 ,Male,Sydney,Silver,18 ,1531 ,Clothing,2023/7/14,Doctor,1 
+2336 ,42 ,Other,London,Platinum,91 ,2805 ,Home Goods,2023/5/19,Artist,1 
+2337 ,34 ,Male,Boston,Platinum,85 ,2439 ,Home Goods,2023/8/25,Other,1 
+2338 ,55 ,Male,Tokyo,Platinum,57 ,1380 ,Clothing,2023/12/27,Retired,0 
+2339 ,34 ,Other,Boston,Gold,36 ,335 ,Books,2023/10/25,Doctor,1 
+2340 ,22 ,Male,London,Silver,1 ,797 ,Home Goods,2023/5/27,Retired,1 
+2341 ,46 ,Male,London,Bronze,44 ,1637 ,Clothing,2023/4/11,Salesperson,1 
+2342 ,44 ,Female,Berlin,Bronze,94 ,1560 ,Clothing,2023/12/11,Engineer,0 
+2343 ,56 ,Male,San Francisco,Gold,43 ,3174 ,Electronics,2023/4/15,Salesperson,1 
+2344 ,25 ,Male,Boston,Platinum,20 ,2217 ,Home Goods,2023/8/28,Doctor,0 
+2345 ,27 ,Male,London,Gold,89 ,1052 ,Clothing,2023/7/10,Artist,0 
+2346 ,52 ,Female,Sydney,Silver,76 ,318 ,Home Goods,2023/1/7,Student,1 
+2347 ,20 ,Female,Sydney,Platinum,52 ,274 ,Sports,2023/5/2,Retired,1 
+2348 ,22 ,Other,Berlin,Silver,56 ,407 ,Books,2023/10/29,Doctor,1 
+2349 ,31 ,Other,Berlin,Bronze,38 ,4493 ,Electronics,2023/8/1,Engineer,0 
+2350 ,20 ,Other,Sydney,Silver,88 ,637 ,Toys,2023/7/28,Artist,0 
+2351 ,45 ,Other,Tokyo,Bronze,44 ,1843 ,Home Goods,2023/9/27,Teacher,1 
+2352 ,53 ,Other,Boston,Silver,58 ,614 ,Toys,2023/11/7,Doctor,1 
+2353 ,18 ,Other,London,Platinum,26 ,1724 ,Clothing,2023/5/17,Artist,0 
+2354 ,52 ,Male,Tokyo,Bronze,34 ,989 ,Toys,2023/4/23,Student,0 
+2355 ,24 ,Other,San Francisco,Platinum,30 ,729 ,Clothing,2023/3/10,Artist,0 
+2356 ,34 ,Other,San Francisco,Gold,39 ,1056 ,Sports,2023/3/31,Retired,1 
+2357 ,55 ,Female,Tokyo,Silver,47 ,1631 ,Home Goods,2023/11/13,Doctor,1 
+2358 ,35 ,Other,London,Gold,50 ,858 ,Toys,2023/3/7,Salesperson,1 
+2359 ,56 ,Other,San Francisco,Platinum,18 ,460 ,Books,2023/5/28,Salesperson,0 
+2360 ,36 ,Female,Tokyo,Platinum,13 ,210 ,Books,2023/1/3,Retired,0 
+2361 ,32 ,Other,Berlin,Bronze,18 ,2282 ,Electronics,2023/10/1,Teacher,0 
+2362 ,55 ,Female,Sydney,Bronze,49 ,206 ,Clothing,2023/11/30,Doctor,1 
+2363 ,18 ,Male,Berlin,Platinum,1 ,4872 ,Electronics,2023/12/12,Engineer,1 
+2364 ,59 ,Male,Boston,Silver,2 ,250 ,Clothing,2023/7/18,Retired,0 
+2365 ,51 ,Male,Berlin,Platinum,97 ,2168 ,Home Goods,2023/11/27,Doctor,0 
+2366 ,67 ,Other,Berlin,Silver,58 ,323 ,Home Goods,2023/10/17,Other,1 
+2367 ,31 ,Other,Boston,Gold,98 ,996 ,Toys,2023/10/30,Doctor,0 
+2368 ,53 ,Female,Berlin,Platinum,98 ,2046 ,Electronics,2023/4/21,Retired,1 
+2369 ,49 ,Female,Tokyo,Platinum,10 ,657 ,Sports,2023/6/29,Doctor,1 
+2370 ,27 ,Female,Sydney,Bronze,91 ,798 ,Toys,2023/12/10,Engineer,1 
+2371 ,30 ,Other,Sydney,Bronze,11 ,619 ,Clothing,2023/4/30,Engineer,1 
+2372 ,46 ,Female,San Francisco,Gold,81 ,183 ,Books,2023/2/27,Student,1 
+2373 ,30 ,Male,Sydney,Bronze,52 ,95 ,Books,2023/4/1,Student,1 
+2374 ,49 ,Female,London,Gold,24 ,2184 ,Electronics,2023/5/23,Other,0 
+2375 ,48 ,Male,Tokyo,Bronze,22 ,3994 ,Electronics,2023/12/28,Doctor,1 
+2376 ,31 ,Female,Boston,Silver,18 ,4826 ,Electronics,2023/2/22,Engineer,1 
+2377 ,59 ,Female,Sydney,Gold,20 ,271 ,Toys,2023/10/11,Doctor,1 
+2378 ,56 ,Female,Boston,Gold,71 ,1358 ,Clothing,2023/5/13,Engineer,1 
+2379 ,45 ,Male,Berlin,Gold,56 ,2729 ,Electronics,2023/11/1,Student,0 
+2380 ,41 ,Female,Boston,Silver,65 ,1137 ,Clothing,2023/5/3,Salesperson,0 
+2381 ,63 ,Female,Berlin,Gold,61 ,312 ,Books,2023/4/3,Student,0 
+2382 ,64 ,Female,Sydney,Silver,9 ,3527 ,Electronics,2023/11/2,Teacher,0 
+2383 ,40 ,Male,London,Gold,77 ,232 ,Home Goods,2023/11/8,Student,1 
+2384 ,57 ,Other,Sydney,Bronze,68 ,925 ,Toys,2023/4/21,Artist,0 
+2385 ,25 ,Male,Sydney,Platinum,68 ,853 ,Clothing,2023/2/7,Other,0 
+2386 ,20 ,Other,Sydney,Silver,42 ,1513 ,Clothing,2023/10/23,Other,1 
+2387 ,43 ,Female,Boston,Gold,32 ,720 ,Sports,2023/9/4,Engineer,0 
+2388 ,50 ,Male,Tokyo,Platinum,16 ,2875 ,Home Goods,2023/11/8,Salesperson,1 
+2389 ,48 ,Other,Berlin,Gold,23 ,500 ,Toys,2023/4/25,Engineer,0 
+2390 ,45 ,Male,Berlin,Bronze,43 ,3414 ,Electronics,2023/8/18,Teacher,0 
+2391 ,59 ,Female,London,Bronze,51 ,1063 ,Clothing,2023/11/12,Retired,1 
+2392 ,32 ,Male,Boston,Platinum,58 ,337 ,Books,2023/6/14,Other,1 
+2393 ,63 ,Male,San Francisco,Platinum,2 ,646 ,Clothing,2023/3/22,Student,1 
+2394 ,67 ,Female,Berlin,Silver,50 ,371 ,Toys,2023/5/17,Engineer,1 
+2395 ,39 ,Female,London,Gold,53 ,2452 ,Home Goods,2023/5/12,Salesperson,1 
+2396 ,43 ,Male,London,Silver,88 ,215 ,Books,2023/2/9,Artist,0 
+2397 ,27 ,Other,Sydney,Bronze,5 ,721 ,Home Goods,2023/4/26,Doctor,1 
+2398 ,28 ,Other,Sydney,Silver,99 ,1648 ,Clothing,2023/9/11,Retired,1 
+2399 ,24 ,Male,San Francisco,Silver,1 ,456 ,Books,2023/12/6,Salesperson,0 
+2400 ,20 ,Female,San Francisco,Platinum,45 ,131 ,Sports,2023/7/20,Student,1 
+2401 ,48 ,Female,Sydney,Gold,60 ,3148 ,Electronics,2023/11/28,Salesperson,1 
+2402 ,31 ,Other,London,Gold,49 ,349 ,Toys,2023/9/13,Other,1 
+2403 ,32 ,Other,Tokyo,Platinum,53 ,1726 ,Clothing,2023/12/4,Other,0 
+2404 ,45 ,Male,London,Bronze,39 ,433 ,Sports,2023/11/3,Engineer,1 
+2405 ,50 ,Male,Berlin,Bronze,25 ,1282 ,Sports,2023/10/29,Doctor,1 
+2406 ,60 ,Male,Berlin,Silver,21 ,1246 ,Sports,2023/3/18,Other,0 
+2407 ,36 ,Female,San Francisco,Bronze,31 ,506 ,Toys,2023/5/27,Engineer,1 
+2408 ,37 ,Other,Boston,Gold,97 ,2965 ,Electronics,2023/8/12,Student,1 
+2409 ,43 ,Female,Berlin,Bronze,17 ,1050 ,Clothing,2023/10/2,Salesperson,1 
+2410 ,42 ,Other,Tokyo,Gold,17 ,1816 ,Clothing,2023/12/20,Doctor,1 
+2411 ,60 ,Female,Berlin,Silver,44 ,850 ,Sports,2023/8/7,Student,0 
+2412 ,22 ,Other,Tokyo,Bronze,28 ,2731 ,Home Goods,2023/1/11,Other,1 
+2413 ,29 ,Female,Tokyo,Bronze,93 ,292 ,Books,2023/7/27,Salesperson,1 
+2414 ,42 ,Male,San Francisco,Gold,50 ,552 ,Toys,2023/4/24,Teacher,0 
+2415 ,68 ,Other,Sydney,Silver,92 ,392 ,Books,2023/11/10,Salesperson,1 
+2416 ,40 ,Other,Boston,Bronze,6 ,294 ,Books,2023/12/10,Engineer,1 
+2417 ,24 ,Other,Berlin,Platinum,16 ,1304 ,Home Goods,2023/2/17,Artist,1 
+2418 ,22 ,Male,Berlin,Bronze,94 ,3189 ,Electronics,2023/8/13,Other,1 
+2419 ,33 ,Other,Boston,Gold,54 ,1447 ,Sports,2023/12/3,Artist,1 
+2420 ,46 ,Other,Sydney,Platinum,18 ,510 ,Sports,2023/1/25,Student,1 
+2421 ,48 ,Male,San Francisco,Bronze,64 ,1853 ,Clothing,2023/12/12,Teacher,1 
+2422 ,57 ,Male,London,Platinum,22 ,244 ,Books,2023/9/9,Teacher,1 
+2423 ,66 ,Other,Tokyo,Silver,53 ,601 ,Home Goods,2023/6/26,Doctor,0 
+2424 ,64 ,Other,Tokyo,Bronze,88 ,1149 ,Home Goods,2023/8/16,Doctor,0 
+2425 ,39 ,Male,Berlin,Platinum,33 ,1610 ,Clothing,2023/1/15,Other,1 
+2426 ,45 ,Other,Boston,Silver,73 ,346 ,Clothing,2023/3/24,Teacher,0 
+2427 ,23 ,Male,London,Platinum,16 ,51 ,Toys,2023/3/19,Artist,0 
+2428 ,53 ,Female,Sydney,Bronze,20 ,1664 ,Clothing,2023/12/4,Engineer,0 
+2429 ,26 ,Male,Berlin,Silver,76 ,1384 ,Sports,2023/4/22,Salesperson,0 
+2430 ,36 ,Male,London,Bronze,57 ,2716 ,Electronics,2023/2/8,Student,0 
+2431 ,64 ,Other,Sydney,Bronze,66 ,422 ,Books,2023/2/11,Doctor,0 
+2432 ,66 ,Female,Boston,Bronze,9 ,420 ,Books,2023/4/15,Teacher,0 
+2433 ,62 ,Other,Tokyo,Bronze,73 ,1995 ,Home Goods,2023/5/27,Teacher,0 
+2434 ,55 ,Male,Sydney,Platinum,70 ,677 ,Electronics,2023/11/11,Salesperson,1 
+2435 ,69 ,Male,Tokyo,Gold,19 ,71 ,Books,2023/4/19,Other,0 
+2436 ,48 ,Other,Sydney,Bronze,47 ,4601 ,Electronics,2023/8/18,Other,0 
+2437 ,42 ,Male,Tokyo,Platinum,55 ,492 ,Toys,2023/11/5,Other,0 
+2438 ,30 ,Female,Sydney,Silver,15 ,259 ,Toys,2023/10/26,Retired,1 
+2439 ,60 ,Male,San Francisco,Bronze,72 ,221 ,Books,2023/12/23,Other,0 
+2440 ,58 ,Female,Boston,Platinum,59 ,948 ,Clothing,2023/12/31,Artist,1 
+2441 ,61 ,Male,Berlin,Bronze,43 ,1163 ,Clothing,2023/4/1,Artist,1 
+2442 ,39 ,Female,Sydney,Silver,62 ,581 ,Clothing,2023/2/24,Retired,1 
+2443 ,46 ,Male,Tokyo,Bronze,51 ,4543 ,Electronics,2023/10/13,Salesperson,0 
+2444 ,58 ,Other,Berlin,Platinum,6 ,2944 ,Electronics,2023/3/11,Artist,0 
+2445 ,65 ,Male,Boston,Gold,68 ,1226 ,Home Goods,2023/9/15,Salesperson,0 
+2446 ,41 ,Other,London,Silver,64 ,3669 ,Electronics,2023/3/14,Teacher,1 
+2447 ,46 ,Other,Boston,Platinum,74 ,1867 ,Clothing,2023/4/22,Student,0 
+2448 ,38 ,Other,Tokyo,Silver,39 ,751 ,Sports,2023/7/25,Teacher,0 
+2449 ,43 ,Other,Berlin,Platinum,57 ,416 ,Books,2023/6/22,Engineer,0 
+2450 ,55 ,Other,Sydney,Silver,24 ,1356 ,Sports,2023/10/17,Salesperson,0 
+2451 ,23 ,Female,Boston,Bronze,48 ,333 ,Toys,2023/10/8,Teacher,0 
+2452 ,66 ,Male,London,Silver,81 ,1921 ,Electronics,2023/12/4,Retired,1 
+2453 ,41 ,Other,Tokyo,Platinum,67 ,291 ,Books,2023/7/18,Retired,0 
+2454 ,67 ,Other,Berlin,Bronze,49 ,722 ,Sports,2023/11/14,Retired,0 
+2455 ,22 ,Other,Boston,Platinum,23 ,1827 ,Clothing,2023/1/13,Salesperson,1 
+2456 ,38 ,Female,Tokyo,Gold,32 ,387 ,Toys,2023/6/27,Retired,0 
+2457 ,31 ,Female,Sydney,Gold,66 ,2516 ,Electronics,2023/4/7,Other,0 
+2458 ,47 ,Male,San Francisco,Bronze,5 ,4579 ,Electronics,2023/10/7,Artist,1 
+2459 ,68 ,Female,Berlin,Silver,50 ,1439 ,Clothing,2023/5/9,Engineer,1 
+2460 ,46 ,Other,London,Bronze,54 ,139 ,Toys,2023/11/26,Teacher,1 
+2461 ,68 ,Male,San Francisco,Gold,40 ,1448 ,Clothing,2023/5/26,Artist,0 
+2462 ,45 ,Other,San Francisco,Bronze,37 ,109 ,Toys,2023/9/23,Doctor,0 
+2463 ,46 ,Other,Berlin,Bronze,74 ,1162 ,Sports,2023/8/6,Engineer,0 
+2464 ,57 ,Female,Sydney,Gold,28 ,1015 ,Sports,2023/1/10,Doctor,0 
+2465 ,35 ,Male,London,Bronze,17 ,423 ,Books,2023/7/19,Retired,1 
+2466 ,23 ,Male,Sydney,Bronze,33 ,436 ,Sports,2023/4/2,Other,0 
+2467 ,37 ,Male,San Francisco,Bronze,47 ,435 ,Toys,2023/11/22,Retired,1 
+2468 ,26 ,Male,Sydney,Silver,92 ,533 ,Clothing,2023/3/28,Engineer,1 
+2469 ,33 ,Other,Berlin,Gold,1 ,912 ,Toys,2023/10/27,Other,0 
+2470 ,54 ,Male,Sydney,Silver,70 ,382 ,Sports,2023/3/17,Retired,1 
+2471 ,66 ,Male,San Francisco,Silver,54 ,396 ,Books,2023/8/16,Engineer,0 
+2472 ,46 ,Other,San Francisco,Gold,82 ,2222 ,Home Goods,2023/6/30,Teacher,1 
+2473 ,46 ,Other,Berlin,Gold,39 ,1742 ,Clothing,2023/2/10,Doctor,1 
+2474 ,50 ,Female,London,Silver,95 ,408 ,Home Goods,2023/8/14,Student,0 
+2475 ,60 ,Male,San Francisco,Silver,38 ,418 ,Toys,2023/7/27,Engineer,1 
+2476 ,55 ,Male,Sydney,Gold,97 ,213 ,Toys,2023/3/6,Doctor,0 
+2477 ,48 ,Female,Boston,Bronze,87 ,1546 ,Clothing,2023/11/26,Other,1 
+2478 ,57 ,Female,Tokyo,Gold,63 ,107 ,Sports,2023/1/8,Engineer,1 
+2479 ,44 ,Female,Sydney,Silver,70 ,2158 ,Home Goods,2023/12/24,Student,1 
+2480 ,32 ,Other,Sydney,Bronze,52 ,1685 ,Clothing,2023/1/31,Student,1 
+2481 ,60 ,Male,Berlin,Bronze,29 ,910 ,Clothing,2023/5/18,Salesperson,1 
+2482 ,64 ,Female,Tokyo,Gold,24 ,438 ,Sports,2023/4/30,Retired,1 
+2483 ,23 ,Male,San Francisco,Silver,99 ,414 ,Books,2023/1/1,Engineer,0 
+2484 ,30 ,Other,Boston,Bronze,36 ,205 ,Toys,2023/5/22,Doctor,1 
+2485 ,43 ,Male,Boston,Platinum,71 ,526 ,Toys,2023/5/11,Teacher,0 
+2486 ,33 ,Other,Sydney,Platinum,28 ,1385 ,Clothing,2023/12/16,Other,0 
+2487 ,47 ,Male,San Francisco,Platinum,24 ,1624 ,Electronics,2023/11/8,Doctor,0 
+2488 ,55 ,Female,London,Gold,18 ,1629 ,Electronics,2023/8/26,Student,0 
+2489 ,62 ,Male,Tokyo,Silver,17 ,874 ,Clothing,2023/4/30,Student,0 
+2490 ,33 ,Female,Boston,Gold,9 ,324 ,Toys,2023/9/21,Other,1 
+2491 ,46 ,Other,San Francisco,Bronze,38 ,1699 ,Home Goods,2023/8/26,Teacher,1 
+2492 ,59 ,Male,San Francisco,Bronze,11 ,687 ,Clothing,2023/4/23,Retired,0 
+2493 ,25 ,Male,Boston,Platinum,26 ,4366 ,Electronics,2023/11/10,Salesperson,0 
+2494 ,20 ,Female,Berlin,Platinum,84 ,1247 ,Home Goods,2023/8/7,Retired,1 
+2495 ,64 ,Other,San Francisco,Bronze,42 ,1950 ,Clothing,2023/9/8,Retired,0 
+2496 ,29 ,Male,Sydney,Platinum,38 ,1487 ,Sports,2023/7/3,Student,0 
+2497 ,20 ,Female,Berlin,Bronze,1 ,2320 ,Electronics,2023/4/17,Doctor,1 
+2498 ,43 ,Other,San Francisco,Gold,12 ,1025 ,Clothing,2023/1/6,Student,0 
+2499 ,54 ,Female,Berlin,Platinum,8 ,943 ,Toys,2023/3/5,Teacher,0 
+2500 ,66 ,Male,Sydney,Bronze,47 ,178 ,Sports,2023/5/19,Teacher,1 
+2501 ,65 ,Male,Boston,Gold,67 ,4215 ,Electronics,2023/1/22,Other,1 
+2502 ,55 ,Other,San Francisco,Bronze,26 ,370 ,Toys,2023/12/25,Artist,0 
+2503 ,21 ,Female,Berlin,Platinum,16 ,438 ,Books,2023/12/26,Artist,1 
+2504 ,43 ,Male,London,Silver,58 ,3060 ,Electronics,2023/7/12,Other,1 
+2505 ,38 ,Other,London,Bronze,24 ,2489 ,Home Goods,2023/1/15,Artist,0 
+2506 ,18 ,Female,Berlin,Silver,94 ,138 ,Sports,2023/11/13,Salesperson,1 
+2507 ,18 ,Female,Boston,Gold,3 ,2141 ,Home Goods,2023/2/25,Engineer,1 
+2508 ,35 ,Other,London,Silver,33 ,2762 ,Home Goods,2023/1/25,Other,0 
+2509 ,64 ,Male,Tokyo,Gold,73 ,915 ,Toys,2023/4/23,Salesperson,0 
+2510 ,53 ,Other,San Francisco,Silver,39 ,1374 ,Home Goods,2023/6/3,Engineer,0 
+2511 ,38 ,Female,Tokyo,Gold,54 ,271 ,Books,2023/2/21,Student,1 
+2512 ,35 ,Male,Sydney,Silver,88 ,225 ,Toys,2023/9/6,Engineer,0 
+2513 ,53 ,Male,Boston,Silver,2 ,1691 ,Clothing,2023/10/1,Artist,1 
+2514 ,32 ,Other,Boston,Bronze,30 ,703 ,Toys,2023/2/11,Other,1 
+2515 ,68 ,Male,Berlin,Bronze,59 ,349 ,Toys,2023/8/23,Engineer,0 
+2516 ,54 ,Female,Berlin,Silver,1 ,4907 ,Electronics,2023/10/10,Salesperson,0 
+2517 ,64 ,Female,London,Bronze,93 ,456 ,Books,2023/1/5,Retired,1 
+2518 ,68 ,Male,San Francisco,Silver,50 ,378 ,Sports,2023/5/2,Student,0 
+2519 ,60 ,Female,London,Silver,31 ,721 ,Sports,2023/1/22,Salesperson,0 
+2520 ,56 ,Other,Boston,Bronze,25 ,611 ,Electronics,2023/8/24,Other,1 
+2521 ,41 ,Male,Berlin,Bronze,39 ,535 ,Sports,2023/7/20,Doctor,1 
+2522 ,19 ,Other,Tokyo,Gold,97 ,1722 ,Clothing,2023/1/6,Salesperson,1 
+2523 ,18 ,Female,Boston,Silver,3 ,1333 ,Home Goods,2023/2/27,Student,0 
+2524 ,50 ,Other,Sydney,Bronze,12 ,3883 ,Electronics,2023/4/25,Teacher,0 
+2525 ,30 ,Female,Sydney,Silver,59 ,333 ,Toys,2023/8/6,Salesperson,0 
+2526 ,58 ,Other,London,Bronze,92 ,517 ,Toys,2023/4/13,Other,0 
+2527 ,44 ,Male,San Francisco,Silver,60 ,652 ,Home Goods,2023/2/3,Teacher,0 
+2528 ,29 ,Male,Sydney,Silver,54 ,962 ,Toys,2023/8/23,Other,1 
+2529 ,55 ,Other,Boston,Gold,79 ,915 ,Clothing,2023/9/29,Retired,1 
+2530 ,68 ,Other,Boston,Bronze,54 ,1826 ,Clothing,2023/3/24,Retired,0 
+2531 ,43 ,Other,Sydney,Bronze,69 ,357 ,Sports,2023/3/7,Student,0 
+2532 ,23 ,Female,Sydney,Platinum,72 ,460 ,Books,2023/12/21,Doctor,1 
+2533 ,23 ,Female,Boston,Platinum,69 ,509 ,Toys,2023/4/10,Teacher,0 
+2534 ,32 ,Other,Tokyo,Platinum,17 ,232 ,Sports,2023/3/24,Doctor,1 
+2535 ,41 ,Female,London,Bronze,71 ,1331 ,Home Goods,2023/12/20,Engineer,0 
+2536 ,20 ,Other,Tokyo,Gold,95 ,2815 ,Electronics,2023/11/10,Engineer,0 
+2537 ,45 ,Male,Berlin,Gold,91 ,414 ,Sports,2023/5/9,Artist,0 
+2538 ,18 ,Other,Boston,Bronze,94 ,1703 ,Home Goods,2023/1/15,Salesperson,1 
+2539 ,53 ,Female,Tokyo,Bronze,70 ,2639 ,Home Goods,2023/8/18,Other,1 
+2540 ,52 ,Male,Sydney,Silver,55 ,1199 ,Clothing,2023/2/25,Other,1 
+2541 ,41 ,Other,London,Gold,50 ,938 ,Toys,2023/3/22,Teacher,0 
+2542 ,42 ,Male,Berlin,Platinum,58 ,845 ,Toys,2023/5/15,Other,1 
+2543 ,69 ,Female,Sydney,Bronze,66 ,1696 ,Electronics,2023/1/15,Other,1 
+2544 ,63 ,Female,London,Bronze,43 ,389 ,Books,2023/1/15,Student,0 
+2545 ,32 ,Male,London,Platinum,4 ,851 ,Toys,2023/5/30,Artist,0 
+2546 ,31 ,Male,Boston,Silver,35 ,325 ,Books,2023/1/3,Retired,0 
+2547 ,66 ,Male,San Francisco,Platinum,24 ,1626 ,Home Goods,2023/3/7,Retired,0 
+2548 ,40 ,Male,Berlin,Silver,53 ,2191 ,Home Goods,2023/5/5,Student,0 
+2549 ,50 ,Female,Sydney,Gold,60 ,2307 ,Home Goods,2023/7/18,Other,1 
+2550 ,45 ,Male,Boston,Silver,56 ,560 ,Electronics,2023/9/21,Retired,1 
+2551 ,26 ,Other,San Francisco,Gold,7 ,1271 ,Electronics,2023/9/15,Salesperson,0 
+2552 ,67 ,Female,Sydney,Gold,52 ,980 ,Toys,2023/6/10,Student,1 
+2553 ,59 ,Male,Berlin,Silver,50 ,1098 ,Sports,2023/6/23,Other,1 
+2554 ,56 ,Female,Berlin,Bronze,38 ,53 ,Books,2023/6/12,Doctor,0 
+2555 ,37 ,Other,Sydney,Platinum,64 ,1339 ,Clothing,2023/10/5,Teacher,1 
+2556 ,38 ,Female,Boston,Silver,75 ,401 ,Sports,2023/9/17,Engineer,0 
+2557 ,42 ,Other,Tokyo,Gold,61 ,934 ,Sports,2023/12/23,Doctor,0 
+2558 ,25 ,Female,San Francisco,Bronze,25 ,1587 ,Clothing,2023/1/3,Engineer,0 
+2559 ,45 ,Other,Boston,Silver,28 ,329 ,Books,2023/2/12,Retired,1 
+2560 ,55 ,Other,Tokyo,Platinum,17 ,371 ,Toys,2023/4/24,Artist,0 
+2561 ,59 ,Male,Tokyo,Bronze,2 ,123 ,Toys,2023/10/19,Retired,0 
+2562 ,49 ,Male,Berlin,Bronze,10 ,98 ,Books,2023/3/27,Artist,1 
+2563 ,55 ,Male,Boston,Bronze,83 ,4765 ,Electronics,2023/11/1,Other,0 
+2564 ,36 ,Female,London,Gold,13 ,90 ,Books,2023/4/5,Teacher,0 
+2565 ,34 ,Male,Boston,Platinum,70 ,673 ,Home Goods,2023/2/4,Teacher,1 
+2566 ,50 ,Other,London,Gold,40 ,472 ,Toys,2023/3/13,Retired,1 
+2567 ,27 ,Other,Boston,Bronze,87 ,455 ,Books,2023/8/31,Salesperson,0 
+2568 ,23 ,Female,San Francisco,Platinum,13 ,2694 ,Electronics,2023/4/29,Engineer,0 
+2569 ,64 ,Female,San Francisco,Gold,49 ,995 ,Home Goods,2023/1/21,Retired,1 
+2570 ,20 ,Other,Tokyo,Silver,83 ,2984 ,Home Goods,2023/3/8,Salesperson,0 
+2571 ,34 ,Female,Boston,Silver,96 ,985 ,Toys,2023/5/19,Salesperson,0 
+2572 ,56 ,Male,San Francisco,Platinum,79 ,3637 ,Electronics,2023/5/31,Artist,0 
+2573 ,48 ,Other,Tokyo,Bronze,47 ,273 ,Toys,2023/11/20,Artist,0 
+2574 ,63 ,Other,San Francisco,Bronze,65 ,1360 ,Clothing,2023/9/13,Student,0 
+2575 ,68 ,Female,London,Platinum,44 ,58 ,Books,2023/12/1,Teacher,0 
+2576 ,66 ,Other,Boston,Silver,95 ,603 ,Home Goods,2023/2/22,Engineer,0 
+2577 ,20 ,Other,San Francisco,Gold,57 ,184 ,Books,2023/9/24,Engineer,0 
+2578 ,43 ,Male,Sydney,Gold,35 ,411 ,Toys,2023/1/23,Other,1 
+2579 ,50 ,Male,Berlin,Gold,33 ,60 ,Toys,2023/4/3,Student,1 
+2580 ,25 ,Other,Tokyo,Platinum,26 ,495 ,Toys,2023/1/8,Teacher,0 
+2581 ,43 ,Male,Sydney,Silver,10 ,638 ,Sports,2023/5/28,Salesperson,1 
+2582 ,39 ,Other,Sydney,Silver,7 ,1497 ,Home Goods,2023/10/2,Teacher,0 
+2583 ,54 ,Female,San Francisco,Silver,68 ,1454 ,Sports,2023/9/3,Doctor,0 
+2584 ,20 ,Male,Sydney,Gold,85 ,184 ,Books,2023/5/29,Artist,1 
+2585 ,27 ,Female,San Francisco,Bronze,53 ,2598 ,Electronics,2023/1/17,Doctor,0 
+2586 ,29 ,Male,Boston,Platinum,25 ,1819 ,Electronics,2023/10/11,Retired,0 
+2587 ,53 ,Other,San Francisco,Bronze,40 ,694 ,Toys,2023/3/17,Artist,1 
+2588 ,60 ,Female,London,Gold,48 ,399 ,Books,2023/10/21,Artist,1 
+2589 ,57 ,Female,Boston,Platinum,88 ,1317 ,Home Goods,2023/9/20,Engineer,1 
+2590 ,69 ,Other,Boston,Gold,4 ,54 ,Books,2023/10/24,Salesperson,1 
+2591 ,47 ,Female,Sydney,Gold,71 ,865 ,Clothing,2023/11/4,Salesperson,1 
+2592 ,38 ,Male,San Francisco,Platinum,70 ,397 ,Books,2023/5/12,Engineer,1 
+2593 ,38 ,Other,Tokyo,Silver,35 ,773 ,Toys,2023/11/27,Retired,0 
+2594 ,27 ,Other,Boston,Gold,74 ,2510 ,Home Goods,2023/12/24,Student,0 
+2595 ,25 ,Male,London,Silver,55 ,529 ,Toys,2023/3/30,Engineer,0 
+2596 ,64 ,Male,Sydney,Bronze,33 ,677 ,Sports,2023/12/15,Doctor,1 
+2597 ,23 ,Male,London,Gold,34 ,305 ,Toys,2023/2/26,Student,0 
+2598 ,43 ,Female,Sydney,Silver,11 ,200 ,Books,2023/2/20,Student,0 
+2599 ,37 ,Male,Tokyo,Gold,48 ,749 ,Clothing,2023/7/2,Engineer,0 
+2600 ,34 ,Male,San Francisco,Platinum,3 ,1994 ,Home Goods,2023/10/31,Student,1 
+2601 ,46 ,Male,London,Platinum,59 ,460 ,Sports,2023/7/23,Artist,1 
+2602 ,63 ,Male,Sydney,Bronze,82 ,1083 ,Clothing,2023/10/6,Retired,0 
+2603 ,36 ,Male,London,Bronze,6 ,416 ,Home Goods,2023/11/8,Doctor,0 
+2604 ,35 ,Female,London,Platinum,58 ,141 ,Books,2023/12/1,Salesperson,0 
+2605 ,22 ,Other,Berlin,Silver,40 ,515 ,Toys,2023/5/1,Doctor,1 
+2606 ,21 ,Other,Berlin,Silver,49 ,2842 ,Home Goods,2023/2/8,Doctor,0 
+2607 ,59 ,Other,London,Platinum,61 ,4214 ,Electronics,2023/2/1,Other,0 
+2608 ,37 ,Female,Sydney,Bronze,46 ,457 ,Books,2023/11/15,Salesperson,1 
+2609 ,23 ,Other,Tokyo,Platinum,78 ,1172 ,Clothing,2023/10/17,Teacher,1 
+2610 ,56 ,Male,London,Bronze,34 ,1650 ,Clothing,2023/1/2,Salesperson,0 
+2611 ,28 ,Other,London,Gold,70 ,750 ,Sports,2023/1/27,Other,0 
+2612 ,26 ,Male,Tokyo,Silver,75 ,990 ,Clothing,2023/4/10,Teacher,0 
+2613 ,30 ,Male,San Francisco,Platinum,9 ,611 ,Toys,2023/5/25,Teacher,0 
+2614 ,59 ,Other,Berlin,Bronze,56 ,338 ,Books,2023/11/14,Engineer,1 
+2615 ,52 ,Male,Berlin,Silver,75 ,1488 ,Clothing,2023/10/2,Artist,0 
+2616 ,42 ,Female,Tokyo,Platinum,87 ,355 ,Books,2023/12/9,Salesperson,1 
+2617 ,37 ,Male,London,Bronze,67 ,578 ,Home Goods,2023/3/5,Engineer,0 
+2618 ,53 ,Other,London,Silver,41 ,2667 ,Electronics,2023/4/17,Retired,0 
+2619 ,52 ,Female,Sydney,Bronze,49 ,1351 ,Clothing,2023/4/1,Student,1 
+2620 ,40 ,Other,Berlin,Bronze,98 ,918 ,Home Goods,2023/5/2,Artist,0 
+2621 ,43 ,Male,Tokyo,Gold,16 ,56 ,Toys,2023/10/6,Other,0 
+2622 ,58 ,Female,Boston,Bronze,25 ,2547 ,Electronics,2023/8/27,Doctor,0 
+2623 ,41 ,Female,Berlin,Gold,77 ,60 ,Books,2023/3/8,Doctor,1 
+2624 ,56 ,Other,Berlin,Bronze,58 ,462 ,Toys,2023/5/22,Retired,0 
+2625 ,29 ,Other,Tokyo,Silver,75 ,2570 ,Home Goods,2023/1/31,Artist,0 
+2626 ,31 ,Other,Sydney,Bronze,10 ,409 ,Clothing,2023/2/1,Doctor,1 
+2627 ,56 ,Female,Boston,Platinum,21 ,1501 ,Clothing,2023/12/31,Teacher,0 
+2628 ,29 ,Female,London,Bronze,79 ,1180 ,Home Goods,2023/10/16,Student,1 
+2629 ,39 ,Female,Berlin,Bronze,49 ,520 ,Toys,2023/12/15,Artist,1 
+2630 ,33 ,Other,London,Bronze,53 ,408 ,Books,2023/9/11,Artist,1 
+2631 ,22 ,Female,San Francisco,Gold,55 ,159 ,Books,2023/12/4,Student,1 
+2632 ,36 ,Male,Tokyo,Silver,61 ,920 ,Toys,2023/2/27,Salesperson,0 
+2633 ,22 ,Female,Boston,Platinum,30 ,2481 ,Home Goods,2023/8/24,Salesperson,1 
+2634 ,29 ,Female,Sydney,Bronze,15 ,1262 ,Clothing,2023/4/10,Artist,1 
+2635 ,61 ,Other,Tokyo,Gold,89 ,130 ,Books,2023/7/16,Student,1 
+2636 ,54 ,Female,Sydney,Gold,97 ,1247 ,Sports,2023/2/10,Engineer,1 
+2637 ,45 ,Male,San Francisco,Silver,83 ,2705 ,Home Goods,2023/2/18,Salesperson,1 
+2638 ,33 ,Male,Berlin,Platinum,28 ,1529 ,Home Goods,2023/4/5,Retired,1 
+2639 ,19 ,Male,San Francisco,Platinum,79 ,974 ,Toys,2023/12/10,Doctor,1 
+2640 ,30 ,Male,Berlin,Silver,68 ,135 ,Books,2023/8/24,Doctor,1 
+2641 ,19 ,Other,San Francisco,Bronze,35 ,465 ,Books,2023/9/7,Engineer,1 
+2642 ,26 ,Female,San Francisco,Bronze,11 ,1648 ,Clothing,2023/3/5,Artist,0 
+2643 ,43 ,Female,Sydney,Silver,89 ,1734 ,Home Goods,2023/6/26,Other,1 
+2644 ,44 ,Male,Sydney,Bronze,89 ,337 ,Clothing,2023/8/5,Doctor,0 
+2645 ,56 ,Other,Sydney,Gold,98 ,2860 ,Home Goods,2023/11/20,Engineer,0 
+2646 ,33 ,Male,Sydney,Gold,85 ,150 ,Books,2023/7/4,Doctor,0 
+2647 ,69 ,Male,London,Gold,48 ,797 ,Clothing,2023/3/14,Teacher,0 
+2648 ,39 ,Other,Berlin,Bronze,98 ,1431 ,Home Goods,2023/2/21,Doctor,1 
+2649 ,34 ,Other,Sydney,Bronze,21 ,566 ,Toys,2023/3/14,Engineer,0 
+2650 ,38 ,Female,Boston,Silver,70 ,544 ,Sports,2023/7/26,Other,1 
+2651 ,45 ,Other,San Francisco,Platinum,18 ,1729 ,Clothing,2023/7/7,Doctor,1 
+2652 ,47 ,Other,Boston,Bronze,9 ,247 ,Toys,2023/7/14,Engineer,1 
+2653 ,25 ,Other,Berlin,Silver,57 ,1266 ,Clothing,2023/5/16,Salesperson,1 
+2654 ,32 ,Male,Berlin,Bronze,68 ,874 ,Electronics,2023/6/20,Teacher,0 
+2655 ,29 ,Female,Boston,Silver,18 ,807 ,Toys,2023/3/22,Teacher,0 
+2656 ,30 ,Male,Sydney,Platinum,28 ,2327 ,Home Goods,2023/8/27,Engineer,0 
+2657 ,59 ,Other,Berlin,Gold,36 ,507 ,Clothing,2023/8/4,Other,1 
+2658 ,38 ,Female,Berlin,Silver,57 ,597 ,Clothing,2023/7/5,Other,1 
+2659 ,55 ,Other,Berlin,Silver,16 ,3909 ,Electronics,2023/11/29,Teacher,0 
+2660 ,20 ,Other,Boston,Gold,52 ,358 ,Toys,2023/3/4,Other,1 
+2661 ,51 ,Other,Sydney,Silver,20 ,490 ,Books,2023/3/11,Other,1 
+2662 ,28 ,Male,Tokyo,Bronze,21 ,652 ,Sports,2023/10/12,Other,0 
+2663 ,26 ,Female,Tokyo,Silver,19 ,518 ,Toys,2023/5/15,Retired,0 
+2664 ,23 ,Female,Tokyo,Bronze,9 ,2175 ,Electronics,2023/10/4,Artist,1 
+2665 ,18 ,Other,London,Gold,73 ,337 ,Books,2023/11/20,Artist,1 
+2666 ,20 ,Other,Sydney,Platinum,90 ,751 ,Sports,2023/1/25,Artist,1 
+2667 ,59 ,Male,London,Gold,13 ,122 ,Books,2023/10/25,Other,0 
+2668 ,22 ,Other,Boston,Bronze,18 ,934 ,Clothing,2023/11/10,Student,0 
+2669 ,63 ,Male,Sydney,Platinum,21 ,2205 ,Electronics,2023/2/23,Engineer,1 
+2670 ,18 ,Male,Tokyo,Silver,41 ,4838 ,Electronics,2023/8/21,Retired,0 
+2671 ,53 ,Other,San Francisco,Platinum,11 ,975 ,Clothing,2023/5/26,Teacher,1 
+2672 ,48 ,Male,Sydney,Platinum,22 ,100 ,Books,2023/11/17,Doctor,1 
+2673 ,22 ,Other,Berlin,Bronze,31 ,2761 ,Electronics,2023/7/21,Other,1 
+2674 ,29 ,Male,Boston,Gold,39 ,208 ,Home Goods,2023/1/16,Doctor,1 
+2675 ,62 ,Other,Boston,Silver,5 ,1412 ,Home Goods,2023/3/8,Student,1 
+2676 ,34 ,Female,Berlin,Gold,68 ,1510 ,Clothing,2023/12/4,Other,1 
+2677 ,32 ,Male,London,Platinum,87 ,750 ,Electronics,2023/5/23,Student,1 
+2678 ,20 ,Male,London,Platinum,41 ,2216 ,Electronics,2023/6/22,Doctor,1 
+2679 ,67 ,Female,Boston,Gold,31 ,842 ,Toys,2023/11/4,Retired,1 
+2680 ,33 ,Other,Sydney,Platinum,14 ,898 ,Clothing,2023/3/30,Other,1 
+2681 ,50 ,Male,London,Platinum,3 ,1737 ,Home Goods,2023/6/12,Student,1 
+2682 ,42 ,Other,Boston,Gold,93 ,689 ,Clothing,2023/7/22,Student,1 
+2683 ,18 ,Male,Berlin,Silver,50 ,2621 ,Home Goods,2023/5/10,Retired,0 
+2684 ,19 ,Other,London,Bronze,3 ,1413 ,Home Goods,2023/12/11,Artist,0 
+2685 ,45 ,Other,London,Silver,61 ,1973 ,Home Goods,2023/2/16,Teacher,1 
+2686 ,21 ,Female,Tokyo,Gold,85 ,843 ,Home Goods,2023/7/4,Retired,0 
+2687 ,65 ,Other,London,Gold,22 ,139 ,Clothing,2023/11/17,Artist,1 
+2688 ,35 ,Female,Tokyo,Platinum,77 ,213 ,Books,2023/8/12,Retired,1 
+2689 ,59 ,Other,Sydney,Platinum,40 ,61 ,Books,2023/8/13,Retired,1 
+2690 ,37 ,Other,London,Silver,25 ,1933 ,Clothing,2023/8/5,Student,0 
+2691 ,62 ,Other,London,Silver,44 ,2317 ,Electronics,2023/1/28,Artist,1 
+2692 ,67 ,Female,Boston,Gold,21 ,2674 ,Home Goods,2023/4/22,Student,0 
+2693 ,51 ,Male,San Francisco,Platinum,84 ,561 ,Toys,2023/11/23,Retired,0 
+2694 ,24 ,Other,Berlin,Bronze,38 ,754 ,Electronics,2023/4/29,Salesperson,1 
+2695 ,41 ,Male,San Francisco,Platinum,64 ,4683 ,Electronics,2023/1/1,Teacher,1 
+2696 ,67 ,Male,Tokyo,Platinum,14 ,393 ,Books,2023/4/6,Student,1 
+2697 ,67 ,Male,Boston,Silver,61 ,1131 ,Home Goods,2023/4/1,Salesperson,0 
+2698 ,65 ,Other,Tokyo,Bronze,28 ,2212 ,Electronics,2023/2/13,Artist,1 
+2699 ,26 ,Other,Boston,Silver,26 ,882 ,Clothing,2023/2/17,Doctor,1 
+2700 ,47 ,Other,Sydney,Bronze,1 ,1353 ,Sports,2023/11/16,Engineer,1 
+2701 ,36 ,Female,Tokyo,Bronze,99 ,829 ,Toys,2023/11/29,Retired,1 
+2702 ,34 ,Female,Boston,Bronze,39 ,181 ,Sports,2023/11/15,Teacher,0 
+2703 ,52 ,Other,Tokyo,Platinum,60 ,905 ,Sports,2023/6/10,Teacher,1 
+2704 ,46 ,Female,London,Silver,82 ,1641 ,Clothing,2023/1/21,Other,0 
+2705 ,68 ,Female,Sydney,Bronze,85 ,191 ,Toys,2023/3/28,Retired,1 
+2706 ,58 ,Other,Boston,Platinum,74 ,1393 ,Sports,2023/2/20,Retired,1 
+2707 ,56 ,Female,Tokyo,Gold,7 ,848 ,Sports,2023/7/24,Doctor,0 
+2708 ,28 ,Other,Berlin,Bronze,81 ,540 ,Clothing,2023/5/26,Student,1 
+2709 ,41 ,Female,Tokyo,Bronze,67 ,429 ,Sports,2023/7/27,Engineer,1 
+2710 ,19 ,Female,Berlin,Bronze,10 ,193 ,Books,2023/6/10,Engineer,1 
+2711 ,63 ,Male,Tokyo,Bronze,9 ,187 ,Books,2023/8/30,Artist,1 
+2712 ,49 ,Male,Berlin,Gold,30 ,1472 ,Sports,2023/1/21,Doctor,1 
+2713 ,42 ,Female,Sydney,Gold,25 ,1703 ,Clothing,2023/1/11,Salesperson,1 
+2714 ,27 ,Male,San Francisco,Bronze,84 ,510 ,Sports,2023/2/20,Artist,1 
+2715 ,49 ,Female,San Francisco,Platinum,45 ,796 ,Clothing,2023/10/18,Salesperson,0 
+2716 ,45 ,Other,Berlin,Bronze,24 ,945 ,Sports,2023/11/13,Doctor,1 
+2717 ,52 ,Female,Sydney,Bronze,53 ,559 ,Clothing,2023/6/26,Teacher,1 
+2718 ,68 ,Other,Boston,Platinum,88 ,185 ,Clothing,2023/6/24,Teacher,0 
+2719 ,69 ,Female,Sydney,Platinum,64 ,2707 ,Home Goods,2023/12/17,Salesperson,1 
+2720 ,55 ,Male,Berlin,Bronze,32 ,221 ,Books,2023/8/8,Student,0 
+2721 ,36 ,Other,Sydney,Platinum,55 ,211 ,Books,2023/10/19,Engineer,0 
+2722 ,36 ,Other,San Francisco,Gold,75 ,2750 ,Home Goods,2023/7/11,Teacher,1 
+2723 ,69 ,Male,Berlin,Bronze,35 ,379 ,Books,2023/10/19,Teacher,1 
+2724 ,45 ,Male,London,Bronze,92 ,4124 ,Electronics,2023/3/26,Engineer,1 
+2725 ,42 ,Other,Berlin,Bronze,46 ,1302 ,Home Goods,2023/10/4,Student,0 
+2726 ,22 ,Female,Berlin,Platinum,29 ,2736 ,Electronics,2023/7/1,Teacher,1 
+2727 ,19 ,Male,Berlin,Bronze,53 ,2135 ,Electronics,2023/2/24,Doctor,0 
+2728 ,62 ,Other,Sydney,Gold,95 ,964 ,Sports,2023/9/5,Salesperson,0 
+2729 ,55 ,Female,London,Gold,20 ,292 ,Books,2023/3/12,Retired,1 
+2730 ,51 ,Male,London,Silver,25 ,480 ,Books,2023/12/30,Teacher,0 
+2731 ,41 ,Female,San Francisco,Silver,32 ,192 ,Books,2023/8/21,Other,0 
+2732 ,67 ,Female,San Francisco,Gold,76 ,574 ,Toys,2023/2/9,Other,1 
+2733 ,62 ,Male,San Francisco,Gold,76 ,235 ,Books,2023/3/28,Retired,1 
+2734 ,59 ,Female,San Francisco,Gold,91 ,2395 ,Home Goods,2023/12/20,Artist,0 
+2735 ,50 ,Female,Boston,Bronze,65 ,608 ,Electronics,2023/9/30,Doctor,0 
+2736 ,45 ,Other,Berlin,Platinum,55 ,1738 ,Clothing,2023/5/6,Doctor,1 
+2737 ,34 ,Other,San Francisco,Silver,96 ,780 ,Toys,2023/4/30,Other,0 
+2738 ,45 ,Female,Berlin,Bronze,89 ,649 ,Sports,2023/2/24,Other,1 
+2739 ,30 ,Other,London,Gold,84 ,959 ,Toys,2023/4/13,Salesperson,0 
+2740 ,44 ,Other,Berlin,Silver,27 ,303 ,Books,2023/6/26,Salesperson,0 
+2741 ,58 ,Female,Sydney,Silver,73 ,388 ,Clothing,2023/2/27,Engineer,1 
+2742 ,46 ,Other,Tokyo,Platinum,5 ,237 ,Books,2023/4/1,Teacher,1 
+2743 ,40 ,Female,Tokyo,Silver,49 ,1021 ,Electronics,2023/12/1,Other,0 
+2744 ,66 ,Female,San Francisco,Bronze,84 ,892 ,Sports,2023/5/23,Doctor,1 
+2745 ,69 ,Male,Berlin,Gold,90 ,4669 ,Electronics,2023/11/15,Student,0 
+2746 ,56 ,Male,Tokyo,Bronze,74 ,1286 ,Sports,2023/12/22,Student,0 
+2747 ,38 ,Female,Sydney,Bronze,79 ,398 ,Books,2023/5/26,Doctor,1 
+2748 ,61 ,Male,San Francisco,Gold,50 ,283 ,Home Goods,2023/7/31,Artist,1 
+2749 ,59 ,Female,Sydney,Bronze,92 ,2989 ,Electronics,2023/2/21,Engineer,1 
+2750 ,37 ,Male,Berlin,Silver,63 ,278 ,Books,2023/4/12,Other,1 
+2751 ,64 ,Female,Sydney,Bronze,89 ,378 ,Books,2023/4/5,Engineer,0 
+2752 ,55 ,Female,Sydney,Gold,45 ,1269 ,Clothing,2023/3/27,Artist,1 
+2753 ,63 ,Other,Boston,Bronze,44 ,99 ,Toys,2023/10/6,Salesperson,1 
+2754 ,29 ,Female,Berlin,Bronze,29 ,1492 ,Electronics,2023/6/20,Engineer,0 
+2755 ,55 ,Female,Tokyo,Gold,81 ,2558 ,Home Goods,2023/10/23,Doctor,1 
+2756 ,38 ,Other,Berlin,Bronze,17 ,1512 ,Electronics,2023/6/14,Artist,1 
+2757 ,52 ,Male,London,Platinum,32 ,811 ,Toys,2023/5/31,Other,1 
+2758 ,41 ,Other,Boston,Platinum,37 ,335 ,Books,2023/10/18,Student,0 
+2759 ,19 ,Female,Berlin,Bronze,19 ,1938 ,Home Goods,2023/4/8,Doctor,0 
+2760 ,58 ,Female,Boston,Silver,43 ,516 ,Toys,2023/4/4,Salesperson,1 
+2761 ,39 ,Male,Tokyo,Gold,80 ,994 ,Toys,2023/4/14,Doctor,1 
+2762 ,55 ,Female,Sydney,Silver,49 ,435 ,Clothing,2023/10/2,Salesperson,1 
+2763 ,25 ,Male,Boston,Silver,63 ,240 ,Books,2023/1/5,Engineer,0 
+2764 ,42 ,Female,San Francisco,Bronze,90 ,1775 ,Electronics,2023/1/15,Student,0 
+2765 ,42 ,Female,Tokyo,Bronze,16 ,1605 ,Clothing,2023/8/25,Other,1 
+2766 ,60 ,Female,London,Bronze,99 ,3655 ,Electronics,2023/12/25,Retired,1 
+2767 ,37 ,Male,Tokyo,Gold,55 ,1667 ,Electronics,2023/1/22,Engineer,1 
+2768 ,59 ,Female,London,Gold,49 ,2494 ,Electronics,2023/4/21,Engineer,1 
+2769 ,48 ,Male,Boston,Platinum,46 ,3946 ,Electronics,2023/2/13,Student,0 
+2770 ,63 ,Male,Sydney,Silver,93 ,136 ,Sports,2023/4/9,Other,0 
+2771 ,45 ,Other,Berlin,Gold,45 ,2304 ,Electronics,2023/3/10,Other,0 
+2772 ,50 ,Female,Berlin,Silver,96 ,756 ,Clothing,2023/10/22,Doctor,1 
+2773 ,32 ,Male,Boston,Platinum,56 ,574 ,Clothing,2023/11/10,Artist,1 
+2774 ,43 ,Male,London,Gold,18 ,3691 ,Electronics,2023/9/18,Artist,1 
+2775 ,31 ,Male,Boston,Bronze,50 ,2424 ,Electronics,2023/3/31,Artist,1 
+2776 ,32 ,Other,Sydney,Bronze,20 ,592 ,Sports,2023/4/25,Retired,0 
+2777 ,54 ,Male,Sydney,Gold,94 ,215 ,Home Goods,2023/10/10,Artist,0 
+2778 ,42 ,Male,London,Gold,98 ,2182 ,Home Goods,2023/7/5,Retired,1 
+2779 ,21 ,Male,San Francisco,Bronze,45 ,289 ,Books,2023/3/14,Retired,1 
+2780 ,47 ,Female,Tokyo,Gold,87 ,359 ,Books,2023/1/12,Teacher,1 
+2781 ,49 ,Female,Boston,Gold,95 ,721 ,Sports,2023/8/4,Salesperson,1 
+2782 ,46 ,Other,Boston,Gold,69 ,900 ,Clothing,2023/3/5,Teacher,1 
+2783 ,30 ,Female,London,Silver,25 ,183 ,Books,2023/9/28,Doctor,0 
+2784 ,20 ,Other,Tokyo,Silver,33 ,344 ,Books,2023/11/5,Engineer,0 
+2785 ,26 ,Female,Tokyo,Platinum,39 ,330 ,Sports,2023/12/28,Doctor,1 
+2786 ,58 ,Female,Sydney,Platinum,51 ,209 ,Home Goods,2023/1/26,Engineer,0 
+2787 ,33 ,Male,San Francisco,Gold,40 ,1164 ,Home Goods,2023/7/18,Artist,1 
+2788 ,55 ,Male,Berlin,Gold,71 ,854 ,Toys,2023/4/1,Student,0 
+2789 ,25 ,Male,Sydney,Silver,63 ,1235 ,Sports,2023/12/16,Engineer,0 
+2790 ,67 ,Male,London,Gold,38 ,163 ,Toys,2023/7/16,Other,1 
+2791 ,36 ,Male,London,Bronze,91 ,636 ,Toys,2023/9/14,Salesperson,0 
+2792 ,56 ,Female,Berlin,Bronze,42 ,446 ,Books,2023/4/12,Artist,0 
+2793 ,65 ,Female,London,Gold,6 ,785 ,Sports,2023/11/19,Engineer,1 
+2794 ,54 ,Male,London,Platinum,71 ,211 ,Books,2023/3/25,Salesperson,0 
+2795 ,66 ,Male,Berlin,Silver,75 ,498 ,Books,2023/4/24,Student,1 
+2796 ,36 ,Male,Boston,Platinum,86 ,3435 ,Electronics,2023/11/22,Teacher,0 
+2797 ,26 ,Female,London,Gold,46 ,414 ,Books,2023/11/16,Teacher,0 
+2798 ,39 ,Female,San Francisco,Platinum,84 ,768 ,Electronics,2023/6/6,Teacher,0 
+2799 ,22 ,Female,Tokyo,Platinum,23 ,199 ,Toys,2023/10/18,Doctor,1 
+2800 ,57 ,Male,Berlin,Gold,6 ,1293 ,Sports,2023/3/30,Retired,0 
+2801 ,59 ,Female,London,Silver,8 ,280 ,Clothing,2023/10/19,Student,0 
+2802 ,31 ,Male,Berlin,Silver,90 ,199 ,Books,2023/9/19,Doctor,1 
+2803 ,58 ,Other,San Francisco,Bronze,53 ,4632 ,Electronics,2023/2/7,Other,1 
+2804 ,27 ,Female,Tokyo,Silver,76 ,255 ,Books,2023/1/19,Other,0 
+2805 ,28 ,Male,Sydney,Bronze,81 ,246 ,Books,2023/2/8,Other,1 
+2806 ,22 ,Female,Berlin,Bronze,42 ,960 ,Sports,2023/4/12,Doctor,0 
+2807 ,61 ,Female,Sydney,Platinum,21 ,276 ,Toys,2023/9/24,Salesperson,0 
+2808 ,42 ,Female,London,Bronze,66 ,778 ,Clothing,2023/5/2,Teacher,1 
+2809 ,43 ,Female,Sydney,Platinum,52 ,1462 ,Clothing,2023/8/1,Doctor,0 
+2810 ,51 ,Male,Boston,Gold,72 ,135 ,Books,2023/3/12,Artist,1 
+2811 ,36 ,Female,San Francisco,Platinum,31 ,85 ,Books,2023/1/27,Engineer,1 
+2812 ,32 ,Male,London,Bronze,60 ,580 ,Clothing,2023/12/2,Doctor,1 
+2813 ,64 ,Male,Sydney,Bronze,15 ,100 ,Clothing,2023/3/8,Retired,1 
+2814 ,32 ,Other,Berlin,Gold,71 ,433 ,Books,2023/3/2,Salesperson,1 
+2815 ,25 ,Other,London,Platinum,30 ,84 ,Books,2023/4/19,Teacher,1 
+2816 ,53 ,Other,Sydney,Gold,35 ,2745 ,Electronics,2023/3/8,Student,1 
+2817 ,31 ,Other,Berlin,Bronze,36 ,3419 ,Electronics,2023/1/6,Retired,1 
+2818 ,26 ,Female,London,Bronze,21 ,373 ,Books,2023/12/9,Salesperson,1 
+2819 ,56 ,Other,Tokyo,Bronze,97 ,111 ,Toys,2023/10/2,Retired,1 
+2820 ,67 ,Other,Berlin,Bronze,53 ,1519 ,Clothing,2023/10/23,Doctor,1 
+2821 ,32 ,Other,Sydney,Bronze,26 ,261 ,Sports,2023/5/3,Engineer,1 
+2822 ,62 ,Other,London,Gold,6 ,983 ,Sports,2023/5/31,Other,1 
+2823 ,35 ,Male,San Francisco,Gold,54 ,883 ,Toys,2023/11/19,Retired,1 
+2824 ,63 ,Male,London,Platinum,12 ,2630 ,Electronics,2023/1/20,Teacher,0 
+2825 ,62 ,Other,Sydney,Bronze,8 ,1828 ,Electronics,2023/11/28,Salesperson,0 
+2826 ,31 ,Female,Boston,Silver,50 ,2027 ,Electronics,2023/7/17,Student,1 
+2827 ,41 ,Female,Tokyo,Silver,13 ,932 ,Electronics,2023/2/14,Engineer,1 
+2828 ,44 ,Other,Berlin,Silver,82 ,1553 ,Home Goods,2023/3/25,Salesperson,0 
+2829 ,49 ,Female,Sydney,Gold,72 ,3350 ,Electronics,2023/2/21,Student,0 
+2830 ,67 ,Male,Tokyo,Platinum,24 ,843 ,Toys,2023/7/7,Other,0 
+2831 ,41 ,Male,Sydney,Platinum,43 ,1885 ,Home Goods,2023/8/11,Other,0 
+2832 ,55 ,Male,San Francisco,Bronze,39 ,233 ,Sports,2023/3/2,Student,0 
+2833 ,60 ,Other,London,Gold,33 ,183 ,Books,2023/9/21,Student,0 
+2834 ,47 ,Female,Boston,Gold,24 ,317 ,Books,2023/6/1,Salesperson,1 
+2835 ,63 ,Male,London,Platinum,63 ,349 ,Toys,2023/11/4,Student,0 
+2836 ,43 ,Male,Sydney,Silver,32 ,4188 ,Electronics,2023/12/31,Engineer,1 
+2837 ,35 ,Male,Boston,Silver,59 ,409 ,Clothing,2023/6/5,Doctor,0 
+2838 ,50 ,Other,Boston,Silver,35 ,1731 ,Home Goods,2023/9/19,Engineer,0 
+2839 ,44 ,Female,Sydney,Gold,68 ,2651 ,Home Goods,2023/11/30,Engineer,1 
+2840 ,64 ,Male,Sydney,Gold,9 ,1192 ,Clothing,2023/9/17,Retired,0 
+2841 ,63 ,Female,San Francisco,Gold,77 ,970 ,Toys,2023/9/25,Retired,0 
+2842 ,36 ,Female,Boston,Gold,19 ,135 ,Toys,2023/8/13,Engineer,0 
+2843 ,42 ,Male,Boston,Bronze,67 ,136 ,Books,2023/8/17,Engineer,1 
+2844 ,57 ,Female,London,Bronze,79 ,679 ,Toys,2023/2/8,Doctor,1 
+2845 ,29 ,Male,Boston,Gold,70 ,880 ,Sports,2023/4/13,Artist,0 
+2846 ,57 ,Female,San Francisco,Bronze,53 ,664 ,Home Goods,2023/9/30,Student,1 
+2847 ,24 ,Male,Sydney,Bronze,87 ,103 ,Toys,2023/1/29,Retired,1 
+2848 ,60 ,Other,Berlin,Platinum,7 ,908 ,Toys,2023/11/24,Student,1 
+2849 ,22 ,Other,Tokyo,Bronze,94 ,524 ,Toys,2023/8/18,Engineer,1 
+2850 ,66 ,Other,Tokyo,Platinum,83 ,526 ,Home Goods,2023/10/11,Artist,0 
+2851 ,57 ,Male,Tokyo,Bronze,42 ,1636 ,Clothing,2023/11/25,Other,0 
+2852 ,64 ,Male,Boston,Bronze,65 ,1681 ,Clothing,2023/8/22,Retired,1 
+2853 ,39 ,Other,Berlin,Gold,97 ,1801 ,Clothing,2023/12/11,Teacher,0 
+2854 ,21 ,Other,San Francisco,Silver,95 ,159 ,Books,2023/4/14,Student,0 
+2855 ,27 ,Female,San Francisco,Gold,51 ,1591 ,Clothing,2023/6/5,Student,1 
+2856 ,54 ,Other,Tokyo,Platinum,42 ,523 ,Sports,2023/4/24,Salesperson,1 
+2857 ,42 ,Female,London,Platinum,92 ,1175 ,Clothing,2023/3/27,Student,0 
+2858 ,25 ,Male,London,Gold,82 ,1243 ,Sports,2023/4/27,Student,1 
+2859 ,50 ,Other,Berlin,Platinum,69 ,1141 ,Sports,2023/10/17,Teacher,1 
+2860 ,30 ,Other,San Francisco,Silver,99 ,1203 ,Electronics,2023/1/3,Retired,1 
+2861 ,40 ,Other,San Francisco,Bronze,29 ,2675 ,Electronics,2023/3/29,Other,1 
+2862 ,19 ,Other,London,Silver,59 ,916 ,Sports,2023/6/8,Student,1 
+2863 ,25 ,Male,London,Gold,66 ,344 ,Books,2023/8/2,Other,1 
+2864 ,20 ,Other,Tokyo,Bronze,35 ,3580 ,Electronics,2023/5/13,Retired,0 
+2865 ,54 ,Male,Berlin,Platinum,36 ,340 ,Books,2023/8/7,Salesperson,0 
+2866 ,50 ,Female,Boston,Platinum,98 ,763 ,Clothing,2023/9/30,Other,0 
+2867 ,38 ,Female,San Francisco,Gold,1 ,1024 ,Home Goods,2023/3/29,Doctor,1 
+2868 ,21 ,Other,Berlin,Gold,93 ,491 ,Books,2023/12/23,Artist,1 
+2869 ,39 ,Female,Berlin,Bronze,16 ,241 ,Clothing,2023/9/25,Artist,0 
+2870 ,48 ,Female,London,Gold,97 ,561 ,Toys,2023/12/25,Other,0 
+2871 ,53 ,Female,London,Bronze,55 ,372 ,Sports,2023/3/19,Retired,1 
+2872 ,35 ,Other,Tokyo,Gold,51 ,1021 ,Sports,2023/2/19,Doctor,1 
+2873 ,35 ,Female,London,Gold,57 ,2916 ,Home Goods,2023/10/28,Teacher,1 
+2874 ,61 ,Other,Tokyo,Platinum,38 ,680 ,Toys,2023/9/21,Doctor,0 
+2875 ,49 ,Female,Boston,Silver,61 ,2690 ,Electronics,2023/8/8,Student,0 
+2876 ,43 ,Female,London,Silver,90 ,427 ,Clothing,2023/3/21,Retired,0 
+2877 ,57 ,Female,San Francisco,Platinum,6 ,367 ,Books,2023/7/29,Retired,0 
+2878 ,43 ,Male,Berlin,Silver,61 ,1738 ,Home Goods,2023/4/8,Student,0 
+2879 ,47 ,Other,London,Bronze,18 ,1174 ,Sports,2023/5/6,Student,1 
+2880 ,69 ,Female,Boston,Bronze,34 ,1900 ,Home Goods,2023/11/29,Student,0 
+2881 ,21 ,Female,Berlin,Platinum,39 ,1406 ,Clothing,2023/9/21,Salesperson,1 
+2882 ,65 ,Other,Sydney,Bronze,95 ,2674 ,Home Goods,2023/10/2,Engineer,0 
+2883 ,38 ,Other,Tokyo,Gold,10 ,692 ,Sports,2023/1/24,Teacher,0 
+2884 ,25 ,Other,Berlin,Silver,84 ,1484 ,Sports,2023/7/28,Artist,1 
+2885 ,33 ,Female,Berlin,Platinum,93 ,957 ,Toys,2023/6/25,Engineer,1 
+2886 ,26 ,Female,Sydney,Gold,19 ,494 ,Books,2023/12/20,Artist,0 
+2887 ,41 ,Male,Tokyo,Silver,27 ,374 ,Toys,2023/2/15,Artist,0 
+2888 ,68 ,Female,Boston,Gold,61 ,1682 ,Clothing,2023/7/3,Retired,1 
+2889 ,27 ,Other,Tokyo,Bronze,97 ,1093 ,Electronics,2023/9/2,Artist,1 
+2890 ,64 ,Other,Boston,Gold,13 ,394 ,Toys,2023/12/4,Doctor,0 
+2891 ,19 ,Female,Boston,Platinum,90 ,602 ,Toys,2023/7/19,Retired,0 
+2892 ,39 ,Female,San Francisco,Bronze,1 ,1152 ,Sports,2023/4/1,Salesperson,0 
+2893 ,31 ,Female,Sydney,Gold,65 ,105 ,Sports,2023/4/11,Artist,0 
+2894 ,40 ,Other,Boston,Gold,40 ,892 ,Toys,2023/9/9,Teacher,0 
+2895 ,45 ,Other,Sydney,Platinum,71 ,464 ,Sports,2023/10/9,Artist,0 
+2896 ,43 ,Other,Boston,Platinum,63 ,734 ,Sports,2023/5/30,Salesperson,0 
+2897 ,35 ,Other,Boston,Bronze,21 ,217 ,Sports,2023/3/13,Salesperson,1 
+2898 ,53 ,Female,San Francisco,Platinum,14 ,2586 ,Home Goods,2023/8/17,Salesperson,0 
+2899 ,50 ,Other,San Francisco,Platinum,18 ,1434 ,Sports,2023/6/28,Artist,1 
+2900 ,47 ,Other,Sydney,Silver,51 ,597 ,Sports,2023/8/22,Engineer,0 
+2901 ,58 ,Other,Boston,Gold,60 ,2861 ,Home Goods,2023/12/9,Retired,1 
+2902 ,32 ,Other,San Francisco,Bronze,39 ,941 ,Sports,2023/1/28,Artist,1 
+2903 ,39 ,Male,Boston,Silver,95 ,1184 ,Clothing,2023/5/18,Salesperson,1 
+2904 ,43 ,Female,Boston,Silver,8 ,1506 ,Clothing,2023/9/14,Student,0 
+2905 ,66 ,Male,Sydney,Bronze,28 ,419 ,Books,2023/7/21,Artist,1 
+2906 ,65 ,Other,London,Gold,27 ,4769 ,Electronics,2023/8/19,Retired,1 
+2907 ,37 ,Male,Sydney,Bronze,66 ,2699 ,Home Goods,2023/10/24,Artist,0 
+2908 ,22 ,Other,San Francisco,Silver,82 ,817 ,Toys,2023/1/27,Retired,0 
+2909 ,62 ,Male,London,Gold,43 ,1807 ,Clothing,2023/6/21,Student,0 
+2910 ,43 ,Male,San Francisco,Silver,91 ,351 ,Books,2023/7/24,Student,0 
+2911 ,42 ,Other,London,Silver,85 ,337 ,Toys,2023/3/25,Salesperson,1 
+2912 ,63 ,Male,San Francisco,Bronze,35 ,411 ,Books,2023/9/25,Engineer,0 
+2913 ,30 ,Other,Berlin,Bronze,82 ,1372 ,Electronics,2023/7/4,Artist,1 
+2914 ,36 ,Female,San Francisco,Platinum,36 ,2853 ,Electronics,2023/12/15,Retired,1 
+2915 ,53 ,Male,Berlin,Platinum,13 ,864 ,Toys,2023/11/12,Teacher,1 
+2916 ,44 ,Male,San Francisco,Silver,39 ,747 ,Toys,2023/6/27,Artist,1 
+2917 ,31 ,Other,San Francisco,Silver,79 ,1432 ,Electronics,2023/4/19,Engineer,0 
+2918 ,43 ,Other,London,Platinum,38 ,650 ,Sports,2023/3/11,Engineer,1 
+2919 ,18 ,Other,Tokyo,Silver,81 ,378 ,Toys,2023/3/24,Teacher,0 
+2920 ,40 ,Other,San Francisco,Gold,5 ,335 ,Books,2023/9/20,Artist,0 
+2921 ,32 ,Female,Sydney,Platinum,96 ,421 ,Toys,2023/12/31,Engineer,0 
+2922 ,28 ,Male,London,Bronze,92 ,1178 ,Electronics,2023/6/10,Engineer,1 
+2923 ,57 ,Male,Boston,Silver,57 ,613 ,Sports,2023/6/20,Student,1 
+2924 ,29 ,Other,Berlin,Gold,81 ,292 ,Books,2023/11/30,Engineer,0 
+2925 ,37 ,Male,Berlin,Gold,32 ,218 ,Books,2023/5/8,Artist,0 
+2926 ,27 ,Male,Boston,Platinum,13 ,784 ,Home Goods,2023/8/19,Retired,1 
+2927 ,53 ,Female,London,Platinum,10 ,1768 ,Clothing,2023/6/23,Artist,1 
+2928 ,25 ,Female,Sydney,Bronze,31 ,457 ,Books,2023/10/30,Artist,1 
+2929 ,58 ,Other,Berlin,Bronze,79 ,481 ,Toys,2023/7/17,Salesperson,1 
+2930 ,20 ,Male,Tokyo,Gold,47 ,910 ,Toys,2023/3/9,Salesperson,1 
+2931 ,45 ,Female,San Francisco,Bronze,29 ,1561 ,Clothing,2023/9/22,Engineer,0 
+2932 ,42 ,Female,Boston,Gold,76 ,1047 ,Clothing,2023/6/23,Other,0 
+2933 ,20 ,Female,Tokyo,Gold,97 ,974 ,Clothing,2023/8/6,Teacher,0 
+2934 ,25 ,Female,Boston,Bronze,93 ,939 ,Toys,2023/11/26,Retired,0 
+2935 ,39 ,Female,Sydney,Platinum,49 ,975 ,Toys,2023/3/24,Student,1 
+2936 ,37 ,Male,Boston,Silver,47 ,1045 ,Sports,2023/2/9,Engineer,0 
+2937 ,32 ,Female,Sydney,Platinum,94 ,1711 ,Clothing,2023/7/7,Artist,0 
+2938 ,31 ,Male,London,Silver,74 ,2412 ,Home Goods,2023/2/4,Student,1 
+2939 ,51 ,Other,Tokyo,Silver,76 ,531 ,Toys,2023/8/8,Salesperson,1 
+2940 ,36 ,Female,Boston,Gold,96 ,4570 ,Electronics,2023/7/25,Salesperson,0 
+2941 ,40 ,Other,Tokyo,Silver,77 ,355 ,Clothing,2023/12/30,Teacher,1 
+2942 ,35 ,Female,Sydney,Bronze,19 ,371 ,Books,2023/3/2,Doctor,1 
+2943 ,29 ,Other,London,Gold,81 ,385 ,Toys,2023/12/1,Salesperson,0 
+2944 ,46 ,Other,London,Silver,77 ,819 ,Electronics,2023/12/12,Doctor,0 
+2945 ,62 ,Other,Berlin,Bronze,76 ,680 ,Sports,2023/8/6,Other,1 
+2946 ,62 ,Female,Berlin,Gold,48 ,937 ,Clothing,2023/5/3,Teacher,1 
+2947 ,20 ,Other,London,Silver,64 ,104 ,Clothing,2023/8/29,Other,1 
+2948 ,21 ,Male,Berlin,Silver,56 ,1096 ,Clothing,2023/1/13,Teacher,0 
+2949 ,28 ,Male,Sydney,Bronze,68 ,1157 ,Electronics,2023/9/5,Doctor,1 
+2950 ,49 ,Male,Berlin,Platinum,96 ,1474 ,Clothing,2023/5/5,Doctor,0 
+2951 ,62 ,Female,Tokyo,Gold,1 ,351 ,Sports,2023/8/26,Teacher,1 
+2952 ,45 ,Other,London,Silver,3 ,322 ,Clothing,2023/5/31,Salesperson,1 
+2953 ,50 ,Male,Sydney,Silver,20 ,160 ,Books,2023/2/10,Retired,0 
+2954 ,56 ,Other,San Francisco,Silver,85 ,742 ,Toys,2023/9/28,Student,1 
+2955 ,68 ,Male,London,Silver,8 ,438 ,Sports,2023/7/2,Doctor,0 
+2956 ,47 ,Other,Berlin,Silver,78 ,170 ,Books,2023/5/8,Artist,1 
+2957 ,47 ,Other,London,Bronze,32 ,110 ,Books,2023/9/26,Engineer,1 
+2958 ,51 ,Male,London,Bronze,35 ,210 ,Books,2023/12/10,Doctor,0 
+2959 ,59 ,Male,London,Platinum,39 ,548 ,Toys,2023/5/9,Teacher,0 
+2960 ,61 ,Male,Tokyo,Gold,55 ,323 ,Toys,2023/5/28,Student,0 
+2961 ,19 ,Other,London,Bronze,41 ,998 ,Sports,2023/2/2,Other,1 
+2962 ,59 ,Female,Sydney,Silver,43 ,496 ,Toys,2023/2/23,Student,1 
+2963 ,67 ,Male,Berlin,Gold,59 ,629 ,Toys,2023/3/27,Other,1 
+2964 ,43 ,Other,Tokyo,Platinum,87 ,3315 ,Electronics,2023/8/16,Retired,1 
+2965 ,39 ,Other,Boston,Gold,17 ,2170 ,Home Goods,2023/12/25,Retired,0 
+2966 ,66 ,Other,Berlin,Bronze,68 ,70 ,Books,2023/1/31,Retired,0 
+2967 ,63 ,Male,Tokyo,Platinum,78 ,1242 ,Electronics,2023/5/6,Artist,0 
+2968 ,66 ,Other,Berlin,Silver,7 ,321 ,Home Goods,2023/6/28,Other,0 
+2969 ,18 ,Other,London,Silver,5 ,443 ,Books,2023/5/30,Salesperson,0 
+2970 ,56 ,Female,Tokyo,Silver,59 ,2974 ,Home Goods,2023/12/2,Artist,1 
+2971 ,25 ,Female,Sydney,Platinum,69 ,959 ,Toys,2023/9/27,Retired,1 
+2972 ,39 ,Male,Boston,Silver,40 ,4107 ,Electronics,2023/2/23,Retired,1 
+2973 ,23 ,Male,Sydney,Silver,30 ,430 ,Clothing,2023/3/20,Doctor,1 
+2974 ,33 ,Other,Tokyo,Silver,75 ,281 ,Books,2023/5/16,Other,0 
+2975 ,31 ,Male,Berlin,Silver,22 ,1082 ,Sports,2023/4/27,Salesperson,0 
+2976 ,34 ,Other,Sydney,Platinum,28 ,483 ,Toys,2023/11/11,Salesperson,1 
+2977 ,51 ,Male,Tokyo,Silver,85 ,734 ,Sports,2023/12/4,Retired,1 
+2978 ,68 ,Female,Tokyo,Bronze,3 ,217 ,Books,2023/12/28,Student,0 
+2979 ,48 ,Male,Boston,Bronze,52 ,2201 ,Home Goods,2023/11/16,Engineer,1 
+2980 ,54 ,Female,London,Bronze,48 ,500 ,Sports,2023/9/21,Retired,1 
+2981 ,50 ,Female,Boston,Gold,58 ,380 ,Books,2023/2/25,Other,1 
+2982 ,26 ,Male,San Francisco,Silver,9 ,145 ,Toys,2023/2/22,Other,0 
+2983 ,62 ,Other,San Francisco,Gold,97 ,386 ,Books,2023/10/10,Retired,0 
+2984 ,58 ,Female,San Francisco,Silver,2 ,1235 ,Clothing,2023/2/13,Teacher,0 
+2985 ,21 ,Other,San Francisco,Silver,42 ,109 ,Toys,2023/10/26,Teacher,1 
+2986 ,42 ,Other,Boston,Gold,23 ,1803 ,Home Goods,2023/3/1,Other,0 
+2987 ,32 ,Female,Tokyo,Platinum,41 ,473 ,Books,2023/9/8,Other,1 
+2988 ,21 ,Other,Boston,Bronze,98 ,1028 ,Home Goods,2023/8/1,Doctor,1 
+2989 ,68 ,Female,Berlin,Gold,85 ,359 ,Clothing,2023/7/28,Student,1 
