@@ -1,7 +1,7 @@
 # WQD7005 Data Mining Project - Customer Behavior Analysis
 
 ### Repository Link
-[Project Repository](https://github.com/ChristineLzy/WQD7005_AA1)
+[Project Repository]([https://github.com/ChristineLzy/WQD7005_AA1](https://github.com/ChristineLzy/WQD7005_AA1))
 
 ## Overview
 This project focuses on analyzing customer behavior using decision tree and ensemble methods. It incorporates data preprocessing, model development, and insights extraction.
