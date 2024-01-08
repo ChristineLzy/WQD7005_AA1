@@ -20,7 +20,7 @@
 2023-11-16 19:59:26.608 (7564): beginthread: send, connection=tab.pipe://./pipe/{A21EF73E-0A6A-4A97-AFA4-18D1BA937A86}
 2023-11-16 19:59:26.608 (18040): tdeserver: open session, connection=tab.pipe://./pipe/{A21EF73E-0A6A-4A97-AFA4-18D1BA937A86}, sess_guid=1
 2023-11-16 19:59:26.608 (17644): Session1: QueryExecute:
-2023-11-16 19:59:26.608 (17644): (create database "D:\\Users\\christine\\Talend-DataPreparation-Free-Desktop-windows-2.1.1\\115309281744754099.tde")
+2023-11-16 19:59:26.608 (17644): (create database "\\Users\\christine\\Talend-DataPreparation-Free-Desktop-windows-2.1.1\\115309281744754099.tde")
 2023-11-16 19:59:29.745 (17644): Session1: QueryExecute: OK
 2023-11-16 19:59:29.782 (5520): Session1: QueryExecute:
 2023-11-16 19:59:29.782 (5520): (create schema [Extract])
@@ -40,7 +40,7 @@
 2023-11-16 19:59:31.973 (17644): Session1: InsertClose: OK
 2023-11-16 19:59:31.974 (5520): Session1: QueryExecute:
 2023-11-16 19:59:31.974 (5520): (package)
-2023-11-16 19:59:31.974 (5520): PackageDatabase: in-place package of "D:\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\115309281744754099.tde"
+2023-11-16 19:59:31.974 (5520): PackageDatabase: in-place package of "\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\115309281744754099.tde"
 2023-11-16 19:59:32.087 (5520): PackageDatabase: finished
 2023-11-16 19:59:32.087 (5520): Session1: QueryExecute: OK
 2023-11-16 19:59:32.087 (17644): Session1: QueryExecute:
@@ -69,17 +69,16 @@
 2023-11-16 19:59:33.400 (5520): Session1: QueryExecute: OK
 2023-11-16 19:59:33.400 (17644): Session1: QueryExecute:
 2023-11-16 19:59:33.400 (17644): (package)
-2023-11-16 19:59:33.400 (17644): PackageDatabase: in-place package of "D:\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\115309281744754099.tde"
+2023-11-16 19:59:33.400 (17644): PackageDatabase: in-place package of "\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\115309281744754099.tde"
 2023-11-16 19:59:33.491 (17644): PackageDatabase: finished
 2023-11-16 19:59:33.491 (17644): Session1: QueryExecute: OK
 2023-11-16 19:59:33.491 (18040): tdeserver: close session, connection=tab.pipe://./pipe/{A21EF73E-0A6A-4A97-AFA4-18D1BA937A86}, sess_guid=1
 2023-11-16 19:59:33.491 (5496): tdeserver: exit (0)
 2023-11-16 20:28:23.474 (8768): -----------------------------------------------------------------------------
 2023-11-16 20:28:23.474 (8768): Initializing fault reporting
-2023-11-16 20:28:23.474 (8768): Fault reporting log pathname: D:\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\tdeserver64-error000042a4.log
+2023-11-16 20:28:23.474 (8768): Fault reporting log pathname: \Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\tdeserver64-error000042a4.log
 2023-11-16 20:28:23.474 (8768): Initializing MiniDump
 2023-11-16 20:28:23.474 (8768): Loading 'DbgHelp.dll'
-2023-11-16 20:28:23.475 (8768): Loaded 'C:\Windows\SYSTEM32\DbgHelp.dll'
 2023-11-16 20:28:23.475 (8768):   Product Name: Microsoft® Windows® Operating System
 2023-11-16 20:28:23.475 (8768):   File Version: 10.0.19041.3570 (WinBuild.160101.0800)
 2023-11-16 20:28:23.475 (8768):   Product Version: 10.0.19041.3570
@@ -96,7 +95,6 @@
 2023-11-16 20:28:23.479 (20364): beginthread: send, connection=tab.pipe://./pipe/{47AFE528-9B0A-4020-9898-4B3C5632D0CB}
 2023-11-16 20:28:23.479 (22228): tdeserver: open session, connection=tab.pipe://./pipe/{47AFE528-9B0A-4020-9898-4B3C5632D0CB}, sess_guid=1
 2023-11-16 20:28:23.480 (5912): Session1: QueryExecute:
-2023-11-16 20:28:23.480 (5912): (create database "D:\\软件库\\新建文件夹\\Talend-DataPreparation-Free-Desktop-windows-2.1.1\\3789958609290561115.tde")
 2023-11-16 20:28:25.535 (5912): Session1: QueryExecute: OK
 2023-11-16 20:28:25.565 (8956): Session1: QueryExecute:
 2023-11-16 20:28:25.565 (8956): (create schema [Extract])
@@ -132,11 +130,11 @@
 2023-11-16 20:28:27.004 (5912): Session1: InsertClose: OK
 2023-11-16 20:28:27.004 (8956): Session1: QueryExecute:
 2023-11-16 20:28:27.004 (8956): (package)
-2023-11-16 20:28:27.005 (8956): PackageDatabase: in-place package of "D:\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\3789958609290561115.tde"
+2023-11-16 20:28:27.005 (8956): PackageDatabase: in-place package of "\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\3789958609290561115.tde"
 2023-11-16 20:28:27.078 (8956): PackageDatabase: finished
 2023-11-16 20:28:27.078 (8956): Session1: QueryExecute: OK
 2023-11-16 20:28:27.078 (5912): Session1: QueryExecute:
-2023-11-16 20:28:27.078 (5912): (database "D:\\Users\\christine\\Talend-DataPreparation-Free-Desktop-windows-2.1.1\\3789958609290561115.tde")
+2023-11-16 20:28:27.078 (5912): (database "\\Users\\christine\\Talend-DataPreparation-Free-Desktop-windows-2.1.1\\3789958609290561115.tde")
 2023-11-16 20:28:27.079 (5912): Session1: QueryExecute: OK
 2023-11-16 20:28:27.080 (8956): Session1: QueryExecute:
 2023-11-16 20:28:27.080 (8956): (show schemas)
@@ -173,17 +171,16 @@
 2023-11-16 20:28:27.930 (8956): Session1: QueryExecute: OK
 2023-11-16 20:28:27.930 (5912): Session1: QueryExecute:
 2023-11-16 20:28:27.930 (5912): (package)
-2023-11-16 20:28:27.930 (5912): PackageDatabase: in-place package of "D:\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\3789958609290561115.tde"
+2023-11-16 20:28:27.930 (5912): PackageDatabase: in-place package of "\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\3789958609290561115.tde"
 2023-11-16 20:28:27.985 (5912): PackageDatabase: finished
 2023-11-16 20:28:27.985 (5912): Session1: QueryExecute: OK
 2023-11-16 20:28:27.986 (22228): tdeserver: close session, connection=tab.pipe://./pipe/{47AFE528-9B0A-4020-9898-4B3C5632D0CB}, sess_guid=1
 2023-11-16 20:28:27.986 (8768): tdeserver: exit (0)
 2024-01-07 05:39:42.041 (10192): -----------------------------------------------------------------------------
 2024-01-07 05:39:42.041 (10192): Initializing fault reporting
-2024-01-07 05:39:42.041 (10192): Fault reporting log pathname: D:\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\tdeserver64-error00001e70.log
+2024-01-07 05:39:42.041 (10192): Fault reporting log pathname: \Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\tdeserver64-error00001e70.log
 2024-01-07 05:39:42.041 (10192): Initializing MiniDump
 2024-01-07 05:39:42.041 (10192): Loading 'DbgHelp.dll'
-2024-01-07 05:39:42.042 (10192): Loaded 'C:\Windows\SYSTEM32\DbgHelp.dll'
 2024-01-07 05:39:42.042 (10192):   Product Name: Microsoft® Windows® Operating System
 2024-01-07 05:39:42.042 (10192):   File Version: 10.0.19041.3636 (WinBuild.160101.0800)
 2024-01-07 05:39:42.042 (10192):   Product Version: 10.0.19041.3636
@@ -200,7 +197,7 @@
 2024-01-07 05:39:42.045 (17832): beginthread: send, connection=tab.pipe://./pipe/{1092CF37-DC4D-4FB9-B0D8-32DCF781FAE9}
 2024-01-07 05:39:42.045 (13036): tdeserver: open session, connection=tab.pipe://./pipe/{1092CF37-DC4D-4FB9-B0D8-32DCF781FAE9}, sess_guid=1
 2024-01-07 05:39:42.046 (21672): Session1: QueryExecute:
-2024-01-07 05:39:42.046 (21672): (create database "D:\\Users\\christine\\Talend-DataPreparation-Free-Desktop-windows-2.1.1\\2662329941555655462.tde")
+2024-01-07 05:39:42.046 (21672): (create database "\\Users\\christine\\Talend-DataPreparation-Free-Desktop-windows-2.1.1\\2662329941555655462.tde")
 2024-01-07 05:39:44.805 (21672): Session1: QueryExecute: OK
 2024-01-07 05:39:45.037 (11572): Session1: QueryExecute:
 2024-01-07 05:39:45.037 (11572): (create schema [Extract])
@@ -234,7 +231,7 @@
 2024-01-07 05:39:49.109 (11572): Session1: QueryExecute: OK
 2024-01-07 05:39:49.109 (21672): Session1: QueryExecute:
 2024-01-07 05:39:49.109 (21672): (package)
-2024-01-07 05:39:49.109 (21672): PackageDatabase: in-place package of "D:\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\2662329941555655462.tde"
+2024-01-07 05:39:49.109 (21672): PackageDatabase: in-place package of "\Users\christine\Talend-DataPreparation-Free-Desktop-windows-2.1.1\2662329941555655462.tde"
 2024-01-07 05:39:49.168 (21672): PackageDatabase: finished
 2024-01-07 05:39:49.168 (21672): Session1: QueryExecute: OK
 2024-01-07 05:39:49.168 (13036): tdeserver: close session, connection=tab.pipe://./pipe/{1092CF37-DC4D-4FB9-B0D8-32DCF781FAE9}, sess_guid=1
